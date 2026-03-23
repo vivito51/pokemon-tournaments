@@ -1,8 +1,12 @@
 from ics import Calendar, Event
 from datetime import datetime
 
+from app.core.settings import get_settings
+
 
 def generate_calendar(events):
+    settings = get_settings()
+    settings.calendar_path.parent.mkdir(parents=True, exist_ok=True)
 
     cal = Calendar()
 
@@ -16,5 +20,5 @@ def generate_calendar(events):
 
         cal.events.add(event)
 
-    with open("pokemon_madrid.ics","w") as f:
+    with open(settings.calendar_path, "w") as f:
         f.writelines(cal)

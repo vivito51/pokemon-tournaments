@@ -1,4 +1,7 @@
 import json
+from pathlib import Path
+
+from app.core.settings import get_settings
 
 def load_events(path="events.json"):
     with open(path) as f:
@@ -29,6 +32,9 @@ def deduplicate_events(events):
 
 
 def save_events(events, path="events_clean.json"):
-
-    with open(path, "w") as f:
+    target_path = (
+        get_settings().clean_events_path if path == "events_clean.json" else Path(path)
+    )
+    target_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(target_path, "w") as f:
         json.dump(events, f, indent=4)

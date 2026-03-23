@@ -1,5 +1,8 @@
 import random
 import time
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 def human_delay(a=0.4, b=1.2):
@@ -7,16 +10,15 @@ def human_delay(a=0.4, b=1.2):
 
 
 def setup_madrid_search(page):
-
-    print("Setting up Madrid search automatically")
+    logger.info("Setting up Madrid search automatically")
 
     # aceptar cookies
     try:
         time.sleep(15)
         page.get_by_text("Accept All").click()
-        print("Cookies accepted")
+        logger.info("Cookies accepted")
         human_delay()
-    except:
+    except Exception:
         pass
 
     page.locator("input[placeholder='Enter your city']").first.click()
@@ -32,6 +34,6 @@ def setup_madrid_search(page):
 
     page.get_by_text("Search Locations").click()
 
-    print("Search executed")
+    logger.info("Search executed")
 
     human_delay(3, 5)

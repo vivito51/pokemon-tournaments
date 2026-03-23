@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: pokemon-madrid-events-api
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: CORS_ORIGINS
+        sync: false
+      - key: FRONTEND_URL
+        sync: false
+      - key: DB_PATH
+        value: /opt/render/project/src/data/events.db
+      - key: DATA_DIR
+        value: /opt/render/project/src/data
+      - key: RAW_EVENTS_PATH
+        value: /opt/render/project/src/data/events_raw.json
+      - key: CLEAN_EVENTS_PATH
+        value: /opt/render/project/src/data/events_clean.json
+      - key: CALENDAR_PATH
+        value: /opt/render/project/src/data/pokemon_madrid.ics
+      - key: SCRAPER_HEADLESS
+        value: "false"

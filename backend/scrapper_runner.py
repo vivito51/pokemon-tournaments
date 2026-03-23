@@ -1,17 +1,27 @@
 import json
+import logging
 import time
 from playwright.sync_api import sync_playwright
 
+from app.core.settings import get_settings
 from app.scrapers.search_setup import setup_madrid_search
 from app.scrapers.store_scraper import register_store_listener, wait_for_store_results
 from app.scrapers.event_scraper import get_events_for_store
 
 from app.services.event_processor import deduplicate_events
 from app.services.calendar_generator import generate_calendar
-from app.services.database import create_tables, insert_event
+from app.services.database import create_tables, insert_event, reset_events
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
+)
+logger = logging.getLogger(__name__)
 
 
 def run():
+    settings = get_settings()
+    settings.data_dir.mkdir(parents=True, exist_ok=True)
 
     all_events = []
 
@@ -20,7 +30,7 @@ def run():
     with sync_playwright() as p:
 
         browser = p.chromium.launch(
-            headless=False,
+            headless=settings.scraper_headless,
             args=[
                 "--disable-blink-features=AutomationControlled",
             ]
@@ -46,43 +56,46 @@ def run():
 
         page.wait_for_timeout(5000)
 
-        print("Total stores detected:", len(stores))
+        logger.info("Total stores detected: %s", len(stores))
 
         for store in stores:
+            logger.info("Scraping store %s", store["name"])
+            store_events = []
+            try:
+                store_events = get_events_for_store(page, store["name"])
+            except Exception as err:
+                logger.exception("Store scraping failed for %s: %s", store["name"], err)
 
-            events = get_events_for_store(page, store["name"])
-
-            all_events.extend(events)
+            all_events.extend(store_events)
 
             time.sleep(2)
 
         browser.close()
 
     # guardar raw
-    with open("data/events_raw.json", "w") as f:
+    with open(settings.raw_events_path, "w") as f:
         json.dump(all_events, f, indent=4)
     
-    print("Raw events saved:", len(all_events))
+    logger.info("Raw events saved: %s", len(all_events))
 
     # limpiar
     clean_events = deduplicate_events(all_events)
 
-    with open("data/events_clean.json", "w") as f:
+    with open(settings.clean_events_path, "w") as f:
         json.dump(clean_events, f, indent=4)
 
-    print("Clean events:", len(clean_events))
+    logger.info("Clean events: %s", len(clean_events))
 
-    print("Storing events in database...")
-    # guardar en DB
+    logger.info("Refreshing database events...")
+    reset_events()
     for e in clean_events:
         insert_event(e)
 
-    print("Events stored in database")
+    logger.info("Events stored in database")
 
-    # generar calendario
     generate_calendar(clean_events)
 
-    print("Calendar generated")
+    logger.info("Calendar generated at %s", settings.calendar_path)
 
 if __name__ == "__main__":
     run()

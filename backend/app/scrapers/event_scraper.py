@@ -1,8 +1,13 @@
-def get_events_for_store(page, store_name):
+import logging
 
-    print(f"Opening store page for {store_name}")
+logger = logging.getLogger(__name__)
+
+
+def get_events_for_store(page, store_name):
+    logger.info("Opening store page for %s", store_name)
 
     events = []
+    data = None
 
     try:
 
@@ -17,7 +22,7 @@ def get_events_for_store(page, store_name):
 
         event_list = data["data"]["Result"]["List"]
 
-        print("Events detected:", len(event_list))
+        logger.info("Events detected for %s: %s", store_name, len(event_list))
 
         for event in event_list:
 
@@ -33,9 +38,9 @@ def get_events_for_store(page, store_name):
             })
 
     except Exception as err:
-
-        print("Error parsing events:", err)
-        print(data)
+        logger.exception("Error parsing events for %s: %s", store_name, err)
+        if data is not None:
+            logger.debug("Last response data for %s: %s", store_name, data)
 
     # volver atrás
     try:
@@ -47,7 +52,6 @@ def get_events_for_store(page, store_name):
         page.wait_for_timeout(1500)
 
     except Exception as err:
-
-        print("Back button failed:", err)
+        logger.warning("Back button failed for %s: %s", store_name, err)
 
     return events

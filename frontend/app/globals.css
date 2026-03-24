@@ -244,6 +244,12 @@ body::before {
   background: rgba(255, 255, 255, 0.05);
   padding: 0.95rem 1rem;
   color: white;
+  color-scheme: dark;
+}
+
+.select-field option {
+  background-color: #120707;
+  color: #f4f4f5;
 }
 
 .select-field:focus,

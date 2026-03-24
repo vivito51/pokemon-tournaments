@@ -147,3 +147,11 @@ export function formatLongDate(value) {
     day: "numeric",
   });
 }
+
+export function getHistoryModalState() {
+  if (typeof window === "undefined") {
+    return null;
+  }
+
+  return window.history.state?.modal ?? null;
+}

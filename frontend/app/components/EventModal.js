@@ -2,7 +2,7 @@
 
 import { formatLongDate, TYPE_SYMBOLS } from "@/app/lib/events";
 
-export default function EventModal({ game, selectedEvent, setSelectedEvent }) {
+export default function EventModal({ game, selectedEvent, onClose }) {
   if (!selectedEvent) {
     return null;
   }
@@ -10,7 +10,7 @@ export default function EventModal({ game, selectedEvent, setSelectedEvent }) {
   return (
     <div
       className="modal-backdrop fixed inset-0 z-50 flex items-center justify-center bg-black/75 p-5"
-      onClick={() => setSelectedEvent(null)}
+      onClick={onClose}
     >
       <div
         className="panel modal-panel event-modal-sheet max-h-[90vh] w-full max-w-lg overflow-y-auto rounded-[28px] border border-white/10 p-6"
@@ -27,7 +27,7 @@ export default function EventModal({ game, selectedEvent, setSelectedEvent }) {
           <button
             type="button"
             className="close-button"
-            onClick={() => setSelectedEvent(null)}
+            onClick={onClose}
           >
             ✕
           </button>

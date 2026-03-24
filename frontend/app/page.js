@@ -15,6 +15,7 @@ import {
   deriveStores,
   filterRawEvents,
   formatCalendarEvent,
+  getHistoryModalState,
   getDataMode,
   STATIC_EVENTS_PATH,
 } from "@/app/lib/events";
@@ -31,6 +32,23 @@ export default function Home() {
   const [filters, setFilters] = useState(INITIAL_FILTERS);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
+
+  useEffect(() => {
+    const handlePopState = () => {
+      if (selectedEvent) {
+        setSelectedEvent(null);
+        return;
+      }
+
+      if (selectedDate) {
+        setSelectedDate(null);
+      }
+    };
+
+    window.addEventListener("popstate", handlePopState);
+
+    return () => window.removeEventListener("popstate", handlePopState);
+  }, [selectedDate, selectedEvent]);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -83,6 +101,36 @@ export default function Home() {
     setEvents(filteredEvents.map((event) => formatCalendarEvent(event, colorMap)));
   }, [filters, game, rawEvents, store]);
 
+  useEffect(() => {
+    if (selectedDate) {
+      window.history.pushState({ modal: "day-events" }, "");
+    }
+  }, [selectedDate]);
+
+  useEffect(() => {
+    if (selectedEvent) {
+      window.history.pushState({ modal: "event" }, "");
+    }
+  }, [selectedEvent]);
+
+  const closeSelectedDate = () => {
+    if (getHistoryModalState() === "day-events") {
+      window.history.back();
+      return;
+    }
+
+    setSelectedDate(null);
+  };
+
+  const closeSelectedEvent = () => {
+    if (getHistoryModalState() === "event") {
+      window.history.back();
+      return;
+    }
+
+    setSelectedEvent(null);
+  };
+
   const selectedDayEvents = selectedDate
     ? events
         .filter((event) => event.start.startsWith(selectedDate))
@@ -118,15 +166,15 @@ export default function Home() {
 
       <EventModal
         game={game}
+        onClose={closeSelectedEvent}
         selectedEvent={selectedEvent}
-        setSelectedEvent={setSelectedEvent}
       />
 
       <DayEventsModal
         game={game}
+        onClose={closeSelectedDate}
         selectedDate={selectedDate}
         selectedDayEvents={selectedDayEvents}
-        setSelectedDate={setSelectedDate}
         setSelectedEvent={setSelectedEvent}
       />
     </main>

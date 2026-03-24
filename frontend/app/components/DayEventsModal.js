@@ -4,9 +4,9 @@ import { formatLongDate, TYPE_SYMBOLS } from "@/app/lib/events";
 
 export default function DayEventsModal({
   game,
+  onClose,
   selectedDate,
   selectedDayEvents,
-  setSelectedDate,
   setSelectedEvent,
 }) {
   if (!selectedDate) {
@@ -16,7 +16,7 @@ export default function DayEventsModal({
   return (
     <div
       className="modal-backdrop fixed inset-0 z-50 flex items-center justify-center bg-black/75 p-5"
-      onClick={() => setSelectedDate(null)}
+      onClick={onClose}
     >
       <div
         className="panel modal-panel day-events-sheet max-h-[90vh] w-full max-w-3xl overflow-y-auto rounded-[28px] border border-white/10 p-6"
@@ -35,7 +35,7 @@ export default function DayEventsModal({
           <button
             type="button"
             className="close-button"
-            onClick={() => setSelectedDate(null)}
+            onClick={onClose}
           >
             ✕
           </button>
@@ -59,7 +59,7 @@ export default function DayEventsModal({
                     address: event.extendedProps.address,
                     game: event.extendedProps.game,
                   });
-                  setSelectedDate(null);
+                  onClose();
                 }}
               >
                 <div className="flex flex-wrap items-start justify-between gap-3">

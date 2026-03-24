@@ -6,6 +6,8 @@ import FullCalendar from "@fullcalendar/react";
 import dayGridPlugin from "@fullcalendar/daygrid";
 import esLocale from "@fullcalendar/core/locales/es";
 
+import { TYPE_SYMBOLS } from "@/app/lib/events";
+
 function toDateKey(date) {
   const year = date.getFullYear();
   const month = String(date.getMonth() + 1).padStart(2, "0");
@@ -140,6 +142,7 @@ function MobileWeekList({ events, onDateSelect, onEventSelect }) {
                         {event.extendedProps.time}
                       </span>
                       <span className="mobile-week-event-title">
+                        {TYPE_SYMBOLS[event.extendedProps.type] ?? "•"}{" "}
                         {event.extendedProps.store}
                       </span>
                     </button>

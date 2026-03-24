@@ -2,11 +2,16 @@ import random
 import time
 import logging
 
+from app.core.settings import get_settings
+
 logger = logging.getLogger(__name__)
 
 
-def human_delay(a=0.4, b=1.2):
-    time.sleep(random.uniform(a, b))
+def human_delay(a=None, b=None):
+    settings = get_settings()
+    min_delay = settings.scraper_action_delay_min if a is None else a
+    max_delay = settings.scraper_action_delay_max if b is None else b
+    time.sleep(random.uniform(min_delay, max_delay))
 
 
 def setup_madrid_search(page):
@@ -17,23 +22,23 @@ def setup_madrid_search(page):
         time.sleep(15)
         page.get_by_text("Accept All").click()
         logger.info("Cookies accepted")
-        human_delay()
+        human_delay(1.5, 2.8)
     except Exception:
         pass
 
     page.locator("input[placeholder='Enter your city']").first.click()
-    human_delay()
+    human_delay(1.2, 2.4)
 
     page.keyboard.type("Madrid", delay=50)
-    human_delay()
+    human_delay(1.5, 2.6)
     
     # Presionar Enter para seleccionar la opción
     page.keyboard.press("Enter")
 
-    human_delay()
+    human_delay(1.2, 2.2)
 
     page.get_by_text("Search Locations").click()
 
     logger.info("Search executed")
 
-    human_delay(3, 5)
+    human_delay(4, 7)

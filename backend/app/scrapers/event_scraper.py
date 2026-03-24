@@ -49,7 +49,7 @@ def get_events_for_store(page, store_name):
 
         page.wait_for_selector("text=Search")
 
-        page.wait_for_timeout(1500)
+        page.wait_for_timeout(2500)
 
     except Exception as err:
         logger.warning("Back button failed for %s: %s", store_name, err)

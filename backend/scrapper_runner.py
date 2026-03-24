@@ -69,7 +69,7 @@ def run():
 
             all_events.extend(store_events)
 
-            time.sleep(2)
+            time.sleep(settings.scraper_store_delay_seconds)
 
         browser.close()
 

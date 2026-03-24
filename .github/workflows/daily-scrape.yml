@@ -3,7 +3,6 @@ name: Daily Pokemon Events Scrape
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"
     - cron: "0 7 * * *"
 
 permissions:
@@ -22,14 +21,6 @@ jobs:
         with:
           python-version: "3.13"
 
-      - name: Skip run unless it is 08:00 in Madrid
-        run: |
-          MADRID_HOUR=$(TZ=Europe/Madrid date +%H)
-          if [ "$MADRID_HOUR" != "08" ]; then
-            echo "Not the target local hour in Madrid. Skipping."
-            exit 0
-          fi
-
       - name: Install backend dependencies
         working-directory: backend
         run: |
@@ -45,6 +36,9 @@ jobs:
         env:
           SCRAPER_HEADLESS: "false"
           FRONTEND_EVENTS_PATH: ../frontend/public/data/events_clean.json
+          SCRAPER_ACTION_DELAY_MIN: "1.2"
+          SCRAPER_ACTION_DELAY_MAX: "2.8"
+          SCRAPER_STORE_DELAY_SECONDS: "5.0"
         run: xvfb-run -a python scrapper_runner.py
 
       - name: Commit updated event data

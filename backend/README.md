@@ -16,6 +16,8 @@ Variables principales:
 - `CORS_ORIGINS`: lista separada por comas con los orígenes permitidos.
 - `FRONTEND_URL`: URL pública del frontend para añadirla a CORS.
 - `SCRAPER_HEADLESS`: `false` por defecto para no tocar el flujo Playwright que ya funciona.
+- `SCRAPER_ACTION_DELAY_MIN` y `SCRAPER_ACTION_DELAY_MAX`: pausas entre acciones para hacer el scraping mas humano.
+- `SCRAPER_STORE_DELAY_SECONDS`: pausa entre tiendas.
 
 ## Arranque de la API
 

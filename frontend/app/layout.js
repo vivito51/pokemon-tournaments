@@ -17,8 +17,13 @@ const orbitron = Orbitron({
 });
 
 export const metadata = {
-  title: "Pokemon Madrid Events",
+  title: "Madrid Tournament Radar",
   description: "Calendario publico de torneos y eventos oficiales de Pokemon en Madrid.",
+  icons: {
+    icon: "/images/logo.png",
+    shortcut: "/images/logo.png",
+    apple: "/images/logo.png",
+  },
 };
 
 export default function RootLayout({ children }) {

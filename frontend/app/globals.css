@@ -171,10 +171,17 @@ body::before {
 .filter-chip,
 .close-button,
 .map-link,
-.day-event-card,
-.select-field {
+.day-event-card {
   transition:
     transform 140ms ease,
+    border-color 140ms ease,
+    background-color 140ms ease,
+    box-shadow 140ms ease,
+    color 140ms ease;
+}
+
+.select-field {
+  transition:
     border-color 140ms ease,
     background-color 140ms ease,
     box-shadow 140ms ease,
@@ -220,9 +227,12 @@ body::before {
 .filter-chip:hover,
 .close-button:hover,
 .map-link:hover,
-.day-event-card:hover,
-.select-field:hover {
+.day-event-card:hover {
   transform: translateY(-1px);
+  border-color: rgba(255, 255, 255, 0.16);
+}
+
+.select-field:hover {
   border-color: rgba(255, 255, 255, 0.16);
 }
 

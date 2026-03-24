@@ -185,6 +185,12 @@ export default function Home() {
             onEventSelect={openSelectedEvent}
           />
         </section>
+
+        <footer className="site-credit px-1 pb-2 text-center">
+          <p className="site-credit-text">
+            Developed by <span className="site-credit-brand">Get Vicented</span>
+          </p>
+        </footer>
       </div>
 
       <EventModal

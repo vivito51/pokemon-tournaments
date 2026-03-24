@@ -61,6 +61,22 @@ body::before {
   position: relative;
 }
 
+.site-credit {
+  color: rgba(228, 228, 231, 0.68);
+}
+
+.site-credit-text {
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.site-credit-brand {
+  color: rgba(255, 255, 255, 0.9);
+  font-family: var(--font-orbitron), sans-serif;
+  letter-spacing: 0.18em;
+}
+
 .hero-panel,
 .panel,
 .calendar-shell,

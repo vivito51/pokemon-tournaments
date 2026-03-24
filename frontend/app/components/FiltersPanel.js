@@ -1,6 +1,6 @@
 "use client";
 
-import { TYPE_LABELS, TYPE_SYMBOLS } from "@/app/lib/events";
+import { formatLastSync, TYPE_LABELS, TYPE_SYMBOLS } from "@/app/lib/events";
 
 export default function FiltersPanel({
   error,
@@ -8,6 +8,7 @@ export default function FiltersPanel({
   game,
   gameOptions,
   loading,
+  updatedAt,
   setFilters,
   setGame,
   setStore,
@@ -28,7 +29,7 @@ export default function FiltersPanel({
           <span
             className={`status-pill ${loading ? "status-pill-live" : "status-pill-idle"}`}
           >
-            {loading ? "Actualizando eventos" : "Sincronizado"}
+            {loading ? "Actualizando eventos" : formatLastSync(updatedAt)}
           </span>
           {error ? <span className="status-pill status-pill-error">{error}</span> : null}
         </div>

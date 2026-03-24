@@ -47,6 +47,20 @@ export function getDataMode() {
   return API_BASE_URL ? "api" : "static";
 }
 
+export function parseEventsPayload(payload) {
+  if (Array.isArray(payload)) {
+    return {
+      events: payload,
+      updatedAt: null,
+    };
+  }
+
+  return {
+    events: payload?.events ?? [],
+    updatedAt: payload?.updatedAt ?? null,
+  };
+}
+
 export function normalizeStoreName(storeName) {
   return storeName ? storeName.replace(/\s+S\.L\.?$/i, "").trim() : "";
 }
@@ -154,4 +168,18 @@ export function getHistoryModalState() {
   }
 
   return window.history.state?.modal ?? null;
+}
+
+export function formatLastSync(updatedAt) {
+  if (!updatedAt) {
+    return "Sincronizado";
+  }
+
+  return `Sincronizado por ultima vez a las ${new Date(updatedAt).toLocaleString("es-ES", {
+    hour: "2-digit",
+    minute: "2-digit",
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+  })}`;
 }

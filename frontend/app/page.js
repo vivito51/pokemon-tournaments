@@ -17,6 +17,7 @@ import {
   formatCalendarEvent,
   getHistoryModalState,
   getDataMode,
+  parseEventsPayload,
   STATIC_EVENTS_PATH,
 } from "@/app/lib/events";
 
@@ -32,6 +33,7 @@ export default function Home() {
   const [filters, setFilters] = useState(INITIAL_FILTERS);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
+  const [updatedAt, setUpdatedAt] = useState(null);
 
   useEffect(() => {
     const handlePopState = () => {
@@ -69,9 +71,10 @@ export default function Home() {
           throw new Error("No se pudieron cargar los eventos.");
         }
 
-        const data = await response.json();
-        setRawEvents(data);
-        setStores(deriveStores(data));
+        const payload = parseEventsPayload(await response.json());
+        setRawEvents(payload.events);
+        setStores(deriveStores(payload.events));
+        setUpdatedAt(payload.updatedAt);
       } catch (fetchError) {
         if (fetchError.name !== "AbortError") {
           setError(
@@ -82,6 +85,7 @@ export default function Home() {
           setRawEvents([]);
           setEvents([]);
           setStores([]);
+          setUpdatedAt(null);
         }
       } finally {
         if (!controller.signal.aborted) {
@@ -149,6 +153,7 @@ export default function Home() {
             game={game}
             gameOptions={GAME_OPTIONS}
             loading={loading}
+            updatedAt={updatedAt}
             setFilters={setFilters}
             setGame={setGame}
             setStore={setStore}

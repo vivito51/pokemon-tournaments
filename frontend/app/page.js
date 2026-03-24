@@ -12,10 +12,16 @@ import {
   GAME_OPTIONS,
   INITIAL_FILTERS,
   buildStoreColorMap,
+  deriveStores,
+  filterRawEvents,
   formatCalendarEvent,
+  getDataMode,
+  STATIC_EVENTS_PATH,
 } from "@/app/lib/events";
 
 export default function Home() {
+  const dataMode = getDataMode();
+  const [rawEvents, setRawEvents] = useState([]);
   const [events, setEvents] = useState([]);
   const [stores, setStores] = useState([]);
   const [selectedEvent, setSelectedEvent] = useState(null);
@@ -29,50 +35,15 @@ export default function Home() {
   useEffect(() => {
     const controller = new AbortController();
 
-    async function loadStores() {
-      try {
-        const response = await fetch(`${API_BASE_URL}/stores`, {
-          signal: controller.signal,
-        });
-
-        if (!response.ok) {
-          throw new Error("No se pudieron cargar las tiendas.");
-        }
-
-        const data = await response.json();
-        setStores(data);
-      } catch (fetchError) {
-        if (fetchError.name !== "AbortError") {
-          setError("No se pudieron cargar las tiendas.");
-        }
-      }
-    }
-
-    loadStores();
-
-    return () => controller.abort();
-  }, []);
-
-  useEffect(() => {
-    const controller = new AbortController();
-
-    async function loadEvents() {
+    async function loadInitialData() {
       setLoading(true);
       setError("");
 
       try {
-        const activeTypes = Object.keys(filters).filter((type) => filters[type]);
-        const params = new URLSearchParams({ game });
+        const targetUrl =
+          dataMode === "api" ? `${API_BASE_URL}/events` : STATIC_EVENTS_PATH;
 
-        if (activeTypes.length) {
-          params.set("types", activeTypes.join(","));
-        }
-
-        if (store) {
-          params.set("store", store);
-        }
-
-        const response = await fetch(`${API_BASE_URL}/events?${params.toString()}`, {
+        const response = await fetch(targetUrl, {
           signal: controller.signal,
         });
 
@@ -81,14 +52,18 @@ export default function Home() {
         }
 
         const data = await response.json();
-        const colorMap = buildStoreColorMap(data);
-        setEvents(data.map((event) => formatCalendarEvent(event, colorMap)));
+        setRawEvents(data);
+        setStores(deriveStores(data));
       } catch (fetchError) {
         if (fetchError.name !== "AbortError") {
           setError(
-            "No se pudieron cargar los eventos. Comprueba que el backend este activo.",
+            dataMode === "api"
+              ? "No se pudieron cargar los eventos. Comprueba que el backend este activo."
+              : "No se pudieron cargar los datos publicados del calendario.",
           );
+          setRawEvents([]);
           setEvents([]);
+          setStores([]);
         }
       } finally {
         if (!controller.signal.aborted) {
@@ -97,10 +72,16 @@ export default function Home() {
       }
     }
 
-    loadEvents();
+    loadInitialData();
 
     return () => controller.abort();
-  }, [filters, game, store]);
+  }, [dataMode]);
+
+  useEffect(() => {
+    const filteredEvents = filterRawEvents(rawEvents, { game, filters, store });
+    const colorMap = buildStoreColorMap(filteredEvents);
+    setEvents(filteredEvents.map((event) => formatCalendarEvent(event, colorMap)));
+  }, [filters, game, rawEvents, store]);
 
   const selectedDayEvents = selectedDate
     ? events

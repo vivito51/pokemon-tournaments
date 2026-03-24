@@ -1,5 +1,5 @@
-export const API_BASE_URL =
-  process.env.NEXT_PUBLIC_API_BASE_URL ?? "http://127.0.0.1:8000";
+export const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL ?? "";
+export const STATIC_EVENTS_PATH = "/data/events_clean.json";
 
 export const COLOR_PALETTE = [
   "#ef4444",
@@ -43,6 +43,10 @@ export const INITIAL_FILTERS = {
   Prerelease: false,
 };
 
+export function getDataMode() {
+  return API_BASE_URL ? "api" : "static";
+}
+
 export function normalizeStoreName(storeName) {
   return storeName ? storeName.replace(/\s+S\.L\.?$/i, "").trim() : "";
 }
@@ -75,6 +79,32 @@ export function buildStoreColorMap(rawEvents) {
       COLOR_PALETTE[index % COLOR_PALETTE.length],
     ]),
   );
+}
+
+export function deriveStores(rawEvents) {
+  return Array.from(
+    new Set(rawEvents.map((event) => normalizeStoreName(event.store)).filter(Boolean)),
+  ).sort();
+}
+
+export function filterRawEvents(rawEvents, { game, filters, store }) {
+  const activeTypes = Object.keys(filters).filter((type) => filters[type]);
+
+  return rawEvents.filter((event) => {
+    if (game && event.game !== game) {
+      return false;
+    }
+
+    if (activeTypes.length && !activeTypes.includes(event.type)) {
+      return false;
+    }
+
+    if (store && normalizeStoreName(event.store) !== store) {
+      return false;
+    }
+
+    return true;
+  });
 }
 
 export function formatCalendarEvent(event, colorMap) {

@@ -39,6 +39,7 @@ class Settings:
     raw_events_path: Path
     clean_events_path: Path
     calendar_path: Path
+    frontend_events_path: Path
     cors_origins: list[str]
     host: str
     port: int
@@ -72,6 +73,12 @@ def get_settings() -> Settings:
         raw_events_path=Path(os.getenv("RAW_EVENTS_PATH", data_dir / "events_raw.json")),
         clean_events_path=Path(os.getenv("CLEAN_EVENTS_PATH", data_dir / "events_clean.json")),
         calendar_path=calendar_path,
+        frontend_events_path=Path(
+            os.getenv(
+                "FRONTEND_EVENTS_PATH",
+                BACKEND_DIR.parent / "frontend" / "public" / "data" / "events_clean.json",
+            )
+        ),
         cors_origins=cors_origins,
         host=os.getenv("HOST", "0.0.0.0"),
         port=int(os.getenv("PORT", "8000")),

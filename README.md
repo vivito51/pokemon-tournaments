@@ -58,7 +58,7 @@ make backend-scrape
 make frontend-dev
 ```
 
-## Despliegue recomendado v1
+## Despliegue recomendado v1 gratis
 
 ### Frontend en Vercel
 
@@ -67,51 +67,29 @@ Segun la documentacion oficial de Vercel para monorepos, debes importar el repos
 - Vercel monorepos: https://vercel.com/docs/monorepos
 - Next.js en Vercel: https://vercel.com/docs/frameworks/nextjs
 
-Variable necesaria:
+Variable recomendada:
 
-- `NEXT_PUBLIC_API_BASE_URL=https://TU-BACKEND`
+- `NEXT_PUBLIC_API_BASE_URL=`
 
-### Backend en Render
+Con `NEXT_PUBLIC_API_BASE_URL` vacia, el frontend usa `frontend/public/data/events_clean.json`, que sera actualizado automaticamente por GitHub Actions.
 
-Segun la guia oficial de Render para FastAPI, el despliegue base usa:
+### Actualizacion automatica gratis con GitHub Actions
 
-- Build command: `pip install -r requirements.txt`
-- Start command: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+El workflow `.github/workflows/daily-scrape.yml` ejecuta el scraper una vez al dia a las 08:00 de Madrid.
 
-Fuentes oficiales:
+La programacion real se hace con dos horarios UTC y una comprobacion interna de `Europe/Madrid` para respetar el cambio de hora.
 
-- FastAPI en Render: https://render.com/docs/deploy-fastapi
-- Web services: https://render.com/docs/web-services
-- Persistent disks: https://render.com/docs/disks
+Flujo:
 
-Configuracion recomendada en Render:
+1. GitHub Actions ejecuta Playwright.
+2. El scraper actualiza `backend/data/` y `frontend/public/data/events_clean.json`.
+3. El workflow hace commit y push de los datos nuevos.
+4. Vercel redespliega automaticamente la web con los datos actualizados.
 
-- Root directory: `backend`
-- Build command: `pip install -r requirements.txt`
-- Start command: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
-- Health check path: `/health`
-- Environment variables:
-  - `CORS_ORIGINS=https://TU-FRONTEND.vercel.app`
-  - `FRONTEND_URL=https://TU-FRONTEND.vercel.app`
-  - `DB_PATH=/opt/render/project/src/data/events.db`
-  - `DATA_DIR=/opt/render/project/src/data`
-  - `RAW_EVENTS_PATH=/opt/render/project/src/data/events_raw.json`
-  - `CLEAN_EVENTS_PATH=/opt/render/project/src/data/events_clean.json`
-  - `CALENDAR_PATH=/opt/render/project/src/data/pokemon_madrid.ics`
-  - `SCRAPER_HEADLESS=false`
+## Flujo operativo de v1 gratis
 
-### Nota importante sobre SQLite
-
-Render indica en su documentacion que el filesystem es efimero por defecto y que para persistir archivos necesitas un **persistent disk** o un datastore externo:
-
-- https://render.com/docs/deploys
-- https://render.com/docs/disks
-
-Si mantienes SQLite en esta v1, debes montar un disco persistente y apuntar `DB_PATH` y `DATA_DIR` a esa ruta persistente.
-
-## Flujo operativo de v1
-
-1. Ejecutar scraper manualmente o cuando toque actualizar datos.
+1. GitHub Actions ejecuta el scraper.
 2. El scraper escribe JSON, SQLite e ICS.
-3. La API FastAPI solo lee esos datos ya generados.
-4. El frontend consume la API via `NEXT_PUBLIC_API_BASE_URL`.
+3. El scraper publica `frontend/public/data/events_clean.json`.
+4. El workflow sube esos cambios al repo.
+5. Vercel publica automaticamente la nueva version del frontend.

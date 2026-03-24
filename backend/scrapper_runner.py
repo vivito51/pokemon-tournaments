@@ -11,6 +11,7 @@ from app.scrapers.event_scraper import get_events_for_store
 from app.services.event_processor import deduplicate_events
 from app.services.calendar_generator import generate_calendar
 from app.services.database import create_tables, insert_event, reset_events
+from app.services.frontend_export import export_events_for_frontend
 
 logging.basicConfig(
     level=logging.INFO,
@@ -85,6 +86,9 @@ def run():
         json.dump(clean_events, f, indent=4)
 
     logger.info("Clean events: %s", len(clean_events))
+
+    export_events_for_frontend(clean_events)
+    logger.info("Frontend data exported at %s", settings.frontend_events_path)
 
     logger.info("Refreshing database events...")
     reset_events()

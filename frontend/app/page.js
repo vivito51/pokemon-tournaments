@@ -197,7 +197,7 @@ export default function Home() {
         game={game}
         onClose={closeSelectedDate}
         onEventSelect={(event) => openSelectedEvent(event, { preserveDay: true })}
-        selectedDate={selectedDate}
+        selectedDate={selectedEvent ? null : selectedDate}
         selectedDayEvents={selectedDayEvents}
       />
     </main>

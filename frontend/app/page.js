@@ -37,20 +37,21 @@ export default function Home() {
 
   useEffect(() => {
     const handlePopState = () => {
-      if (selectedEvent) {
+      const modalState = getHistoryModalState();
+
+      if (modalState === "day-events") {
         setSelectedEvent(null);
         return;
       }
 
-      if (selectedDate) {
-        setSelectedDate(null);
-      }
+      setSelectedEvent(null);
+      setSelectedDate(null);
     };
 
     window.addEventListener("popstate", handlePopState);
 
     return () => window.removeEventListener("popstate", handlePopState);
-  }, [selectedDate, selectedEvent]);
+  }, []);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -105,17 +106,34 @@ export default function Home() {
     setEvents(filteredEvents.map((event) => formatCalendarEvent(event, colorMap)));
   }, [filters, game, rawEvents, store]);
 
-  useEffect(() => {
-    if (selectedDate) {
-      window.history.pushState({ modal: "day-events" }, "");
-    }
-  }, [selectedDate]);
+  const updateModalHistory = (modal, { stack = false } = {}) => {
+    const currentState = getHistoryModalState();
 
-  useEffect(() => {
-    if (selectedEvent) {
-      window.history.pushState({ modal: "event" }, "");
+    if (!currentState || stack) {
+      window.history.pushState({ modal }, "");
+      return;
     }
-  }, [selectedEvent]);
+
+    window.history.replaceState({ modal }, "");
+  };
+
+  const openSelectedDate = (date) => {
+    setSelectedEvent(null);
+    setSelectedDate(date);
+    updateModalHistory("day-events");
+  };
+
+  const openSelectedEvent = (event, { preserveDay = false } = {}) => {
+    const isDayModalOpen = getHistoryModalState() === "day-events" && selectedDate;
+
+    setSelectedEvent(event);
+
+    if (!preserveDay) {
+      setSelectedDate(null);
+    }
+
+    updateModalHistory("event", { stack: Boolean(preserveDay && isDayModalOpen) });
+  };
 
   const closeSelectedDate = () => {
     if (getHistoryModalState() === "day-events") {
@@ -163,8 +181,8 @@ export default function Home() {
 
           <EventsCalendar
             events={events}
-            onDateSelect={setSelectedDate}
-            onEventSelect={setSelectedEvent}
+            onDateSelect={openSelectedDate}
+            onEventSelect={openSelectedEvent}
           />
         </section>
       </div>
@@ -178,9 +196,9 @@ export default function Home() {
       <DayEventsModal
         game={game}
         onClose={closeSelectedDate}
+        onEventSelect={(event) => openSelectedEvent(event, { preserveDay: true })}
         selectedDate={selectedDate}
         selectedDayEvents={selectedDayEvents}
-        setSelectedEvent={setSelectedEvent}
       />
     </main>
   );

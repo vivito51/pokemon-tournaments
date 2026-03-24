@@ -5,9 +5,9 @@ import { formatLongDate, TYPE_SYMBOLS } from "@/app/lib/events";
 export default function DayEventsModal({
   game,
   onClose,
+  onEventSelect,
   selectedDate,
   selectedDayEvents,
-  setSelectedEvent,
 }) {
   if (!selectedDate) {
     return null;
@@ -50,7 +50,7 @@ export default function DayEventsModal({
                 className="day-event-card text-left"
                 style={{ borderLeftColor: event.backgroundColor }}
                 onClick={() => {
-                  setSelectedEvent({
+                  onEventSelect({
                     title: event.extendedProps.fullTitle || event.title,
                     time: event.extendedProps.time,
                     store: event.extendedProps.store,
@@ -59,7 +59,6 @@ export default function DayEventsModal({
                     address: event.extendedProps.address,
                     game: event.extendedProps.game,
                   });
-                  onClose();
                 }}
               >
                 <div className="flex flex-wrap items-start justify-between gap-3">

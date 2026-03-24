@@ -1,22 +1,6 @@
 [
     {
         "name": "",
-        "date": "2026-03-17T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-03-21T09:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "",
         "date": "2026-03-24T16:00:00Z",
         "game": "tcg",
         "type": "League",
@@ -94,54 +78,6 @@
         "type": "League",
         "store": "OZ JUEGOS",
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "OZJUEGOS TCG Challenge Marzo",
-        "date": "2026-03-21T11:00:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "OZ JUEGOS",
-        "address": "13 P.\u00ba DE FUENTE LUCHA, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "OZJUEGOS CUP Marzo",
-        "date": "2026-03-21T11:00:00Z",
-        "game": "vg",
-        "type": "Cup",
-        "store": "OZ JUEGOS",
-        "address": "13 P.\u00ba DE FUENTE LUCHA, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "Presentaci\u00f3n orden perfecto",
-        "date": "2026-03-21T17:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "OZ JUEGOS",
-        "address": "13 P.\u00ba DE FUENTE LUCHA, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "OZJUEGOS VGC Challenge Marzo",
-        "date": "2026-03-21T17:15:00Z",
-        "game": "vg",
-        "type": "Challenge",
-        "store": "OZ JUEGOS",
-        "address": "13 P.\u00ba DE FUENTE LUCHA, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-20T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-22T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
         "name": "",
@@ -336,28 +272,20 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
-        "name": "Padis TCG Cup Marzo",
-        "date": "2026-03-22T11:30:00Z",
+        "name": "",
+        "date": "2026-06-19T15:00:00Z",
         "game": "tcg",
-        "type": "Cup",
+        "type": "League",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
-        "name": "Padis TCG Challenge Marzo",
-        "date": "2026-03-22T17:00:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "PADIS",
-        "address": "C. DE BLASCO DE GARAY, 36, CHAMBER\u00cd, 28015 MADRID, SPAIN"
-    },
-    {
         "name": "",
-        "date": "2026-03-22T09:00:00Z",
+        "date": "2026-06-21T14:00:00Z",
         "game": "tcg",
         "type": "League",
-        "store": "KINGDOM WARGAMES",
-        "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
         "name": "",
@@ -456,32 +384,48 @@
         "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
     },
     {
-        "name": "Cup VGC Kingdom Invierno",
-        "date": "2026-03-22T10:30:00Z",
+        "name": "",
+        "date": "2026-06-21T08:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "KINGDOM WARGAMES",
+        "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
+        "name": "Cup Kingdom Primavera",
+        "date": "2026-04-03T10:30:00Z",
+        "game": "tcg",
+        "type": "Cup",
+        "store": "KINGDOM WARGAMES",
+        "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
+        "name": "Cup Kingdom VGC Primavera",
+        "date": "2026-04-03T10:30:00Z",
         "game": "vg",
         "type": "Cup",
         "store": "KINGDOM WARGAMES",
         "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
     },
     {
-        "name": "League Challenge Marzo",
-        "date": "2026-03-22T10:30:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "KINGDOM WARGAMES",
-        "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
-    },
-    {
-        "name": "Challenge VGC Marzo",
-        "date": "2026-03-22T16:00:00Z",
+        "name": "Challenge VGC Abril",
+        "date": "2026-04-03T16:30:00Z",
         "game": "vg",
         "type": "Challenge",
         "store": "KINGDOM WARGAMES",
         "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
     },
     {
+        "name": "League Challenge Abril",
+        "date": "2026-04-03T16:30:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "KINGDOM WARGAMES",
+        "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
         "name": "",
-        "date": "2026-03-22T09:30:00Z",
+        "date": "2026-03-29T08:00:00Z",
         "game": "pgo",
         "type": "League",
         "store": "MADAKIBA",
@@ -497,7 +441,23 @@
     },
     {
         "name": "",
+        "date": "2026-04-05T08:00:00Z",
+        "game": "pgo",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "",
         "date": "2026-04-05T08:30:00Z",
+        "game": "pgo",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "",
+        "date": "2026-04-12T08:00:00Z",
         "game": "pgo",
         "type": "League",
         "store": "MADAKIBA",
@@ -513,7 +473,23 @@
     },
     {
         "name": "",
+        "date": "2026-04-19T08:00:00Z",
+        "game": "pgo",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "",
         "date": "2026-04-19T08:30:00Z",
+        "game": "pgo",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "",
+        "date": "2026-04-26T08:00:00Z",
         "game": "pgo",
         "type": "League",
         "store": "MADAKIBA",
@@ -529,7 +505,23 @@
     },
     {
         "name": "",
+        "date": "2026-05-03T08:00:00Z",
+        "game": "pgo",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "",
         "date": "2026-05-03T08:30:00Z",
+        "game": "pgo",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "",
+        "date": "2026-05-10T08:00:00Z",
         "game": "pgo",
         "type": "League",
         "store": "MADAKIBA",
@@ -545,7 +537,23 @@
     },
     {
         "name": "",
+        "date": "2026-05-17T08:00:00Z",
+        "game": "pgo",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "",
         "date": "2026-05-17T08:30:00Z",
+        "game": "pgo",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "",
+        "date": "2026-05-24T08:00:00Z",
         "game": "pgo",
         "type": "League",
         "store": "MADAKIBA",
@@ -561,7 +569,23 @@
     },
     {
         "name": "",
+        "date": "2026-05-31T08:00:00Z",
+        "game": "pgo",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "",
         "date": "2026-05-31T08:30:00Z",
+        "game": "pgo",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "",
+        "date": "2026-06-07T08:00:00Z",
         "game": "pgo",
         "type": "League",
         "store": "MADAKIBA",
@@ -577,6 +601,14 @@
     },
     {
         "name": "",
+        "date": "2026-06-14T08:00:00Z",
+        "game": "pgo",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "",
         "date": "2026-06-14T08:30:00Z",
         "game": "pgo",
         "type": "League",
@@ -584,34 +616,10 @@
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
-        "name": "PRESENTACION POKEMON TCG EQUILIBRIO PERFECTO",
-        "date": "2026-03-21T10:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "MADAKIBA",
-        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-    },
-    {
-        "name": "PRESENTACION POKEMON TCG EQUILIBRIO PERFECTO",
-        "date": "2026-03-21T17:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "MADAKIBA",
-        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-    },
-    {
-        "name": "PRESENTACION POKEMON TCG EQUILIBRIO PERFECTO",
-        "date": "2026-03-22T10:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "MADAKIBA",
-        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-    },
-    {
-        "name": "PRESENTACION POKEMON TCG EQUILIBRIO PERFECTO",
-        "date": "2026-03-22T17:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
+        "name": "",
+        "date": "2026-06-21T08:30:00Z",
+        "game": "pgo",
+        "type": "League",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
     },
@@ -630,22 +638,6 @@
         "type": "Challenge",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-03-18T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-03-20T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
         "name": "",
@@ -776,1395 +768,11 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
-        "name": "Presentaci\u00f3n Equilibrio Perfecto S\u00e1bado Ma\u00f1ana",
-        "date": "2026-03-21T11:30:00Z",
+        "name": "",
+        "date": "2026-06-19T16:00:00Z",
         "game": "tcg",
-        "type": "Prerelease",
+        "type": "League",
         "store": "ISEKAI",
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "Presentaci\u00f3n Equilibrio Perfecto S\u00e1bado Tarde",
-        "date": "2026-03-21T17:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "Cup Marzo",
-        "date": "2026-03-22T10:30:00Z",
-        "game": "tcg",
-        "type": "Cup",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "Presentaci\u00f3n Equilibrio Perfecto Domingo Tarde",
-        "date": "2026-03-22T17:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "Go Cup Marzo [Isekai Alcorc\u00f3n]",
-        "date": "2026-03-22T17:30:00Z",
-        "game": "pgo",
-        "type": "Cup",
-        "store": "ISEKAI",
-        "address": "4 AV. TORRES BELLAS, ALCORC\u00d3N, MD 28923, ES"
-    },
-    {
-        "name": "Go Challenge Marzon [Isekai Alcorc\u00f3n]",
-        "date": "2026-03-22T19:30:00Z",
-        "game": "pgo",
-        "type": "Challenge",
-        "store": "ISEKAI",
-        "address": "4 AV. TORRES BELLAS, ALCORC\u00d3N, MD 28923, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-16T16:00:00Z",
-        "game": "pgo",
-        "type": "League",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-23T16:00:00Z",
-        "game": "pgo",
-        "type": "League",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-30T15:00:00Z",
-        "game": "pgo",
-        "type": "League",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "Presentaci\u00f3n Orden Perfecto",
-        "date": "2026-03-20T17:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "C. PARQUE BUJARUELO, 10, 28924 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "League Cup Jupiter Alcorcon Invierno",
-        "date": "2026-03-21T11:00:00Z",
-        "game": "tcg",
-        "type": "Cup",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "C. PARQUE BUJARUELO, 10, 28924 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "Presentaci\u00f3n Orden Perfecto",
-        "date": "2026-03-21T17:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "C. PARQUE BUJARUELO, 10, 28924 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "Go Cup Marzo [J\u00fapiter Alcorc\u00f3n]",
-        "date": "2026-03-21T17:30:00Z",
-        "game": "pgo",
-        "type": "Cup",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "Go Challenge Marzo [J\u00fapiter Alcorc\u00f3n]",
-        "date": "2026-03-21T19:30:00Z",
-        "game": "pgo",
-        "type": "Challenge",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-21T10:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-28T10:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-04T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-11T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-18T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-25T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-02T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-09T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-16T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-23T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-30T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-06-06T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-06-13T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "Equilibrio Perfecto Jueves",
-        "date": "2026-03-19T17:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "Equilibrio Perfecto 4",
-        "date": "2026-03-22T11:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "Gen X Musas Challenge Marzo",
-        "date": "2026-03-28T11:00:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-19T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "HOBBYSHOP WARGAMES",
-        "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-26T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "HOBBYSHOP WARGAMES",
-        "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-    },
-    {
-        "name": "Presentacion POR Hobby Shop Wargames",
-        "date": "2026-03-19T17:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "HOBBYSHOP WARGAMES",
-        "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-    },
-    {
-        "name": "Challenge Marzo Hobbyshop",
-        "date": "2026-03-26T18:00:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "HOBBYSHOP WARGAMES",
-        "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-19T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-03-26T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-02T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-09T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-16T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-23T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-30T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-05-07T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-05-14T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-05-21T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-05-28T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "CUP ARTE 9 - MARZO 2026",
-        "date": "2026-03-21T10:00:00Z",
-        "game": "tcg",
-        "type": "Cup",
-        "store": "ARTE 9 S.L.",
-        "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
-    },
-    {
-        "name": "ARTE 9 CHALLENGE MARZO 2026",
-        "date": "2026-03-21T17:30:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "ARTE 9 S.L.",
-        "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-03-19T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-22T10:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-26T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-29T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-02T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-05T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-09T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-12T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-16T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-19T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-23T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-26T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-30T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-03T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-07T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-10T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-14T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-17T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-21T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-24T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-28T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-31T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-06-04T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-06-07T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-06-11T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-06-14T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League Challenge",
-        "date": "2026-03-19T17:30:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "Presentacion Equilibrio Perfecto",
-        "date": "2026-03-21T10:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "Metroliga  VI",
-        "date": "2026-03-26T17:30:00Z",
-        "game": "tcg",
-        "type": "Friendly Tournament",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-19T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-03-26T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-02T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-09T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-16T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-23T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-30T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-05-07T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-05-14T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-05-21T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-05-28T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-06-04T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-06-11T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-03-20T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GLADIUS GAMES",
-        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-03-27T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GLADIUS GAMES",
-        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-03-18T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-20T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-25T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-27T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-01T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-03T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-08T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-10T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-15T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-17T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-22T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-24T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-29T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-01T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-06T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-08T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "LUDOTECA MALDITA: Presentaci\u00f3n Megaevoluci\u00f3n-Equilibrio Perfecto",
-        "date": "2026-03-18T18:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "LUDOTECA MALDITA",
-        "address": "C. DE GUTIERRE DE CETINA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
-    },
-    {
-        "name": "LUDOTECA MALDITA: Challenge Marzo",
-        "date": "2026-03-20T17:30:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "LUDOTECA MALDITA",
-        "address": "C. DE GUTIERRE DE CETINA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
-    },
-    {
-        "name": "Prerelease Perfect order",
-        "date": "2026-03-21T10:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "MICELION GAMES S.L",
-        "address": "AV. DEL MEDITERR\u00c1NEO, 8, RETIRO, 28007 MADRID, SPAIN"
-    },
-    {
-        "name": "Challenge micelion marzo",
-        "date": "2026-03-29T10:00:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "MICELION GAMES S.L",
-        "address": "AV. DEL MEDITERR\u00c1NEO, 8, RETIRO, 28007 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-03-17T17:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-18T17:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-22T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-24T17:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-25T17:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-29T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-01T16:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-05T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-12T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-19T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "TOPDECK Perfect Order Prerelease",
-        "date": "2026-03-19T18:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "Presentacion Top Deck",
-        "date": "2026-03-20T18:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "TOPDECK",
-        "address": "CALLE DEL CARDENAL SIL\u00cdCEO, 17, CHAMART\u00cdN, 28002 MADRID, SPAIN"
-    },
-    {
-        "name": "TOPDECK  League Challenge",
-        "date": "2026-03-21T11:00:00Z",
-        "game": "pgo",
-        "type": "Challenge",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "TOPDECK  League Cup",
-        "date": "2026-03-21T11:00:00Z",
-        "game": "pgo",
-        "type": "Cup",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-14T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-21T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-28T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-05-05T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-05-12T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-05-19T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-05-26T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-06-02T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-06-09T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-06-16T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-06-23T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-06-30T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "GenX Getafe Presentaci\u00f3n Megaevoluci\u00f3n Equilibrio Perfecto Viernes",
-        "date": "2026-03-20T18:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "GenX Getafe Presentaci\u00f3n Megaevoluci\u00f3n Equilibrio Perfecto S\u00e1bado",
-        "date": "2026-03-21T11:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-03-18T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-21T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-25T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-28T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-01T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-04T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-08T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-11T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-15T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-18T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-22T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-25T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-29T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-02T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-06T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-09T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-13T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-16T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-20T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-23T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-27T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-05-30T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-06-03T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-06-06T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-06-10T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-06-13T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-16T17:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-23T17:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-30T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-06T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-13T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-20T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-    },
-    {
-        "name": "Prelanzamiento Equilibrio Perfecto",
-        "date": "2026-03-16T18:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "PL. DE ESPA\u00d1A, 3, LOCAL 9, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "Prelanzamiento Equilibrio Perfecto Tarde",
-        "date": "2026-03-16T20:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "PL. DE ESPA\u00d1A, 3, LOCAL 9, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "[2026] Prelanzamiento Equilibrio Perfecto Alcal\u00e1 C\u00f3mics Jueves",
-        "date": "2026-03-17T18:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A LOCAL 9, ALCAL\u00c1 DE HENARES, MD 28805, ES"
     }
 ]

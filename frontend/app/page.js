@@ -41,6 +41,8 @@ export default function Home() {
     const handlePopState = () => {
       const modalState = getHistoryModalState();
 
+      setIsWeeklyScheduleOpen(modalState === "weekly-schedule");
+
       if (modalState === "day-events") {
         setSelectedEvent(null);
         return;
@@ -120,12 +122,14 @@ export default function Home() {
   };
 
   const openSelectedDate = (date) => {
+    setIsWeeklyScheduleOpen(false);
     setSelectedEvent(null);
     setSelectedDate(date);
     updateModalHistory("day-events");
   };
 
   const openSelectedEvent = (event, { preserveDay = false } = {}) => {
+    setIsWeeklyScheduleOpen(false);
     const isDayModalOpen = getHistoryModalState() === "day-events" && selectedDate;
 
     setSelectedEvent(event);
@@ -155,6 +159,22 @@ export default function Home() {
     setSelectedEvent(null);
   };
 
+  const openWeeklySchedule = () => {
+    setSelectedEvent(null);
+    setSelectedDate(null);
+    setIsWeeklyScheduleOpen(true);
+    updateModalHistory("weekly-schedule");
+  };
+
+  const closeWeeklySchedule = () => {
+    if (getHistoryModalState() === "weekly-schedule") {
+      window.history.back();
+      return;
+    }
+
+    setIsWeeklyScheduleOpen(false);
+  };
+
   const selectedDayEvents = selectedDate
     ? events
         .filter((event) => event.start.startsWith(selectedDate))
@@ -173,7 +193,7 @@ export default function Home() {
             game={game}
             gameOptions={GAME_OPTIONS}
             loading={loading}
-            onOpenWeeklySchedule={() => setIsWeeklyScheduleOpen(true)}
+            onOpenWeeklySchedule={openWeeklySchedule}
             updatedAt={updatedAt}
             setFilters={setFilters}
             setGame={setGame}
@@ -211,7 +231,7 @@ export default function Home() {
       />
 
       <WeeklyLeagueScheduleModal
-        onClose={() => setIsWeeklyScheduleOpen(false)}
+        onClose={closeWeeklySchedule}
         open={isWeeklyScheduleOpen}
       />
     </main>

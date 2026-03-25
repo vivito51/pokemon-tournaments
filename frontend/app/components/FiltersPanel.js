@@ -8,6 +8,7 @@ export default function FiltersPanel({
   game,
   gameOptions,
   loading,
+  onOpenWeeklySchedule,
   updatedAt,
   setFilters,
   setGame,
@@ -17,7 +18,7 @@ export default function FiltersPanel({
 }) {
   return (
     <section className="filters-toolbar mb-4 rounded-[24px] border border-white/10 p-4">
-      <div className="mb-4 flex flex-col gap-3 xl:flex-row xl:items-end xl:justify-between">
+      <div className="mb-4 grid gap-3 xl:grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] xl:items-end">
         <div>
           <p className="eyebrow">Panel de filtros</p>
           <h3 className="font-display text-xl uppercase tracking-[0.08em] text-white">
@@ -25,7 +26,18 @@ export default function FiltersPanel({
           </h3>
         </div>
 
-        <div className="flex flex-wrap items-center gap-2 text-sm">
+        <div className="flex justify-start xl:justify-center">
+          <button
+            type="button"
+            className="schedule-trigger-button"
+            onClick={onOpenWeeklySchedule}
+          >
+            <span className="schedule-trigger-kicker">Ligas</span>
+            <span>Horario semanal</span>
+          </button>
+        </div>
+
+        <div className="flex flex-wrap items-center justify-start gap-2 text-sm xl:justify-end">
           <span
             className={`status-pill ${loading ? "status-pill-live" : "status-pill-idle"}`}
           >

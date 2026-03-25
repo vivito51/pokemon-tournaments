@@ -187,7 +187,8 @@ body::before {
 .filter-chip,
 .close-button,
 .map-link,
-.day-event-card {
+.day-event-card,
+.schedule-trigger-button {
   transition:
     transform 140ms ease,
     border-color 140ms ease,
@@ -229,7 +230,8 @@ body::before {
 }
 
 .filter-chip,
-.close-button {
+.close-button,
+.schedule-trigger-button {
   display: inline-flex;
   align-items: center;
   gap: 0.55rem;
@@ -243,7 +245,8 @@ body::before {
 .filter-chip:hover,
 .close-button:hover,
 .map-link:hover,
-.day-event-card:hover {
+.day-event-card:hover,
+.schedule-trigger-button:hover {
   transform: translateY(-1px);
   border-color: rgba(255, 255, 255, 0.16);
 }
@@ -259,6 +262,25 @@ body::before {
     rgba(255, 255, 255, 0.06);
   color: white;
   box-shadow: 0 0 0 1px rgba(239, 68, 68, 0.18), 0 12px 24px rgba(239, 68, 68, 0.12);
+}
+
+.schedule-trigger-button {
+  background:
+    linear-gradient(135deg, rgba(239, 68, 68, 0.28), rgba(127, 29, 29, 0.22)),
+    rgba(255, 255, 255, 0.05);
+  color: white;
+  box-shadow:
+    0 0 0 1px rgba(239, 68, 68, 0.18),
+    0 10px 24px rgba(127, 29, 29, 0.18);
+}
+
+.schedule-trigger-kicker {
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.12);
+  padding: 0.18rem 0.45rem;
+  font-size: 0.62rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
 }
 
 .select-field {
@@ -344,6 +366,117 @@ body::before {
 
 .day-event-card {
   border-left-width: 4px;
+}
+
+.weekly-schedule-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.weekly-schedule-columns-wrap {
+  width: 100%;
+  overflow-x: auto;
+  padding-bottom: 0.25rem;
+}
+
+.weekly-schedule-columns {
+  display: grid;
+  gap: 0.75rem;
+  min-width: 1110px;
+}
+
+.weekly-schedule-day-column {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 22px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.02));
+  padding: 0.85rem 0.7rem 0.75rem;
+  min-width: 0;
+}
+
+.weekly-schedule-day-column-header {
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  text-align: center;
+}
+
+.weekly-schedule-day-column-list {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.weekly-schedule-column-pill {
+  display: grid;
+  gap: 0.18rem;
+  border-radius: 14px;
+  background: rgba(239, 68, 68, 0.12);
+  padding: 0.5rem 0.55rem;
+  min-width: 0;
+  text-decoration: none;
+  transition:
+    transform 140ms ease,
+    background-color 140ms ease,
+    box-shadow 140ms ease;
+}
+
+.weekly-schedule-column-store {
+  color: #f5f5f5;
+  font-size: 0.72rem;
+  line-height: 1.25;
+  overflow-wrap: break-word;
+}
+
+.weekly-schedule-column-time {
+  color: #fca5a5;
+  font-family: var(--font-orbitron), sans-serif;
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+}
+
+.weekly-schedule-column-pill:hover,
+.weekly-schedule-entry:hover {
+  transform: translateY(-1px);
+  background: rgba(239, 68, 68, 0.18);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.16);
+}
+
+.weekly-schedule-card {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 24px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.02));
+  padding: 1rem 1.05rem;
+}
+
+.weekly-schedule-card-header {
+  margin-bottom: 0.9rem;
+}
+
+.weekly-schedule-list {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.weekly-schedule-entry {
+  display: grid;
+  grid-template-columns: 72px minmax(0, 1fr);
+  gap: 0.85rem;
+  align-items: start;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.04);
+  padding: 0.75rem 0.85rem;
+  text-decoration: none;
+}
+
+.weekly-schedule-time {
+  color: white;
+  font-family: var(--font-orbitron), sans-serif;
+  letter-spacing: 0.08em;
+}
+
+.weekly-schedule-store {
+  color: #e4e4e7;
+  line-height: 1.45;
 }
 
 .fc {
@@ -665,7 +798,8 @@ body::before {
   }
 
   .event-modal-sheet,
-  .day-events-sheet {
+  .day-events-sheet,
+  .weekly-schedule-sheet {
     width: 100%;
     max-height: 82vh;
     max-width: none;
@@ -684,6 +818,11 @@ body::before {
     border-radius: 18px;
     padding: 0.95rem;
   }
+
+  .weekly-schedule-grid {
+    grid-template-columns: 1fr;
+  }
+
 }
 
 @keyframes sheet-in {

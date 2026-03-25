@@ -7,6 +7,7 @@ import EventModal from "@/app/components/EventModal";
 import EventsCalendar from "@/app/components/EventsCalendar";
 import FiltersPanel from "@/app/components/FiltersPanel";
 import HeroPanel from "@/app/components/HeroPanel";
+import WeeklyLeagueScheduleModal from "@/app/components/WeeklyLeagueScheduleModal";
 import {
   API_BASE_URL,
   GAME_OPTIONS,
@@ -34,6 +35,7 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [updatedAt, setUpdatedAt] = useState(null);
+  const [isWeeklyScheduleOpen, setIsWeeklyScheduleOpen] = useState(false);
 
   useEffect(() => {
     const handlePopState = () => {
@@ -171,6 +173,7 @@ export default function Home() {
             game={game}
             gameOptions={GAME_OPTIONS}
             loading={loading}
+            onOpenWeeklySchedule={() => setIsWeeklyScheduleOpen(true)}
             updatedAt={updatedAt}
             setFilters={setFilters}
             setGame={setGame}
@@ -205,6 +208,11 @@ export default function Home() {
         onEventSelect={(event) => openSelectedEvent(event, { preserveDay: true })}
         selectedDate={selectedEvent ? null : selectedDate}
         selectedDayEvents={selectedDayEvents}
+      />
+
+      <WeeklyLeagueScheduleModal
+        onClose={() => setIsWeeklyScheduleOpen(false)}
+        open={isWeeklyScheduleOpen}
       />
     </main>
   );

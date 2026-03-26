@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-03-25T07:56:19.415311+00:00",
+    "updatedAt": "2026-03-26T08:06:39.663933+00:00",
     "events": [
         {
             "name": "",
@@ -635,14 +635,6 @@
         },
         {
             "name": "",
-            "date": "2026-03-25T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "ISEKAI",
-            "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
-            "name": "",
             "date": "2026-03-27T17:00:00Z",
             "game": "tcg",
             "type": "League",
@@ -916,6 +908,118 @@
         {
             "name": "",
             "date": "2026-03-26T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-04-09T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-04-16T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-04-18T09:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-04-18T14:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-04-23T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-04-30T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-05-07T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-05-14T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-05-21T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-05-28T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-06-04T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-06-11T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-06-18T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-06-25T16:00:00Z",
             "game": "tcg",
             "type": "League",
             "store": "HOBBYSHOP WARGAMES",
@@ -1475,14 +1579,6 @@
         },
         {
             "name": "",
-            "date": "2026-03-25T17:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "LUDOTECA MALDITA",
-            "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-        },
-        {
-            "name": "",
             "date": "2026-03-27T16:30:00Z",
             "game": "tcg",
             "type": "League",
@@ -1592,14 +1688,6 @@
             "type": "Challenge",
             "store": "MICELION GAMES S.L",
             "address": "AV. DEL MEDITERR\u00c1NEO, 8, RETIRO, 28007 MADRID, SPAIN"
-        },
-        {
-            "name": "",
-            "date": "2026-03-25T17:15:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "TOPDECK",
-            "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
         },
         {
             "name": "",
@@ -1736,14 +1824,6 @@
             "type": "League",
             "store": "GENERACI\u00d3N X GETAFE",
             "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-        },
-        {
-            "name": "",
-            "date": "2026-03-25T17:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "JUPITER MADRID NORTE",
-            "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
         },
         {
             "name": "",

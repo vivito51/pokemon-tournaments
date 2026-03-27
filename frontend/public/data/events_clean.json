@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-03-26T08:06:39.663933+00:00",
+    "updatedAt": "2026-03-27T08:04:30.417996+00:00",
     "events": [
         {
             "name": "",
@@ -907,14 +907,6 @@
         },
         {
             "name": "",
-            "date": "2026-03-26T17:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "HOBBYSHOP WARGAMES",
-            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-        },
-        {
-            "name": "",
             "date": "2026-04-09T16:00:00Z",
             "game": "tcg",
             "type": "League",
@@ -1026,22 +1018,6 @@
             "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
         },
         {
-            "name": "Challenge Marzo Hobbyshop",
-            "date": "2026-03-26T18:00:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "HOBBYSHOP WARGAMES",
-            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-        },
-        {
-            "name": "",
-            "date": "2026-03-26T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "PANDA GAMES",
-            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
             "name": "",
             "date": "2026-04-02T15:00:00Z",
             "game": "tcg",
@@ -1112,14 +1088,6 @@
             "type": "League",
             "store": "PANDA GAMES",
             "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
-            "name": "",
-            "date": "2026-03-26T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
             "name": "",
@@ -1322,14 +1290,6 @@
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
-            "name": "Metroliga  VI",
-            "date": "2026-03-26T17:30:00Z",
-            "game": "tcg",
-            "type": "Friendly Tournament",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-        },
-        {
             "name": "Metroliga",
             "date": "2026-03-29T10:30:00Z",
             "game": "tcg",
@@ -1352,14 +1312,6 @@
             "type": "Challenge",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "",
-            "date": "2026-03-26T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "SOMOSJUEGOS",
-            "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
         },
         {
             "name": "",
@@ -2020,6 +1972,14 @@
         {
             "name": "",
             "date": "2026-06-20T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "JUPITER MADRID NORTE",
+            "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "",
+            "date": "2026-06-24T16:00:00Z",
             "game": "tcg",
             "type": "League",
             "store": "JUPITER MADRID NORTE",

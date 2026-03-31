@@ -369,6 +369,30 @@
     },
     {
         "name": "",
+        "date": "2026-06-28T14:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "[2026] VGC League Challenge Padis Abril",
+        "date": "2026-04-10T17:30:00Z",
+        "game": "vg",
+        "type": "Challenge",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "[2026] VGC League Cup Padis Mayo",
+        "date": "2026-05-31T10:50:00Z",
+        "game": "vg",
+        "type": "Cup",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "",
         "date": "2026-04-05T08:00:00Z",
         "game": "tcg",
         "type": "League",
@@ -458,6 +482,14 @@
     {
         "name": "",
         "date": "2026-06-21T08:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "KINGDOM WARGAMES",
+        "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
+        "name": "",
+        "date": "2026-06-28T08:00:00Z",
         "game": "tcg",
         "type": "League",
         "store": "KINGDOM WARGAMES",
@@ -681,6 +713,14 @@
     },
     {
         "name": "",
+        "date": "2026-06-28T08:30:00Z",
+        "game": "pgo",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "",
         "date": "2026-04-01T15:30:00Z",
         "game": "tcg",
         "type": "League",
@@ -806,14 +846,6 @@
         "type": "League",
         "store": "ISEKAI",
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-03-30T15:00:00Z",
-        "game": "pgo",
-        "type": "League",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
     },
     {
         "name": "",
@@ -1418,6 +1450,22 @@
     {
         "name": "",
         "date": "2026-06-25T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "",
+        "date": "2026-06-28T09:15:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "",
+        "date": "2026-06-28T09:15:00Z",
         "game": "tcg",
         "type": "League",
         "store": "METROPOLIS CENTER",
@@ -2102,14 +2150,6 @@
         "type": "Challenge",
         "store": "JUPITER MADRID NORTE",
         "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-03-30T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
     },
     {
         "name": "",

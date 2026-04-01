@@ -1,14 +1,6 @@
 {
-    "updatedAt": "2026-03-31T08:13:15.705612+00:00",
+    "updatedAt": "2026-04-01T08:20:28.073915+00:00",
     "events": [
-        {
-            "name": "",
-            "date": "2026-03-31T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "OZ JUEGOS",
-            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-        },
         {
             "name": "",
             "date": "2026-04-04T08:30:00Z",
@@ -283,7 +275,7 @@
         },
         {
             "name": "[2026] VGC League Cup Padis Mayo",
-            "date": "2026-05-31T10:50:00Z",
+            "date": "2026-05-10T10:50:00Z",
             "game": "vg",
             "type": "Cup",
             "store": "PADIS",

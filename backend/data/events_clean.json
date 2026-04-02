@@ -609,14 +609,6 @@
     },
     {
         "name": "",
-        "date": "2026-04-01T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
         "date": "2026-04-03T16:00:00Z",
         "game": "tcg",
         "type": "League",
@@ -1497,14 +1489,6 @@
     },
     {
         "name": "",
-        "date": "2026-04-01T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
         "date": "2026-04-03T15:30:00Z",
         "game": "tcg",
         "type": "League",
@@ -1590,14 +1574,6 @@
         "type": "League",
         "store": "LUDOTECA MALDITA",
         "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-01T16:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
     },
     {
         "name": "",
@@ -1718,14 +1694,6 @@
         "type": "League",
         "store": "GENERACI\u00d3N X GETAFE",
         "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-01T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
         "name": "",

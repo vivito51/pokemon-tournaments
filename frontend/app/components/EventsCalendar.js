@@ -56,7 +56,7 @@ function getWeekDays(weekStart) {
 
 function getEventsForDate(events, dateKey) {
   return events
-    .filter((event) => event.start.startsWith(dateKey))
+    .filter((event) => event.extendedProps.localDateKey === dateKey)
     .sort((a, b) => new Date(a.start) - new Date(b.start));
 }
 

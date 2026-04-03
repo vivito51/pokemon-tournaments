@@ -177,7 +177,7 @@ export default function Home() {
 
   const selectedDayEvents = selectedDate
     ? events
-        .filter((event) => event.start.startsWith(selectedDate))
+        .filter((event) => event.extendedProps.localDateKey === selectedDate)
         .sort((a, b) => new Date(a.start) - new Date(b.start))
     : [];
 

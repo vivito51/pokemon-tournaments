@@ -32,7 +32,7 @@ export const WEEKLY_LEAGUE_SCHEDULE = [
       { store: "Topdeck", time: "18:00", mapUrl: "https://maps.app.goo.gl/94pXJqYTmatL8aRU7" },
       {
         store: "Ludoteca Maldita",
-        time: "18:20",
+        time: "18:00",
         mapUrl: "https://maps.app.goo.gl/M3dJXjG17558JZaY8",
       },
       {

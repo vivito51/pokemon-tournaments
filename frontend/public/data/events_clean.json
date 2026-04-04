@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-04-03T08:06:51.077946+00:00",
+    "updatedAt": "2026-04-04T07:52:42.292146+00:00",
     "events": [
         {
             "name": "",
@@ -56,14 +56,6 @@
             "type": "League",
             "store": "OZ JUEGOS",
             "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-        },
-        {
-            "name": "",
-            "date": "2026-04-03T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "PADIS",
-            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
         },
         {
             "name": "",
@@ -386,38 +378,6 @@
             "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
         },
         {
-            "name": "Cup Kingdom Primavera",
-            "date": "2026-04-03T10:30:00Z",
-            "game": "tcg",
-            "type": "Cup",
-            "store": "KINGDOM WARGAMES",
-            "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
-        },
-        {
-            "name": "Cup Kingdom VGC Primavera",
-            "date": "2026-04-03T10:30:00Z",
-            "game": "vg",
-            "type": "Cup",
-            "store": "KINGDOM WARGAMES",
-            "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
-        },
-        {
-            "name": "Challenge VGC Abril",
-            "date": "2026-04-03T16:30:00Z",
-            "game": "vg",
-            "type": "Challenge",
-            "store": "KINGDOM WARGAMES",
-            "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
-        },
-        {
-            "name": "League Challenge Abril",
-            "date": "2026-04-03T16:30:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "KINGDOM WARGAMES",
-            "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
-        },
-        {
             "name": "",
             "date": "2026-04-05T08:00:00Z",
             "game": "pgo",
@@ -608,14 +568,6 @@
             "type": "League",
             "store": "MADAKIBA",
             "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-        },
-        {
-            "name": "",
-            "date": "2026-04-03T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "ISEKAI",
-            "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
             "name": "",
@@ -1250,6 +1202,14 @@
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
+            "name": "",
+            "date": "2026-07-02T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+        },
+        {
             "name": "League Cup Abril",
             "date": "2026-04-11T10:30:00Z",
             "game": "tcg",
@@ -1362,6 +1322,14 @@
             "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
         },
         {
+            "name": "",
+            "date": "2026-07-02T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "SOMOSJUEGOS",
+            "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
+        },
+        {
             "name": "Cup Somos Primavera",
             "date": "2026-04-04T10:30:00Z",
             "game": "tcg",
@@ -1376,14 +1344,6 @@
             "type": "Challenge",
             "store": "SOMOSJUEGOS",
             "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-        },
-        {
-            "name": "",
-            "date": "2026-04-03T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GLADIUS GAMES",
-            "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
         },
         {
             "name": "",
@@ -1480,14 +1440,6 @@
             "type": "League",
             "store": "GLADIUS GAMES",
             "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-        },
-        {
-            "name": "",
-            "date": "2026-04-03T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "LUDOTECA MALDITA",
-            "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
         },
         {
             "name": "",

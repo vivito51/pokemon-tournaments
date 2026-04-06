@@ -1,14 +1,6 @@
 [
     {
         "name": "",
-        "date": "2026-04-04T08:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "",
         "date": "2026-04-07T15:00:00Z",
         "game": "tcg",
         "type": "League",
@@ -56,12 +48,28 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
-        "name": "",
-        "date": "2026-04-05T14:00:00Z",
+        "name": "OZJUEGOS VGC Challenge Abril",
+        "date": "2026-04-19T10:30:00Z",
+        "game": "vg",
+        "type": "Challenge",
+        "store": "OZ JUEGOS",
+        "address": "13 P.\u00ba DE FUENTE LUCHA, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "OZJUEGOS TCG Cup Abril",
+        "date": "2026-04-19T11:00:00Z",
         "game": "tcg",
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        "type": "Cup",
+        "store": "OZ JUEGOS",
+        "address": "13 P.\u00ba DE FUENTE LUCHA, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "OZJUEGOS TCG Challenge Abril",
+        "date": "2026-04-19T17:00:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "OZ JUEGOS",
+        "address": "13 P.\u00ba DE FUENTE LUCHA, ALCOBENDAS, MD 28100, ES"
     },
     {
         "name": "",
@@ -352,6 +360,22 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
+        "name": "",
+        "date": "2026-07-03T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "",
+        "date": "2026-07-03T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
         "name": "[2026] VGC League Challenge Padis Abril",
         "date": "2026-04-10T17:30:00Z",
         "game": "vg",
@@ -366,14 +390,6 @@
         "type": "Cup",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-05T08:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "KINGDOM WARGAMES",
-        "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
     },
     {
         "name": "",
@@ -470,22 +486,6 @@
         "type": "League",
         "store": "KINGDOM WARGAMES",
         "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-05T08:00:00Z",
-        "game": "pgo",
-        "type": "League",
-        "store": "MADAKIBA",
-        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-05T08:30:00Z",
-        "game": "pgo",
-        "type": "League",
-        "store": "MADAKIBA",
-        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
         "name": "",
@@ -777,11 +777,43 @@
     },
     {
         "name": "",
-        "date": "2026-04-04T09:15:00Z",
+        "date": "2026-07-03T16:00:00Z",
         "game": "tcg",
         "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
+        "store": "ISEKAI",
+        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "League Cup GO [Isekai]",
+        "date": "2026-04-19T17:30:00Z",
+        "game": "pgo",
+        "type": "Cup",
+        "store": "ISEKAI",
+        "address": "4 AV. TORRES BELLAS, ALCORC\u00d3N, MD 28923, ES"
+    },
+    {
+        "name": "League Challenge GO [Isekai]",
+        "date": "2026-04-19T19:30:00Z",
+        "game": "pgo",
+        "type": "Challenge",
+        "store": "ISEKAI",
+        "address": "4 AV. TORRES BELLAS, ALCORC\u00d3N, MD 28923, ES"
+    },
+    {
+        "name": "Go Cup Abril [J\u00fapiter Alcorc\u00f3n]",
+        "date": "2026-04-18T17:30:00Z",
+        "game": "pgo",
+        "type": "Cup",
+        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+        "address": "C. PARQUE BUJARUELO, 10, 28924 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "Go Challenge Abril [J\u00fapiter Alcorc\u00f3n]",
+        "date": "2026-04-18T19:30:00Z",
+        "game": "pgo",
+        "type": "Challenge",
+        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+        "address": "C. PARQUE BUJARUELO, 10, 28924 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
         "name": "",
@@ -880,20 +912,12 @@
         "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
     },
     {
-        "name": "CUP Abril",
-        "date": "2026-04-04T11:00:00Z",
+        "name": "",
+        "date": "2026-07-04T09:15:00Z",
         "game": "tcg",
-        "type": "Cup",
+        "type": "League",
         "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "Challenge Abril",
-        "date": "2026-04-04T17:00:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
+        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
     },
     {
         "name": "Challenge Mayo",
@@ -1094,22 +1118,6 @@
         "type": "League",
         "store": "PANDA GAMES",
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-05T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-05T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     },
     {
         "name": "",
@@ -1528,20 +1536,12 @@
         "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
     },
     {
-        "name": "Cup Somos Primavera",
-        "date": "2026-04-04T10:30:00Z",
-        "game": "tcg",
-        "type": "Cup",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "League Challenge Abril",
-        "date": "2026-04-04T16:30:00Z",
-        "game": "tcg",
+        "name": "SOMOSJUEGOS VGC Challenge Abril",
+        "date": "2026-04-18T10:30:00Z",
+        "game": "vg",
         "type": "Challenge",
         "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
+        "address": "C. DEL MAR DE BERING, 2, HORTALEZA, 28033 MADRID, SPAIN"
     },
     {
         "name": "",
@@ -1641,6 +1641,14 @@
     },
     {
         "name": "",
+        "date": "2026-07-03T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GLADIUS GAMES",
+        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
+        "name": "",
         "date": "2026-04-08T16:00:00Z",
         "game": "tcg",
         "type": "League",
@@ -1718,14 +1726,6 @@
         "type": "League",
         "store": "LUDOTECA MALDITA",
         "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "",
-        "date": "2026-04-05T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
     },
     {
         "name": "",
@@ -1838,14 +1838,6 @@
         "type": "League",
         "store": "GENERACI\u00d3N X GETAFE",
         "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "",
-        "date": "2026-04-04T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
         "name": "",
@@ -2042,6 +2034,14 @@
     {
         "name": "",
         "date": "2026-07-01T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "JUPITER MADRID NORTE",
+        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "",
+        "date": "2026-07-04T15:00:00Z",
         "game": "tcg",
         "type": "League",
         "store": "JUPITER MADRID NORTE",

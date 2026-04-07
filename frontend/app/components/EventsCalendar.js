@@ -63,8 +63,17 @@ function getEventsForDate(events, dateKey) {
 function MobileWeekList({ events, onDateSelect, onEventSelect }) {
   const currentWeekStart = startOfWeekMonday(new Date());
   const [weekStart, setWeekStart] = useState(currentWeekStart);
+  const [activeNavButton, setActiveNavButton] = useState("");
   const weekDays = getWeekDays(weekStart);
   const isCurrentWeek = toDateKey(weekStart) === toDateKey(currentWeekStart);
+
+  const triggerNavFeedback = (buttonName, action) => {
+    setActiveNavButton(buttonName);
+    action();
+    window.setTimeout(() => {
+      setActiveNavButton((current) => (current === buttonName ? "" : current));
+    }, 180);
+  };
 
   return (
     <div className="mobile-week-board">
@@ -72,10 +81,14 @@ function MobileWeekList({ events, onDateSelect, onEventSelect }) {
         <div className="mobile-week-controls">
           <button
             type="button"
-            className={`mobile-nav-button ${isCurrentWeek ? "mobile-nav-button-disabled" : ""}`}
+            className={`mobile-nav-button ${
+              isCurrentWeek ? "mobile-nav-button-disabled" : ""
+            } ${activeNavButton === "previous" ? "mobile-nav-button-pressed" : ""}`}
             onClick={() => {
               if (!isCurrentWeek) {
-                setWeekStart((current) => addDays(current, -7));
+                triggerNavFeedback("previous", () => {
+                  setWeekStart((current) => addDays(current, -7));
+                });
               }
             }}
             disabled={isCurrentWeek}
@@ -84,15 +97,27 @@ function MobileWeekList({ events, onDateSelect, onEventSelect }) {
           </button>
           <button
             type="button"
-            className="mobile-nav-button mobile-nav-button-current"
-            onClick={() => setWeekStart(startOfWeekMonday(new Date()))}
+            className={`mobile-nav-button ${
+              isCurrentWeek ? "mobile-nav-button-current" : ""
+            } ${activeNavButton === "today" ? "mobile-nav-button-pressed" : ""}`}
+            onClick={() =>
+              triggerNavFeedback("today", () => {
+                setWeekStart(startOfWeekMonday(new Date()));
+              })
+            }
           >
-            Hoy
+            Actual
           </button>
           <button
             type="button"
-            className="mobile-nav-button"
-            onClick={() => setWeekStart((current) => addDays(current, 7))}
+            className={`mobile-nav-button ${
+              activeNavButton === "next" ? "mobile-nav-button-pressed" : ""
+            }`}
+            onClick={() =>
+              triggerNavFeedback("next", () => {
+                setWeekStart((current) => addDays(current, 7));
+              })
+            }
           >
             Siguiente
           </button>

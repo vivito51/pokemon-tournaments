@@ -682,10 +682,24 @@ body::before {
     letter-spacing: 0.08em;
     text-transform: uppercase;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
+    transition:
+      transform 140ms ease,
+      background-color 140ms ease,
+      border-color 140ms ease,
+      box-shadow 140ms ease;
   }
 
   .mobile-nav-button-current {
     border-color: rgba(248, 113, 113, 0.4);
+    background: linear-gradient(135deg, rgba(239, 68, 68, 0.24), rgba(153, 27, 27, 0.24));
+  }
+
+  .mobile-nav-button-pressed {
+    transform: scale(0.93);
+    border-color: rgba(248, 113, 113, 0.4);
+    box-shadow:
+      0 0 0 1px rgba(239, 68, 68, 0.16),
+      0 14px 28px rgba(127, 29, 29, 0.26);
     background: linear-gradient(135deg, rgba(239, 68, 68, 0.24), rgba(153, 27, 27, 0.24));
   }
 

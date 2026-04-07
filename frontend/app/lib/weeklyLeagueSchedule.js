@@ -58,6 +58,11 @@ export const WEEKLY_LEAGUE_SCHEDULE = [
         time: "17:30",
         mapUrl: "https://maps.app.goo.gl/M3dJXjG17558JZaY8",
       },
+      {
+        store: "Gladius Games",
+        time: "17:30",
+        mapUrl: "https://maps.app.goo.gl/XHcz8yxS7t8nBr2r6",
+      }
     ],
   },
   {

@@ -1,14 +1,19 @@
 "use client";
 
 import Image from "next/image";
+import ThemeToggle from "@/app/components/ThemeToggle";
 
 export default function HeroPanel() {
   return (
     <section className="hero-panel overflow-hidden rounded-[30px] border border-white/10 px-5 py-4 shadow-2xl shadow-black/40 sm:px-6 lg:px-7 lg:py-4">
       <div className="relative z-10 grid gap-4 lg:grid-cols-[1.75fr_0.6fr] lg:items-center">
         <div className="space-y-2">
-          <div className="inline-flex items-center gap-2 rounded-full border border-red-500/30 bg-red-500/10 px-4 py-1 text-[11px] font-medium uppercase tracking-[0.28em] text-red-100">
-            Pokemon Madrid Tournament Radar
+          <div className="flex flex-wrap items-center justify-between gap-3">
+            <div className="inline-flex items-center gap-2 rounded-full border border-red-500/30 bg-red-500/10 px-4 py-1 text-[11px] font-medium uppercase tracking-[0.28em] text-red-100">
+              Pokemon Madrid Tournament Radar
+            </div>
+
+            <ThemeToggle />
           </div>
 
           <div className="space-y-1.5">

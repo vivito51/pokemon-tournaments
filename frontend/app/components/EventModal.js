@@ -46,7 +46,7 @@ export default function EventModal({ game, selectedEvent, onClose }) {
           </div>
         </div>
 
-        <div className="mt-6 space-y-4 border-t border-white/10 pt-5">
+        <div className="event-modal-divider mt-6 space-y-4 border-t border-white/10 pt-5">
           <p className="text-sm capitalize text-zinc-300">
             {formatLongDate(selectedEvent.date)}
           </p>

@@ -1,14 +1,6 @@
 {
-    "updatedAt": "2026-04-07T08:18:01.124735+00:00",
+    "updatedAt": "2026-04-08T08:17:38.844643+00:00",
     "events": [
-        {
-            "name": "",
-            "date": "2026-04-07T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "OZ JUEGOS",
-            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-        },
         {
             "name": "",
             "date": "2026-04-11T08:30:00Z",
@@ -400,14 +392,6 @@
             "type": "League",
             "store": "KINGDOM WARGAMES",
             "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
-        },
-        {
-            "name": "",
-            "date": "2026-04-07T08:45:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "COLLECTORAGE",
-            "address": "C. DE HERNANI, 19, TETU\u00c1N, 28020 MADRID, SPAIN"
         },
         {
             "name": "",

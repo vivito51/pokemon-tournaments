@@ -37,7 +37,11 @@ def setup_madrid_search(page):
 
     human_delay(1.2, 2.2)
 
-    page.get_by_text("Search Locations").click()
+    try:
+        page.get_by_role("button", name="Search Locations", exact=True).click()
+    except Exception:
+        logger.warning("Exact Search Locations button not found, trying fallback selector")
+        page.locator("button").filter(has_text="Search Locations").last.click()
 
     logger.info("Search executed")
 

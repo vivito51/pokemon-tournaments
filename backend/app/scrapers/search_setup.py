@@ -32,16 +32,12 @@ def setup_madrid_search(page):
     page.keyboard.type("Madrid", delay=50)
     human_delay(1.5, 2.6)
     
-    # Presionar Enter para seleccionar la opción
+    # Primer Enter: seleccionar la opción de ciudad sugerida
     page.keyboard.press("Enter")
-
     human_delay(1.2, 2.2)
 
-    try:
-        page.get_by_role("button", name="Search Locations", exact=True).click()
-    except Exception:
-        logger.warning("Exact Search Locations button not found, trying fallback selector")
-        page.locator("button").filter(has_text="Search Locations").last.click()
+    # Segundo Enter: ejecutar la búsqueda en la interfaz nueva
+    page.keyboard.press("Enter")
 
     logger.info("Search executed")
 

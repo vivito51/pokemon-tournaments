@@ -1,11 +1,18 @@
 import logging
 
+from app.core.settings import get_settings
+
 logger = logging.getLogger(__name__)
+
+
+def interaction_wait(page, milliseconds):
+    extra_ms = int(get_settings().scraper_interaction_extra_delay_seconds * 1000)
+    page.wait_for_timeout(milliseconds + extra_ms)
 
 
 def wait_for_store_results_ready(page):
     page.wait_for_selector("input[placeholder='Enter your city']", timeout=15000)
-    page.wait_for_timeout(1800)
+    interaction_wait(page, 1800)
 
     try:
         page.get_by_text("Back to previous screen").wait_for(state="hidden", timeout=10000)
@@ -42,7 +49,7 @@ def scroll_store_results(page):
         """
     )
 
-    page.wait_for_timeout(900)
+    interaction_wait(page, 900)
     return scrolled
 
 
@@ -76,7 +83,7 @@ def find_store_locator(page, store_name, max_scroll_attempts=18):
         }
         """
     )
-    page.wait_for_timeout(800)
+    interaction_wait(page, 800)
 
     locator = page.get_by_text(store_name, exact=True).first
 
@@ -84,7 +91,7 @@ def find_store_locator(page, store_name, max_scroll_attempts=18):
         try:
             if locator.count() > 0:
                 locator.scroll_into_view_if_needed(timeout=3000)
-                page.wait_for_timeout(400)
+                interaction_wait(page, 400)
                 return locator
         except Exception:
             pass
@@ -116,7 +123,7 @@ def get_events_for_store(page, store_name):
 
         response = resp.value
         data = response.json()
-        page.wait_for_timeout(2200)
+        interaction_wait(page, 2200)
         page.get_by_text("Back to previous screen").wait_for(state="visible", timeout=10000)
 
         event_list = data["data"]["Result"]["List"]
@@ -146,7 +153,7 @@ def get_events_for_store(page, store_name):
         page.get_by_text("Back to previous screen").click()
         page.get_by_text("Back to previous screen").wait_for(state="hidden", timeout=10000)
         wait_for_store_results_ready(page)
-        page.wait_for_timeout(2200)
+        interaction_wait(page, 2200)
 
     except Exception as err:
         logger.warning("Back button failed for %s: %s", store_name, err)

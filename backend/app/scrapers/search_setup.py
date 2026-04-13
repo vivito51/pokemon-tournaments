@@ -11,7 +11,9 @@ def human_delay(a=None, b=None):
     settings = get_settings()
     min_delay = settings.scraper_action_delay_min if a is None else a
     max_delay = settings.scraper_action_delay_max if b is None else b
-    time.sleep(random.uniform(min_delay, max_delay))
+    time.sleep(
+        random.uniform(min_delay, max_delay) + settings.scraper_interaction_extra_delay_seconds
+    )
 
 
 def setup_madrid_search(page):

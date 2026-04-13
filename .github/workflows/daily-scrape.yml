@@ -36,9 +36,10 @@ jobs:
         env:
           SCRAPER_HEADLESS: "false"
           FRONTEND_EVENTS_PATH: ../frontend/public/data/events_clean.json
-          SCRAPER_ACTION_DELAY_MIN: "1.2"
-          SCRAPER_ACTION_DELAY_MAX: "2.8"
-          SCRAPER_STORE_DELAY_SECONDS: "5.0"
+          SCRAPER_ACTION_DELAY_MIN: "6.2"
+          SCRAPER_ACTION_DELAY_MAX: "7.8"
+          SCRAPER_STORE_DELAY_SECONDS: "10.0"
+          SCRAPER_INTERACTION_EXTRA_DELAY_SECONDS: "5.0"
         run: xvfb-run -a python scrapper_runner.py
 
       - name: Commit updated event data

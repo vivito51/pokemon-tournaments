@@ -55,7 +55,9 @@ def run():
 
         wait_for_store_results(page)
 
-        page.wait_for_timeout(5000)
+        page.wait_for_timeout(
+            5000 + int(settings.scraper_interaction_extra_delay_seconds * 1000)
+        )
 
         logger.info("Total stores detected: %s", len(stores))
 

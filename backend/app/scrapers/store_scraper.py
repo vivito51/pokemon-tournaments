@@ -1,7 +1,14 @@
 from playwright.sync_api import Page
 import logging
 
+from app.core.settings import get_settings
+
 logger = logging.getLogger(__name__)
+
+
+def interaction_wait(page, milliseconds):
+    extra_ms = int(get_settings().scraper_interaction_extra_delay_seconds * 1000)
+    page.wait_for_timeout(milliseconds + extra_ms)
 
 def register_store_listener(page):
 
@@ -41,4 +48,4 @@ def wait_for_store_results(page):
     logger.info("Waiting for store results")
     page.wait_for_selector("text=Search")
 
-    page.wait_for_timeout(3000)
+    interaction_wait(page, 3000)

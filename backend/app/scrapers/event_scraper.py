@@ -3,10 +3,79 @@ import logging
 logger = logging.getLogger(__name__)
 
 
+def wait_for_store_results_ready(page):
+    page.wait_for_selector("input[placeholder='Enter your city']", timeout=15000)
+    page.wait_for_timeout(1800)
+
+    try:
+        page.get_by_text("Back to previous screen").wait_for(state="hidden", timeout=10000)
+    except Exception:
+        logger.debug("Back button still present or hidden wait timed out while preparing results list")
+
+
+def scroll_store_results(page):
+    scrolled = page.evaluate(
+        """
+        () => {
+          const nodes = Array.from(document.querySelectorAll('*'));
+          const scrollables = nodes.filter((node) => {
+            const style = window.getComputedStyle(node);
+            const overflowY = style.overflowY;
+            return (
+              (overflowY === 'auto' || overflowY === 'scroll') &&
+              node.scrollHeight > node.clientHeight + 40
+            );
+          });
+
+          const target =
+            scrollables.find((node) => /Search Locations|Store/i.test(node.innerText || '')) ||
+            scrollables[0];
+
+          if (target) {
+            target.scrollBy({ top: 1400, behavior: 'auto' });
+            return true;
+          }
+
+          window.scrollBy(0, 1400);
+          return false;
+        }
+        """
+    )
+
+    page.wait_for_timeout(900)
+    return scrolled
+
+
 def find_store_locator(page, store_name, max_scroll_attempts=18):
     logger.info("Looking for store in results list: %s", store_name)
 
-    page.evaluate("window.scrollTo(0, 0)")
+    wait_for_store_results_ready(page)
+
+    page.evaluate(
+        """
+        () => {
+          const nodes = Array.from(document.querySelectorAll('*'));
+          const scrollables = nodes.filter((node) => {
+            const style = window.getComputedStyle(node);
+            const overflowY = style.overflowY;
+            return (
+              (overflowY === 'auto' || overflowY === 'scroll') &&
+              node.scrollHeight > node.clientHeight + 40
+            );
+          });
+
+          const target =
+            scrollables.find((node) => /Search Locations|Store/i.test(node.innerText || '')) ||
+            scrollables[0];
+
+          if (target) {
+            target.scrollTo({ top: 0, behavior: 'auto' });
+          } else {
+            window.scrollTo(0, 0);
+          }
+        }
+        """
+    )
     page.wait_for_timeout(800)
 
     locator = page.get_by_text(store_name, exact=True).first
@@ -26,8 +95,7 @@ def find_store_locator(page, store_name, max_scroll_attempts=18):
             attempt + 1,
             max_scroll_attempts,
         )
-        page.mouse.wheel(0, 1400)
-        page.wait_for_timeout(900)
+        scroll_store_results(page)
 
     raise TimeoutError(f"Store result not found in rendered list: {store_name}")
 
@@ -48,6 +116,8 @@ def get_events_for_store(page, store_name):
 
         response = resp.value
         data = response.json()
+        page.wait_for_timeout(2200)
+        page.get_by_text("Back to previous screen").wait_for(state="visible", timeout=10000)
 
         event_list = data["data"]["Result"]["List"]
 
@@ -73,12 +143,10 @@ def get_events_for_store(page, store_name):
 
     # volver atrás
     try:
-
         page.get_by_text("Back to previous screen").click()
-
-        page.wait_for_selector("text=Search")
-
-        page.wait_for_timeout(2500)
+        page.get_by_text("Back to previous screen").wait_for(state="hidden", timeout=10000)
+        wait_for_store_results_ready(page)
+        page.wait_for_timeout(2200)
 
     except Exception as err:
         logger.warning("Back button failed for %s: %s", store_name, err)

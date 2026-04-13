@@ -1,6 +1,6 @@
+import logging
 import random
 import time
-import logging
 
 from app.core.settings import get_settings
 
@@ -25,6 +25,16 @@ def setup_madrid_search(page):
         human_delay(1.5, 2.8)
     except Exception:
         pass
+
+    try:
+        logger.info("Expanding search radius to 50 mi")
+        distance_select = page.locator("select.distance-dropdown").first
+        distance_select.wait_for(state="visible", timeout=10000)
+        distance_select.select_option(label="50 mi")
+        human_delay(1.2, 2.1)
+        logger.info("Search radius set to 50 mi")
+    except Exception as err:
+        logger.warning("Could not change search radius to 50 mi: %s", err)
 
     page.locator("input[placeholder='Enter your city']").first.click()
     human_delay(1.2, 2.4)

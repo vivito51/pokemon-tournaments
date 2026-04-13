@@ -18,6 +18,11 @@ export const WEEKLY_LEAGUE_SCHEDULE = [
         mapUrl: "https://maps.app.goo.gl/HAQavdAUhEmCxC9r8",
       },
       {
+        store: "El Turno Extra",
+        time: "17:30",
+        mapUrl: "https://maps.app.goo.gl/DsmBo5Z2bv8Pgiki8",
+      },
+      {
         store: "Oz Juegos",
         time: "18:00",
         mapUrl: "https://maps.app.goo.gl/3jRoQVdspuX9rRX67",
@@ -69,6 +74,9 @@ export const WEEKLY_LEAGUE_SCHEDULE = [
     day: "Sabado",
     entries: [
       { store: "Metropolis", time: "10:00", mapUrl: "https://maps.app.goo.gl/ZDB7ToP5aKGSoXy67" },
+      {
+        store: "El Turno Extra", time: "10:30", mapUrl: "https://maps.app.goo.gl/DsmBo5Z2bv8Pgiki8",
+      },
       { store: "Oz Juegos", time: "10:30", mapUrl: "https://maps.app.goo.gl/3jRoQVdspuX9rRX67" },
       {
         store: "Generacion X Getafe",

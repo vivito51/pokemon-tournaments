@@ -19,6 +19,14 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+EXCLUDED_STORE_NAMES = {
+    "COLLECTORAGE",
+    "DARUMA",
+    "UNIVERSE TCG - SEGOVIA",
+    "GENERACIÓN X TOLEDO",
+    "JUPITER GUADALAJARA",
+}
+
 
 def create_browser_context(playwright, settings):
     browser = playwright.chromium.launch(
@@ -65,62 +73,6 @@ def collect_stores(playwright, settings):
     return browser, context, page, stores
 
 
-def split_store_blocks(stores):
-    midpoint = (len(stores) + 1) // 2
-    return [stores[:midpoint], stores[midpoint:]]
-
-
-def scrape_store_block(playwright, settings, stores, block_index):
-    if not stores:
-        logger.info("Skipping empty store block %s", block_index)
-        return []
-
-    browser, context = create_browser_context(playwright, settings)
-    page = context.new_page()
-    all_events = []
-
-    try:
-        open_store_results_page(page, settings)
-
-        logger.info(
-            "Processing store block %s/%s with %s stores",
-            block_index,
-            2,
-            len(stores),
-        )
-
-        for index, store in enumerate(stores):
-            logger.info("Scraping store %s", store["name"])
-            store_events = []
-            try:
-                store_events = get_events_for_store(page, store["name"])
-            except Exception as err:
-                logger.exception("Store scraping failed for %s: %s", store["name"], err)
-                remaining = len(stores) - index - 1
-                logger.warning(
-                    "Skipping %s after failure and attempting recovery. Remaining stores: %s",
-                    store["name"],
-                    remaining,
-                )
-                try:
-                    recover_store_results(page, settings)
-                except Exception as recovery_err:
-                    logger.exception(
-                        "Recovery failed after store %s: %s",
-                        store["name"],
-                        recovery_err,
-                    )
-                    break
-
-            all_events.extend(store_events)
-            time.sleep(settings.scraper_store_delay_seconds)
-    finally:
-        context.close()
-        browser.close()
-
-    return all_events
-
-
 def run():
     settings = get_settings()
     settings.data_dir.mkdir(parents=True, exist_ok=True)
@@ -133,33 +85,28 @@ def run():
         browser, context, page, stores = collect_stores(p, settings)
 
         try:
-            logger.info("Total stores detected: %s", len(stores))
+            logger.info("Total stores detected before exclusions: %s", len(stores))
 
-            store_blocks = split_store_blocks(stores)
+            stores = [
+                store for store in stores if store["name"] not in EXCLUDED_STORE_NAMES
+            ]
+
             logger.info(
-                "Split stores into blocks of %s and %s",
-                len(store_blocks[0]),
-                len(store_blocks[1]),
+                "Total stores after exclusions: %s (excluded: %s)",
+                len(stores),
+                ", ".join(sorted(EXCLUDED_STORE_NAMES)),
             )
 
-            first_block_events = []
-            logger.info(
-                "Processing store block %s/%s with %s stores",
-                1,
-                2,
-                len(store_blocks[0]),
-            )
-
-            for index, store in enumerate(store_blocks[0]):
+            for index, store in enumerate(stores):
                 logger.info("Scraping store %s", store["name"])
                 store_events = []
                 try:
                     store_events = get_events_for_store(page, store["name"])
                 except Exception as err:
                     logger.exception("Store scraping failed for %s: %s", store["name"], err)
-                    remaining = len(store_blocks[0]) - index - 1
+                    remaining = len(stores) - index - 1
                     logger.warning(
-                        "Skipping %s after failure and attempting recovery. Remaining stores in block: %s",
+                        "Skipping %s after failure and attempting recovery. Remaining stores: %s",
                         store["name"],
                         remaining,
                     )
@@ -167,22 +114,17 @@ def run():
                         recover_store_results(page, settings)
                     except Exception as recovery_err:
                         logger.exception(
-                            "Recovery failed after store %s in first block: %s",
+                            "Recovery failed after store %s: %s",
                             store["name"],
                             recovery_err,
                         )
                         break
 
-                first_block_events.extend(store_events)
+                all_events.extend(store_events)
                 time.sleep(settings.scraper_store_delay_seconds)
-
-            all_events.extend(first_block_events)
         finally:
             context.close()
             browser.close()
-
-        second_block_events = scrape_store_block(p, settings, store_blocks[1], 2)
-        all_events.extend(second_block_events)
 
     # guardar raw
     with open(settings.raw_events_path, "w") as f:

@@ -45,6 +45,7 @@ class Settings:
     port: int
     frontend_url: str | None
     scraper_headless: bool
+    scraper_type: str
     scraper_action_delay_min: float
     scraper_action_delay_max: float
     scraper_store_delay_seconds: float
@@ -88,6 +89,7 @@ def get_settings() -> Settings:
         port=int(os.getenv("PORT", "8000")),
         frontend_url=frontend_url,
         scraper_headless=os.getenv("SCRAPER_HEADLESS", "false").lower() == "true",
+        scraper_type=os.getenv("SCRAPER_TYPE", "store_list").strip().lower(),
         scraper_action_delay_min=float(os.getenv("SCRAPER_ACTION_DELAY_MIN", "6.2")),
         scraper_action_delay_max=float(os.getenv("SCRAPER_ACTION_DELAY_MAX", "7.8")),
         scraper_store_delay_seconds=float(os.getenv("SCRAPER_STORE_DELAY_SECONDS", "10")),

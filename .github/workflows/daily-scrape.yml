@@ -35,6 +35,7 @@ jobs:
         working-directory: backend
         env:
           SCRAPER_HEADLESS: "false"
+          SCRAPER_TYPE: "event_list"
           FRONTEND_EVENTS_PATH: ../frontend/public/data/events_clean.json
           SCRAPER_ACTION_DELAY_MIN: "1.2"
           SCRAPER_ACTION_DELAY_MAX: "2.8"

@@ -7,6 +7,7 @@ from app.core.settings import get_settings
 from app.scrapers.search_setup import setup_madrid_search
 from app.scrapers.store_scraper import register_store_listener, wait_for_store_results
 from app.scrapers.event_scraper import get_events_for_store
+from app.scrapers.event_list_scraper import get_events_from_event_list
 
 from app.services.event_processor import deduplicate_events
 from app.services.calendar_generator import generate_calendar
@@ -73,6 +74,69 @@ def collect_stores(playwright, settings):
     return browser, context, page, stores
 
 
+def scrape_events_from_store_list(playwright, settings):
+    all_events = []
+    browser, context, page, stores = collect_stores(playwright, settings)
+
+    try:
+        logger.info("Total stores detected before exclusions: %s", len(stores))
+
+        stores = [
+            store for store in stores if store["name"] not in EXCLUDED_STORE_NAMES
+        ]
+
+        logger.info(
+            "Total stores after exclusions: %s (excluded: %s)",
+            len(stores),
+            ", ".join(sorted(EXCLUDED_STORE_NAMES)),
+        )
+
+        for index, store in enumerate(stores):
+            logger.info("Scraping store %s", store["name"])
+            store_events = []
+            try:
+                store_events = get_events_for_store(page, store["name"])
+            except Exception as err:
+                logger.exception("Store scraping failed for %s: %s", store["name"], err)
+                remaining = len(stores) - index - 1
+                logger.warning(
+                    "Skipping %s after failure and attempting recovery. Remaining stores: %s",
+                    store["name"],
+                    remaining,
+                )
+                try:
+                    recover_store_results(page, settings)
+                except Exception as recovery_err:
+                    logger.exception(
+                        "Recovery failed after store %s: %s",
+                        store["name"],
+                        recovery_err,
+                    )
+                    break
+
+            all_events.extend(store_events)
+            time.sleep(settings.scraper_store_delay_seconds)
+    finally:
+        context.close()
+        browser.close()
+
+    return all_events
+
+
+def scrape_events_from_event_list(playwright, settings):
+    browser, context = create_browser_context(playwright, settings)
+    page = context.new_page()
+
+    try:
+        page.goto("https://events.pokemon.com/en-us/events")
+        setup_madrid_search(page)
+        events = get_events_from_event_list(page)
+        return events
+    finally:
+        context.close()
+        browser.close()
+
+
 def run():
     settings = get_settings()
     settings.data_dir.mkdir(parents=True, exist_ok=True)
@@ -82,49 +146,16 @@ def run():
     create_tables()
 
     with sync_playwright() as p:
-        browser, context, page, stores = collect_stores(p, settings)
+        logger.info("Running scraper type: %s", settings.scraper_type)
 
-        try:
-            logger.info("Total stores detected before exclusions: %s", len(stores))
-
-            stores = [
-                store for store in stores if store["name"] not in EXCLUDED_STORE_NAMES
-            ]
-
-            logger.info(
-                "Total stores after exclusions: %s (excluded: %s)",
-                len(stores),
-                ", ".join(sorted(EXCLUDED_STORE_NAMES)),
+        if settings.scraper_type == "store_list":
+            all_events = scrape_events_from_store_list(p, settings)
+        elif settings.scraper_type == "event_list":
+            all_events = scrape_events_from_event_list(p, settings)
+        else:
+            raise ValueError(
+                f"Unsupported SCRAPER_TYPE '{settings.scraper_type}'. Use 'store_list' or 'event_list'."
             )
-
-            for index, store in enumerate(stores):
-                logger.info("Scraping store %s", store["name"])
-                store_events = []
-                try:
-                    store_events = get_events_for_store(page, store["name"])
-                except Exception as err:
-                    logger.exception("Store scraping failed for %s: %s", store["name"], err)
-                    remaining = len(stores) - index - 1
-                    logger.warning(
-                        "Skipping %s after failure and attempting recovery. Remaining stores: %s",
-                        store["name"],
-                        remaining,
-                    )
-                    try:
-                        recover_store_results(page, settings)
-                    except Exception as recovery_err:
-                        logger.exception(
-                            "Recovery failed after store %s: %s",
-                            store["name"],
-                            recovery_err,
-                        )
-                        break
-
-                all_events.extend(store_events)
-                time.sleep(settings.scraper_store_delay_seconds)
-        finally:
-            context.close()
-            browser.close()
 
     # guardar raw
     with open(settings.raw_events_path, "w") as f:

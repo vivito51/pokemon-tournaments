@@ -1,4 +1,5 @@
 import logging
+from json import JSONDecodeError
 
 from app.core.settings import get_settings
 
@@ -107,22 +108,49 @@ def find_store_locator(page, store_name, max_scroll_attempts=18):
     raise TimeoutError(f"Store result not found in rendered list: {store_name}")
 
 
+def wait_for_store_events_response(page):
+    return page.expect_response(
+        lambda r: (
+            "DataActionGetEventsByGUID" in r.url
+            and r.status == 200
+            and "json" in r.headers.get("content-type", "").lower()
+        ),
+        timeout=30000,
+    )
+
+
+def return_to_store_results(page):
+    page.get_by_text("Back to previous screen").click()
+    page.get_by_text("Back to previous screen").wait_for(state="hidden", timeout=10000)
+    wait_for_store_results_ready(page)
+    interaction_wait(page, 2200)
+
+
 def get_events_for_store(page, store_name):
     logger.info("Opening store page for %s", store_name)
 
     events = []
     data = None
+    last_response_text = None
 
     try:
-
-        with page.expect_response(
-            lambda r: "DataActionGetEventsByGUID" in r.url
-        ) as resp:
+        with wait_for_store_events_response(page) as resp:
             store_locator = find_store_locator(page, store_name)
             store_locator.click()
 
         response = resp.value
-        data = response.json()
+        last_response_text = response.text()
+
+        try:
+            data = response.json()
+        except JSONDecodeError as err:
+            logger.error(
+                "Event response for %s was not valid JSON. First 200 chars: %s",
+                store_name,
+                (last_response_text or "")[:200],
+            )
+            raise err
+
         interaction_wait(page, 2200)
         page.get_by_text("Back to previous screen").wait_for(state="visible", timeout=10000)
 
@@ -147,14 +175,11 @@ def get_events_for_store(page, store_name):
         logger.exception("Error parsing events for %s: %s", store_name, err)
         if data is not None:
             logger.debug("Last response data for %s: %s", store_name, data)
+        raise
 
     # volver atrás
     try:
-        page.get_by_text("Back to previous screen").click()
-        page.get_by_text("Back to previous screen").wait_for(state="hidden", timeout=10000)
-        wait_for_store_results_ready(page)
-        interaction_wait(page, 2200)
-
+        return_to_store_results(page)
     except Exception as err:
         logger.warning("Back button failed for %s: %s", store_name, err)
 

@@ -19,6 +19,59 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+EXCLUDED_STORE_NAMES = {
+    "COLLECTORAGE",
+    "DARUMA",
+    "UNIVERSE TCG - SEGOVIA",
+    "GENERACIÓN X TOLEDO",
+    "JUPITER GUADALAJARA",
+}
+
+
+def create_browser_context(playwright, settings):
+    browser = playwright.chromium.launch(
+        headless=settings.scraper_headless,
+        args=[
+            "--disable-blink-features=AutomationControlled",
+        ]
+    )
+
+    context = browser.new_context(
+        user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        viewport={"width": 1280, "height": 800},
+        locale="en-US"
+    )
+
+    return browser, context
+
+
+def open_store_results_page(page, settings):
+    page.goto("https://events.pokemon.com/en-us/events")
+    setup_madrid_search(page)
+    wait_for_store_results(page)
+    page.wait_for_timeout(
+        5000 + int(settings.scraper_interaction_extra_delay_seconds * 1000)
+    )
+
+
+def recover_store_results(page, settings):
+    logger.warning("Recovering scraper state back to store results")
+    open_store_results_page(page, settings)
+    logger.info("Store results recovered")
+
+
+def collect_stores(playwright, settings):
+    browser, context = create_browser_context(playwright, settings)
+    page = context.new_page()
+    page.goto("https://events.pokemon.com/en-us/events")
+    stores = register_store_listener(page)
+    setup_madrid_search(page)
+    wait_for_store_results(page)
+    page.wait_for_timeout(
+        5000 + int(settings.scraper_interaction_extra_delay_seconds * 1000)
+    )
+    return browser, context, page, stores
+
 
 def run():
     settings = get_settings()
@@ -29,51 +82,49 @@ def run():
     create_tables()
 
     with sync_playwright() as p:
+        browser, context, page, stores = collect_stores(p, settings)
 
-        browser = p.chromium.launch(
-            headless=settings.scraper_headless,
-            args=[
-                "--disable-blink-features=AutomationControlled",
+        try:
+            logger.info("Total stores detected before exclusions: %s", len(stores))
+
+            stores = [
+                store for store in stores if store["name"] not in EXCLUDED_STORE_NAMES
             ]
-        )
 
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            viewport={"width": 1280, "height": 800},
-            locale="en-US"
-        )
+            logger.info(
+                "Total stores after exclusions: %s (excluded: %s)",
+                len(stores),
+                ", ".join(sorted(EXCLUDED_STORE_NAMES)),
+            )
 
-        page = context.new_page()
+            for index, store in enumerate(stores):
+                logger.info("Scraping store %s", store["name"])
+                store_events = []
+                try:
+                    store_events = get_events_for_store(page, store["name"])
+                except Exception as err:
+                    logger.exception("Store scraping failed for %s: %s", store["name"], err)
+                    remaining = len(stores) - index - 1
+                    logger.warning(
+                        "Skipping %s after failure and attempting recovery. Remaining stores: %s",
+                        store["name"],
+                        remaining,
+                    )
+                    try:
+                        recover_store_results(page, settings)
+                    except Exception as recovery_err:
+                        logger.exception(
+                            "Recovery failed after store %s: %s",
+                            store["name"],
+                            recovery_err,
+                        )
+                        break
 
-        page.goto("https://events.pokemon.com/en-us/events")
-
-        # Listen stores
-        stores = register_store_listener(page)
-
-        # busqueda
-        setup_madrid_search(page)
-
-        wait_for_store_results(page)
-
-        page.wait_for_timeout(
-            5000 + int(settings.scraper_interaction_extra_delay_seconds * 1000)
-        )
-
-        logger.info("Total stores detected: %s", len(stores))
-
-        for store in stores:
-            logger.info("Scraping store %s", store["name"])
-            store_events = []
-            try:
-                store_events = get_events_for_store(page, store["name"])
-            except Exception as err:
-                logger.exception("Store scraping failed for %s: %s", store["name"], err)
-
-            all_events.extend(store_events)
-
-            time.sleep(settings.scraper_store_delay_seconds)
-
-        browser.close()
+                all_events.extend(store_events)
+                time.sleep(settings.scraper_store_delay_seconds)
+        finally:
+            context.close()
+            browser.close()
 
     # guardar raw
     with open(settings.raw_events_path, "w") as f:

@@ -1,7 +1,7 @@
 export const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL ?? "";
 export const STATIC_EVENTS_PATH = "/data/events_clean.json";
 export const MADRID_TIME_ZONE = "Europe/Madrid";
-const LOCAL_MADRID_TYPES = new Set(["Cup", "Challenge"]);
+const LOCAL_MADRID_TYPES = new Set(["Cup", "Challenge", "Prerelease"]);
 
 export const COLOR_PALETTE = [
   "#ef4444",

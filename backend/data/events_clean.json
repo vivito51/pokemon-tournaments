@@ -1,29 +1,5 @@
 [
     {
-        "name": "League - OZ JUEGOS",
-        "date": "2026-04-14T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "League - EL TURNO EXTRA",
-        "date": "2026-04-14T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "EL TURNO EXTRA",
-        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-    },
-    {
-        "name": "League - GENERACI\u00d3N X GETAFE",
-        "date": "2026-04-14T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
         "name": "League - ISEKAI",
         "date": "2026-04-15T15:30:00Z",
         "game": "tcg",

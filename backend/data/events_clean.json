@@ -1,37 +1,5 @@
 [
     {
-        "name": "League - ISEKAI",
-        "date": "2026-04-15T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "League - TOPDECK",
-        "date": "2026-04-15T15:45:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "League - LUDOTECA MALDITA",
-        "date": "2026-04-15T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "League - JUPITER MADRID NORTE",
-        "date": "2026-04-15T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
         "name": "League - PANDA GAMES",
         "date": "2026-04-16T15:00:00Z",
         "game": "tcg",
@@ -878,6 +846,14 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "[Presentaci\u00f3n] Caos Creciente",
+        "date": "2026-05-09T17:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "PADIS STORE",
+        "address": "C. DE BLASCO DE GARAY, 36, CHAMBER\u00cd, 28015 MADRID, SPAIN"
     },
     {
         "name": "LEAGUE CHALLENGE MAYO",
@@ -2366,5 +2342,13 @@
         "type": "League",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-07-14T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
     }
 ]

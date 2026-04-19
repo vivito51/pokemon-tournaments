@@ -1,159 +1,5 @@
 [
     {
-        "name": "League - EL TURNO EXTRA",
-        "date": "2026-04-18T08:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "EL TURNO EXTRA",
-        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-    },
-    {
-        "name": "League - OZ JUEGOS",
-        "date": "2026-04-18T08:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "League - HOBBYSHOP WARGAMES",
-        "date": "2026-04-18T09:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "HOBBYSHOP WARGAMES",
-        "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-    },
-    {
-        "name": "League - GEN X MUSAS",
-        "date": "2026-04-18T09:15:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "GEN X MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "TCG League Challenge Abril - El Turno Extra",
-        "date": "2026-04-18T10:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Challenge",
-        "store": "EL TURNO EXTRA",
-        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
-    },
-    {
-        "name": "Desafio de Liga Genx Toledo de Abril",
-        "date": "2026-04-18T10:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Challenge",
-        "store": "GENERACION X TOLEDO",
-        "address": "TR.\u00aa URUGUAY, 6, 45004 TOLEDO, SPAIN"
-    },
-    {
-        "name": "SOMOSJUEGOS VGC Challenge Abril",
-        "date": "2026-04-18T10:30:00Z",
-        "game": "vg",
-        "games": [
-            "vg"
-        ],
-        "type": "Challenge",
-        "store": "SOMOSJUEGOS",
-        "address": "C. DEL MAR DE BERING, 2, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "Cup Abril HobbyShop",
-        "date": "2026-04-18T11:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Cup",
-        "store": "HOBBY SHOP WARGAMES S.L",
-        "address": "C. DE TALAMANCA, 18, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "League - HOBBYSHOP WARGAMES",
-        "date": "2026-04-18T14:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "HOBBYSHOP WARGAMES",
-        "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-    },
-    {
-        "name": "League - JUPITER MADRID NORTE",
-        "date": "2026-04-18T15:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "Challenge Abril HobbyShop",
-        "date": "2026-04-18T17:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Challenge",
-        "store": "HOBBY SHOP WARGAMES S.L",
-        "address": "C. DE TALAMANCA, 18, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "Go Cup Abril [J\u00fapiter Alcorc\u00f3n]",
-        "date": "2026-04-18T17:30:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo"
-        ],
-        "type": "Cup",
-        "store": "J\u00daPITER ALCORC\u00d3N",
-        "address": "C. PARQUE BUJARUELO, 10, 28924 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "TCG League Challenge Abril [J\u00fapiter Alcorc\u00f3n]",
-        "date": "2026-04-18T17:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Challenge",
-        "store": "J\u00daPITER ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "Go Challenge Abril [J\u00fapiter Alcorc\u00f3n]",
-        "date": "2026-04-18T19:30:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo"
-        ],
-        "type": "Challenge",
-        "store": "J\u00daPITER ALCORC\u00d3N",
-        "address": "C. PARQUE BUJARUELO, 10, 28924 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
         "name": "League - MADAKIBA",
         "date": "2026-04-19T08:00:00Z",
         "game": "pgo",
@@ -861,6 +707,28 @@
         "type": "League",
         "store": "GEN X MUSAS",
         "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
+    },
+    {
+        "name": "Challenge VGC Mayo",
+        "date": "2026-05-02T10:30:00Z",
+        "game": "vg",
+        "games": [
+            "vg"
+        ],
+        "type": "Challenge",
+        "store": "KINGDOM WARGARMES",
+        "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
+        "name": "League Challenge Mayo",
+        "date": "2026-05-02T10:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Challenge",
+        "store": "KINGDOM WARGARMES",
+        "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
     },
     {
         "name": "League - JUPITER MADRID NORTE",
@@ -3562,5 +3430,49 @@
         "type": "League",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - PADIS",
+        "date": "2026-07-17T15:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - PADIS",
+        "date": "2026-07-17T15:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - GLADIUS GAMES",
+        "date": "2026-07-17T15:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "GLADIUS GAMES",
+        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
+        "name": "League - ISEKAI",
+        "date": "2026-07-17T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ISEKAI",
+        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     }
 ]

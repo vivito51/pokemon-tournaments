@@ -1,29 +1,5 @@
 [
     {
-        "name": "League - TOPDECK",
-        "date": "2026-04-22T15:45:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "League - JUPITER MADRID NORTE",
-        "date": "2026-04-22T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "League - LUDOTECA MALDITA",
-        "date": "2026-04-22T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
-    },
-    {
         "name": "League - SOMOSJUEGOS",
         "date": "2026-04-23T15:00:00Z",
         "game": "tcg",
@@ -568,6 +544,14 @@
         "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
+        "name": "LEAGUE CUP MAYO",
+        "date": "2026-05-09T10:30:00Z",
+        "game": "tcg",
+        "type": "Cup",
+        "store": "JUPITER JUEGOS MADRID NORTE",
+        "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
+    },
+    {
         "name": "LUDOTECA MALDITA: CUP Q2 2026",
         "date": "2026-05-09T10:30:00Z",
         "game": "tcg",
@@ -656,14 +640,6 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
-        "name": "LEAGUE CUP MAYO",
-        "date": "2026-05-10T11:00:00Z",
-        "game": "tcg",
-        "type": "Cup",
-        "store": "JUPITER JUEGOS MADRID NORTE",
-        "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
-    },
-    {
         "name": "Prelanzamiento Megaevoluci\u00f3n Caos Creciente",
         "date": "2026-05-10T11:30:00Z",
         "game": "tcg",
@@ -678,6 +654,14 @@
         "type": "League",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "PRESENTACI\u00d3N CAOS CRECIENTE",
+        "date": "2026-05-10T16:30:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "JUPITER JUEGOS MADRID NORTE",
+        "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
     },
     {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -2198,5 +2182,13 @@
         "type": "League",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-07-21T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
     }
 ]

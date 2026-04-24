@@ -1,61 +1,5 @@
 [
     {
-        "name": "League - SOMOSJUEGOS",
-        "date": "2026-04-23T15:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "League - GENERACI\u00d3N X TOLEDO",
-        "date": "2026-04-23T15:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "GENERACI\u00d3N X TOLEDO",
-        "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
-    },
-    {
-        "name": "League - PANDA GAMES",
-        "date": "2026-04-23T15:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "League - METROPOLIS CENTER",
-        "date": "2026-04-23T15:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - HOBBYSHOP WARGAMES",
-        "date": "2026-04-23T16:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "HOBBYSHOP WARGAMES",
-        "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-    },
-    {
         "name": "League - PADIS",
         "date": "2026-04-24T15:00:00Z",
         "game": "tcg",
@@ -86,7 +30,7 @@
         ],
         "type": "League",
         "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - GLADIUS GAMES",
@@ -130,7 +74,7 @@
         ],
         "type": "Challenge",
         "store": "LUDOTECA MALDITA",
-        "address": "C. DE GUTIERRE DE CETINA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - EL TURNO EXTRA",
@@ -346,7 +290,7 @@
         ],
         "type": "League",
         "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - JUPITER MADRID NORTE",
@@ -457,7 +401,7 @@
         ],
         "type": "League",
         "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - ISEKAI",
@@ -651,7 +595,7 @@
         ],
         "type": "League",
         "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - JUPITER MADRID NORTE",
@@ -751,7 +695,7 @@
         ],
         "type": "League",
         "store": "LUDOTECA MALDITA",
-        "address": "12 C. DE GUTIERRE DE CETINA, MADRID, MD 28017, ES"
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - GLADIUS GAMES",
@@ -784,7 +728,7 @@
         ],
         "type": "Challenge",
         "store": "LUDOTECA MALDITA",
-        "address": "C. DE GUTIERRE DE CETINA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - EL TURNO EXTRA",
@@ -839,7 +783,7 @@
         ],
         "type": "Cup",
         "store": "LUDOTECA MALDITA",
-        "address": "C. DE GUTIERRE DE CETINA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - JUPITER MADRID NORTE",
@@ -851,17 +795,6 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "[Presentaci\u00f3n] Caos Creciente",
-        "date": "2026-05-09T17:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Prerelease",
-        "store": "PADIS STORE",
-        "address": "C. DE BLASCO DE GARAY, 36, CHAMBER\u00cd, 28015 MADRID, SPAIN"
     },
     {
         "name": "LEAGUE CHALLENGE MAYO",
@@ -894,7 +827,18 @@
         ],
         "type": "Prerelease",
         "store": "LUDOTECA MALDITA",
-        "address": "C. DE GUTIERRE DE CETINA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
+        "name": "Presentaci\u00f3n de Caos Creciente J\u00fapiter Juegos Alcorc\u00f3n",
+        "date": "2026-05-09T18:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Prerelease",
+        "store": "JUPITER ALCORC\u00d3N",
+        "address": "C. PARQUE BUJARUELO, 10, 28924 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
         "name": "League - MADAKIBA",
@@ -1001,6 +945,17 @@
         "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "[Presentaci\u00f3n] Caos Creciente",
+        "date": "2026-05-10T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Prerelease",
+        "store": "PADIS STORE",
+        "address": "C. DE BLASCO DE GARAY, 36, CHAMBER\u00cd, 28015 MADRID, SPAIN"
+    },
+    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2026-05-11T17:30:00Z",
         "game": "pgo",
@@ -1066,7 +1021,7 @@
         ],
         "type": "Prerelease",
         "store": "LUDOTECA MALDITA",
-        "address": "C. DE GUTIERRE DE CETINA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - SOMOSJUEGOS",
@@ -3382,5 +3337,16 @@
         "type": "League",
         "store": "GENERACI\u00d3N X GETAFE",
         "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
+        "name": "League - JUPITER MADRID NORTE",
+        "date": "2026-07-22T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "JUPITER MADRID NORTE",
+        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     }
 ]

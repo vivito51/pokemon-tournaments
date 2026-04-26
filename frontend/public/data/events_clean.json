@@ -1,70 +1,6 @@
 {
-    "updatedAt": "2026-04-25T08:06:07.763972+00:00",
+    "updatedAt": "2026-04-26T08:16:19.019283+00:00",
     "events": [
-        {
-            "name": "League - EL TURNO EXTRA",
-            "date": "2026-04-25T08:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "EL TURNO EXTRA",
-            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-        },
-        {
-            "name": "League - OZ JUEGOS",
-            "date": "2026-04-25T08:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "OZ JUEGOS",
-            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-        },
-        {
-            "name": "League - GLADIUS GAMES",
-            "date": "2026-04-25T08:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GLADIUS GAMES",
-            "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-        },
-        {
-            "name": "League - GEN X MUSAS",
-            "date": "2026-04-25T09:15:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GEN X MUSAS",
-            "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
-        },
-        {
-            "name": "Arte 9 CHALLENGE",
-            "date": "2026-04-25T10:00:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "ARTE 9",
-            "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
-        },
-        {
-            "name": "League - JUPITER MADRID NORTE",
-            "date": "2026-04-25T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "JUPITER MADRID NORTE",
-            "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-        },
-        {
-            "name": "LEAGUE CHALLENGE ABRIL",
-            "date": "2026-04-25T16:30:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "JUPITER JUEGOS MADRID NORTE",
-            "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
-        },
-        {
-            "name": "Challenge Abril",
-            "date": "2026-04-25T17:00:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "MICELION GAMES",
-            "address": "AV. DEL MEDITERR\u00c1NEO, 8, RETIRO, 28007 MADRID, SPAIN"
-        },
         {
             "name": "League - KINGDOM WARGAMES",
             "date": "2026-04-26T08:00:00Z",
@@ -139,7 +75,7 @@
         },
         {
             "name": "League - EL TURNO EXTRA",
-            "date": "2026-04-28T15:00:00Z",
+            "date": "2026-04-28T15:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "EL TURNO EXTRA",
@@ -339,7 +275,7 @@
         },
         {
             "name": "League - EL TURNO EXTRA",
-            "date": "2026-05-05T15:00:00Z",
+            "date": "2026-05-05T15:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "EL TURNO EXTRA",
@@ -482,6 +418,14 @@
             "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
         },
         {
+            "name": "Presentacion Caos",
+            "date": "2026-05-09T10:30:00Z",
+            "game": "tcg",
+            "type": "Prerelease",
+            "store": "SOMOS JUEGOS",
+            "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
+        },
+        {
             "name": "LEAGUE CUP MAYO",
             "date": "2026-05-09T10:30:00Z",
             "game": "tcg",
@@ -578,6 +522,14 @@
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
+            "name": "Presentacion Caos",
+            "date": "2026-05-10T10:30:00Z",
+            "game": "tcg",
+            "type": "Prerelease",
+            "store": "KINGDOM WARGARMES",
+            "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        },
+        {
             "name": "[2026] VGC League Cup Padis Mayo",
             "date": "2026-05-10T10:50:00Z",
             "game": "vg",
@@ -635,7 +587,7 @@
         },
         {
             "name": "League - EL TURNO EXTRA",
-            "date": "2026-05-12T15:00:00Z",
+            "date": "2026-05-12T15:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "EL TURNO EXTRA",
@@ -843,7 +795,7 @@
         },
         {
             "name": "League - EL TURNO EXTRA",
-            "date": "2026-05-19T15:00:00Z",
+            "date": "2026-05-19T15:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "EL TURNO EXTRA",
@@ -1019,7 +971,15 @@
         },
         {
             "name": "League - EL TURNO EXTRA",
-            "date": "2026-05-26T15:00:00Z",
+            "date": "2026-05-26T03:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-05-26T15:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "EL TURNO EXTRA",
@@ -1203,7 +1163,15 @@
         },
         {
             "name": "League - EL TURNO EXTRA",
-            "date": "2026-06-02T15:00:00Z",
+            "date": "2026-06-02T03:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-06-02T15:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "EL TURNO EXTRA",
@@ -1363,7 +1331,15 @@
         },
         {
             "name": "League - EL TURNO EXTRA",
-            "date": "2026-06-09T15:00:00Z",
+            "date": "2026-06-09T03:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-06-09T15:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "EL TURNO EXTRA",
@@ -1523,7 +1499,15 @@
         },
         {
             "name": "League - EL TURNO EXTRA",
-            "date": "2026-06-16T15:00:00Z",
+            "date": "2026-06-16T03:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-06-16T15:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "EL TURNO EXTRA",
@@ -1667,7 +1651,15 @@
         },
         {
             "name": "League - EL TURNO EXTRA",
-            "date": "2026-06-23T15:00:00Z",
+            "date": "2026-06-23T03:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-06-23T15:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "EL TURNO EXTRA",
@@ -1754,6 +1746,14 @@
             "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-06-27T08:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
             "name": "League - GEN X MUSAS",
             "date": "2026-06-27T09:15:00Z",
             "game": "tcg",
@@ -1803,7 +1803,15 @@
         },
         {
             "name": "League - EL TURNO EXTRA",
-            "date": "2026-06-30T15:00:00Z",
+            "date": "2026-06-30T03:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-06-30T15:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "EL TURNO EXTRA",
@@ -1882,6 +1890,14 @@
             "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-07-04T08:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
             "name": "League - GEN X MUSAS",
             "date": "2026-07-04T09:15:00Z",
             "game": "tcg",
@@ -1928,6 +1944,22 @@
             "type": "League",
             "store": "PADIS",
             "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-07-07T03:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-07-07T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
         },
         {
             "name": "League - GENERACI\u00d3N X GETAFE",
@@ -1986,6 +2018,14 @@
             "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-07-11T08:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
             "name": "League - GEN X MUSAS",
             "date": "2026-07-11T09:15:00Z",
             "game": "tcg",
@@ -2032,6 +2072,22 @@
             "type": "League",
             "store": "PADIS",
             "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-07-14T03:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-07-14T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
         },
         {
             "name": "League - GENERACI\u00d3N X GETAFE",
@@ -2090,6 +2146,14 @@
             "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-07-18T08:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
             "name": "League - GEN X MUSAS",
             "date": "2026-07-18T09:15:00Z",
             "game": "tcg",
@@ -2138,6 +2202,22 @@
             "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
         },
         {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-07-21T03:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-07-21T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
             "name": "League - GENERACI\u00d3N X GETAFE",
             "date": "2026-07-21T16:00:00Z",
             "game": "tcg",
@@ -2168,6 +2248,46 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - PADIS",
+            "date": "2026-07-24T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PADIS",
+            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - GLADIUS GAMES",
+            "date": "2026-07-24T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GLADIUS GAMES",
+            "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+        },
+        {
+            "name": "League - ISEKAI",
+            "date": "2026-07-24T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "ISEKAI",
+            "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-07-25T08:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-07-28T03:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
         }
     ]
 }

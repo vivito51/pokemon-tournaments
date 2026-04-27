@@ -1,69 +1,5 @@
 [
     {
-        "name": "League - KINGDOM WARGAMES",
-        "date": "2026-04-26T08:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "KINGDOM WARGAMES",
-        "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
-    },
-    {
-        "name": "League - MADAKIBA",
-        "date": "2026-04-26T08:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "MADAKIBA",
-        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-    },
-    {
-        "name": "League - MADAKIBA",
-        "date": "2026-04-26T08:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "MADAKIBA",
-        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-    },
-    {
-        "name": "League - DARUMA",
-        "date": "2026-04-26T09:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "DARUMA",
-        "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
-    },
-    {
-        "name": "League - METROPOLIS CENTER",
-        "date": "2026-04-26T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "Madakiba TCG League Challenge Abril",
-        "date": "2026-04-26T10:30:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "MADAKIBA",
-        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-    },
-    {
-        "name": "League - PADIS",
-        "date": "2026-04-26T14:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "Challenge Abril Top Deck",
-        "date": "2026-04-26T17:00:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "TOP DECK",
-        "address": "CALLE DEL CARDENAL SIL\u00cdCEO, 17, CHAMART\u00cdN, 28002 MADRID, SPAIN"
-    },
-    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2026-04-27T17:30:00Z",
         "game": "tcg",
@@ -2278,6 +2214,22 @@
         "type": "League",
         "store": "EL TURNO EXTRA",
         "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
+        "name": "League - GEN X MUSAS",
+        "date": "2026-07-25T09:15:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GEN X MUSAS",
+        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
+    },
+    {
+        "name": "League - JUPITER MADRID NORTE",
+        "date": "2026-07-25T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "JUPITER MADRID NORTE",
+        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
         "name": "League - EL TURNO EXTRA",

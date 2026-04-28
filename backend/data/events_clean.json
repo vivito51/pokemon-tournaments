@@ -1,13 +1,5 @@
 [
     {
-        "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "date": "2026-04-27T17:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
         "name": "League - EL TURNO EXTRA",
         "date": "2026-04-28T15:30:00Z",
         "game": "tcg",
@@ -22,6 +14,14 @@
         "type": "League",
         "store": "GENERACI\u00d3N X GETAFE",
         "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-04-28T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
     },
     {
         "name": "League - TOPDECK",
@@ -200,6 +200,14 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-05-04T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2026-05-04T17:30:00Z",
         "game": "tcg",
@@ -344,6 +352,14 @@
         "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
     },
     {
+        "name": "Presentacion Caos Creciente",
+        "date": "2026-05-09T10:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
+    },
+    {
         "name": "Presentaci\u00f3n Chaos Rising Prerelease",
         "date": "2026-05-09T10:00:00Z",
         "game": "tcg",
@@ -390,6 +406,14 @@
         "type": "Challenge",
         "store": "JUPITER JUEGOS MADRID NORTE",
         "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "Presentacion Caos Creciente",
+        "date": "2026-05-09T17:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
     },
     {
         "name": "PRESENTACION MADAKIBA CAOS CRECIENTE",
@@ -496,6 +520,14 @@
         "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "[2026] VGC League Challenge Padis Mayo",
+        "date": "2026-05-10T16:30:00Z",
+        "game": "vg",
+        "type": "Challenge",
+        "store": "PADIS STORE",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
         "name": "[Presentaci\u00f3n] Caos Creciente",
         "date": "2026-05-10T17:00:00Z",
         "game": "tcg",
@@ -510,6 +542,14 @@
         "type": "Prerelease",
         "store": "TOPDECK",
         "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
+    },
+    {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-05-11T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
     },
     {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -720,6 +760,14 @@
         "address": "C. SAN ROQUE, 15, BAJO IZQUIERDA, 19002 GUADALAJARA, SPAIN"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-05-18T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2026-05-18T17:30:00Z",
         "game": "tcg",
@@ -894,6 +942,14 @@
         "type": "League",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-05-25T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
     },
     {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -1088,6 +1144,14 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-06-01T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2026-06-01T17:30:00Z",
         "game": "tcg",
@@ -1254,6 +1318,14 @@
         "type": "League",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-06-08T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
     },
     {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -1424,6 +1496,14 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-06-15T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2026-06-15T17:30:00Z",
         "game": "tcg",
@@ -1584,6 +1664,14 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-06-22T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - EL TURNO EXTRA",
         "date": "2026-06-23T03:30:00Z",
         "game": "tcg",
@@ -1736,6 +1824,14 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-06-29T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - EL TURNO EXTRA",
         "date": "2026-06-30T03:30:00Z",
         "game": "tcg",
@@ -1880,6 +1976,14 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-07-06T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - EL TURNO EXTRA",
         "date": "2026-07-07T03:30:00Z",
         "game": "tcg",
@@ -2006,6 +2110,14 @@
         "type": "League",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-07-13T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
     },
     {
         "name": "League - EL TURNO EXTRA",
@@ -2136,6 +2248,14 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-07-20T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - EL TURNO EXTRA",
         "date": "2026-07-21T03:30:00Z",
         "game": "tcg",
@@ -2230,6 +2350,38 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "League - KINGDOM WARGAMES",
+        "date": "2026-07-26T08:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "KINGDOM WARGAMES",
+        "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
+        "name": "League - MADAKIBA",
+        "date": "2026-07-26T08:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "League - METROPOLIS CENTER",
+        "date": "2026-07-26T09:15:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - PADIS",
+        "date": "2026-07-26T14:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
         "name": "League - EL TURNO EXTRA",

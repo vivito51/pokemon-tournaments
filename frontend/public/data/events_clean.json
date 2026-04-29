@@ -1,30 +1,6 @@
 {
-    "updatedAt": "2026-04-28T09:21:35.002401+00:00",
+    "updatedAt": "2026-04-29T09:09:54.602492+00:00",
     "events": [
-        {
-            "name": "League - EL TURNO EXTRA",
-            "date": "2026-04-28T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "EL TURNO EXTRA",
-            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-04-28T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-        },
-        {
-            "name": "League - ALCAL\u00c1 C\u00d3MICS",
-            "date": "2026-04-28T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "ALCAL\u00c1 C\u00d3MICS",
-            "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-        },
         {
             "name": "League - TOPDECK",
             "date": "2026-04-29T15:45:00Z",
@@ -298,6 +274,14 @@
             "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
         },
         {
+            "name": "League Challenge Mayo",
+            "date": "2026-05-07T17:30:00Z",
+            "game": "tcg",
+            "type": "Challenge",
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
+        },
+        {
             "name": "League - PADIS",
             "date": "2026-05-08T15:00:00Z",
             "game": "tcg",
@@ -488,6 +472,14 @@
             "type": "Prerelease",
             "store": "KINGDOM WARGARMES",
             "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        },
+        {
+            "name": "Presentacion Caos Creciente",
+            "date": "2026-05-10T10:30:00Z",
+            "game": "tcg",
+            "type": "Prerelease",
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
         },
         {
             "name": "[2026] VGC League Cup Padis Mayo",
@@ -688,6 +680,22 @@
             "type": "League",
             "store": "GEN X MUSAS",
             "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO, MADRID, MD 28022, ES"
+        },
+        {
+            "name": "Presentacion Caos Creciente",
+            "date": "2026-05-16T10:00:00Z",
+            "game": "tcg",
+            "type": "Prerelease",
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "TCG League Challenge Mayo - El Turno Extra",
+            "date": "2026-05-16T10:00:00Z",
+            "game": "tcg",
+            "type": "Challenge",
+            "store": "EL TURNO EXTRA",
+            "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
         },
         {
             "name": "Challenge Mayo",

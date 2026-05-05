@@ -117,7 +117,7 @@ def get_events_from_event_list(page):
             and r.status == 200
             and "json" in r.headers.get("content-type", "").lower()
         ),
-        timeout=30000,
+        timeout=120000,
     ) as response_info:
         enable_event_list_view(page)
 

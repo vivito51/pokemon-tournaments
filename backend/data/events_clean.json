@@ -1,29 +1,5 @@
 [
     {
-        "name": "League - OZ JUEGOS",
-        "date": "2026-05-05T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-05-05T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - EL TURNO EXTRA",
-        "date": "2026-05-05T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "EL TURNO EXTRA",
-        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-    },
-    {
         "name": "League - ISEKAI",
         "date": "2026-05-06T15:00:00Z",
         "game": "tcg",
@@ -102,6 +78,14 @@
         "type": "League",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-05-07T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
     },
     {
         "name": "League - HOBBYSHOP WARGAMES",
@@ -656,6 +640,14 @@
         "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
     },
     {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-05-14T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
         "name": "GenX Getafe Presentaci\u00f3n Megaevoluci\u00f3n Caos Creciente Jueves",
         "date": "2026-05-14T18:00:00Z",
         "game": "tcg",
@@ -1046,6 +1038,14 @@
         "type": "League",
         "store": "HOBBYSHOP WARGAMES",
         "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+    },
+    {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-05-21T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -1440,6 +1440,14 @@
         "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
     },
     {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-05-28T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
         "name": "League - PADIS",
         "date": "2026-05-29T15:00:00Z",
         "game": "tcg",
@@ -1776,6 +1784,14 @@
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-06-04T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
         "name": "League - HOBBYSHOP WARGAMES",
         "date": "2026-06-04T16:00:00Z",
         "game": "tcg",
@@ -2072,6 +2088,14 @@
         "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
     },
     {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-06-11T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
         "name": "League - PADIS",
         "date": "2026-06-12T15:00:00Z",
         "game": "tcg",
@@ -2350,6 +2374,14 @@
         "type": "League",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-06-18T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
     },
     {
         "name": "League - HOBBYSHOP WARGAMES",
@@ -2632,6 +2664,14 @@
         "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
     },
     {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-06-25T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
         "name": "League - PADIS",
         "date": "2026-06-26T15:00:00Z",
         "game": "tcg",
@@ -2896,6 +2936,14 @@
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-07-02T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
         "name": "League - PADIS",
         "date": "2026-07-03T15:00:00Z",
         "game": "tcg",
@@ -3142,6 +3190,14 @@
         "type": "League",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-07-09T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -3392,6 +3448,14 @@
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-07-16T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
         "name": "League - PADIS",
         "date": "2026-07-17T15:00:00Z",
         "game": "tcg",
@@ -3640,6 +3704,14 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-07-23T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
         "name": "League - PADIS",
         "date": "2026-07-24T15:00:00Z",
         "game": "tcg",
@@ -3864,6 +3936,14 @@
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-07-30T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
         "name": "League - PADIS",
         "date": "2026-07-31T15:00:00Z",
         "game": "tcg",
@@ -3994,6 +4074,14 @@
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-08-02T14:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-08-03T15:30:00Z",
         "game": "tcg",
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",

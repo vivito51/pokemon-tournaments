@@ -1,46 +1,6 @@
 {
-    "updatedAt": "2026-05-06T09:23:33.163613+00:00",
+    "updatedAt": "2026-05-07T09:32:35.292872+00:00",
     "events": [
-        {
-            "name": "League - ISEKAI",
-            "date": "2026-05-06T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "ISEKAI",
-            "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-05-06T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - TOPDECK",
-            "date": "2026-05-06T15:45:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "TOPDECK",
-            "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-        },
-        {
-            "name": "League - LUDOTECA MALDITA",
-            "date": "2026-05-06T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "LUDOTECA MALDITA",
-            "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-        },
-        {
-            "name": "League - JUPITER MADRID NORTE",
-            "date": "2026-05-06T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "JUPITER MADRID NORTE",
-            "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-        },
         {
             "name": "League - GENERACI\u00d3N X TOLEDO",
             "date": "2026-05-07T15:00:00Z",
@@ -352,6 +312,14 @@
             "type": "League",
             "store": "MADAKIBA",
             "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+        },
+        {
+            "name": "League - DARUMA",
+            "date": "2026-05-10T09:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DARUMA",
+            "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
         },
         {
             "name": "League - METROPOLIS CENTER",
@@ -4084,6 +4052,22 @@
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-08-03T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - OZ JUEGOS",
+            "date": "2026-08-04T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "OZ JUEGOS",
+            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-08-04T15:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",

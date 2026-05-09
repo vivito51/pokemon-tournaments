@@ -1,61 +1,5 @@
 [
     {
-        "name": "League - METROPOLIS CENTER",
-        "date": "2026-05-08T07:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - PADIS",
-        "date": "2026-05-08T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - LUDOTECA MALDITA",
-        "date": "2026-05-08T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-05-08T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - GLADIUS GAMES",
-        "date": "2026-05-08T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GLADIUS GAMES",
-        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "League - ISEKAI",
-        "date": "2026-05-08T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "LUDOTECA MALDITA: Challenge Mayo",
-        "date": "2026-05-08T17:30:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-05-09T08:00:00Z",
         "game": "tcg",
@@ -422,6 +366,14 @@
         "type": "League",
         "store": "ALCAL\u00c1 C\u00d3MICS",
         "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
+        "name": "Prelanzamiento Caos Creciente",
+        "date": "2026-05-11T17:30:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "J\u00daPITER ALCORC\u00d3N",
+        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
     },
     {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -1072,6 +1024,14 @@
         "address": "C. RDA. ANCHA, 19, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
     },
     {
+        "name": "TCG League Cup [J\u00fapiter Alcorc\u00f3n]",
+        "date": "2026-05-23T10:30:00Z",
+        "game": "tcg",
+        "type": "Cup",
+        "store": "J\u00daPITER ALCORC\u00d3N",
+        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
+    },
+    {
         "name": "Madakiba TCG League Cup",
         "date": "2026-05-23T10:30:00Z",
         "game": "tcg",
@@ -1134,6 +1094,14 @@
         "type": "Challenge",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "TCG League Challenge Mayo [J\u00fapiter Alcorc\u00f3n]",
+        "date": "2026-05-23T17:30:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "J\u00daPITER ALCORC\u00d3N",
+        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
     },
     {
         "name": "CHALLENGE ALCALA COMICS MAYO",
@@ -4054,6 +4022,38 @@
         "type": "League",
         "store": "LUDOTECA MALDITA",
         "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
+        "name": "League - SOMOSJUEGOS",
+        "date": "2026-08-06T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "SOMOSJUEGOS",
+        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-08-06T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - METROPOLIS CENTER",
+        "date": "2026-08-06T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - GENERACI\u00d3N X GETAFE",
+        "date": "2026-08-06T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
     },
     {
         "name": "League - LUDOTECA MALDITA",

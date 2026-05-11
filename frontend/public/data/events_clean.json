@@ -1,182 +1,6 @@
 {
-    "updatedAt": "2026-05-10T08:53:54.941826+00:00",
+    "updatedAt": "2026-05-11T10:39:17.512989+00:00",
     "events": [
-        {
-            "name": "League - MADAKIBA",
-            "date": "2026-05-10T08:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "MADAKIBA",
-            "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-05-10T08:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - KINGDOM WARGAMES",
-            "date": "2026-05-10T08:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "KINGDOM WARGAMES",
-            "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
-        },
-        {
-            "name": "League - MADAKIBA",
-            "date": "2026-05-10T08:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "MADAKIBA",
-            "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-        },
-        {
-            "name": "League - DARUMA",
-            "date": "2026-05-10T09:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "DARUMA",
-            "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
-        },
-        {
-            "name": "League - METROPOLIS CENTER",
-            "date": "2026-05-10T09:15:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "PRESENTACION MADAKIBA CAOS CRECIENTE",
-            "date": "2026-05-10T10:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "MADAKIBA",
-            "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-        },
-        {
-            "name": "CUP ARTE 9 - MAYO",
-            "date": "2026-05-10T10:30:00Z",
-            "game": "tcg",
-            "type": "Cup",
-            "store": "ARTE 9",
-            "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
-        },
-        {
-            "name": "Presentacion Caos",
-            "date": "2026-05-10T10:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "KINGDOM WARGARMES",
-            "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
-        },
-        {
-            "name": "Presentacion Caos Creciente",
-            "date": "2026-05-10T10:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "[2026] VGC League Cup Padis Mayo",
-            "date": "2026-05-10T10:50:00Z",
-            "game": "vg",
-            "type": "Cup",
-            "store": "PADIS STORE",
-            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "Prelanzamiento Megaevoluci\u00f3n Caos Creciente",
-            "date": "2026-05-10T11:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "J\u00daPITER GUADALAJARA",
-            "address": "C. SAN ROQUE, 15, BAJO IZQUIERDA, 19002 GUADALAJARA, SPAIN"
-        },
-        {
-            "name": "Presentaci\u00f3n Megaevoluci\u00f3n-Caos Creciente",
-            "date": "2026-05-10T11:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "ISEKAI",
-            "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
-            "name": "League - PADIS",
-            "date": "2026-05-10T14:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "PADIS",
-            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-05-10T14:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "PRESENTACI\u00d3N CAOS CRECIENTE",
-            "date": "2026-05-10T16:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "JUPITER JUEGOS MADRID NORTE",
-            "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
-        },
-        {
-            "name": "[2026] VGC League Challenge Padis Mayo",
-            "date": "2026-05-10T16:30:00Z",
-            "game": "vg",
-            "type": "Challenge",
-            "store": "PADIS STORE",
-            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "[Presentaci\u00f3n] Caos Creciente",
-            "date": "2026-05-10T17:00:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "PADIS STORE",
-            "address": "C. DE BLASCO DE GARAY, 36, CHAMBER\u00cd, 28015 MADRID, SPAIN"
-        },
-        {
-            "name": "TOPDECK CAOS CRECIENTE PRERELEASE",
-            "date": "2026-05-10T17:00:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "TOPDECK",
-            "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-        },
-        {
-            "name": "Presentaci\u00f3n Megaevoluci\u00f3n-Caos Creciente",
-            "date": "2026-05-10T17:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "ISEKAI",
-            "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
-            "name": "ARTE 9 CHALLENGE MAYO",
-            "date": "2026-05-10T17:30:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "ARTE 9",
-            "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
-        },
-        {
-            "name": "PRERELEASE POK\u00c9MON CHAOS",
-            "date": "2026-05-10T17:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "ARTE 9",
-            "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
-        },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-05-11T15:30:00Z",
@@ -864,6 +688,14 @@
             "type": "Cup",
             "store": "MADAKIBA",
             "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+        },
+        {
+            "name": "Cup Mayo Top Deck",
+            "date": "2026-05-23T11:00:00Z",
+            "game": "tcg",
+            "type": "Cup",
+            "store": "TOP DECK",
+            "address": "CALLE DEL CARDENAL SIL\u00cdCEO, 17, CHAMART\u00cdN, 28002 MADRID, SPAIN"
         },
         {
             "name": "SOMOSJUEGOS VGC Cup Mayo",
@@ -3936,6 +3768,54 @@
             "type": "League",
             "store": "ISEKAI",
             "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-08-08T08:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - OZ JUEGOS",
+            "date": "2026-08-08T08:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "OZ JUEGOS",
+            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+        },
+        {
+            "name": "League - EGO LUDO",
+            "date": "2026-08-08T09:15:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EGO LUDO",
+            "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+        },
+        {
+            "name": "League - OZ JUEGOS",
+            "date": "2026-08-08T14:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "OZ JUEGOS",
+            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+        },
+        {
+            "name": "League - JUPITER MADRID NORTE",
+            "date": "2026-08-08T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "JUPITER MADRID NORTE",
+            "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-08-08T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         }
     ]
 }

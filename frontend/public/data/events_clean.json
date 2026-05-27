@@ -1,62 +1,6 @@
 {
-    "updatedAt": "2026-05-25T11:10:40.230771+00:00",
+    "updatedAt": "2026-05-27T10:56:08.849359+00:00",
     "events": [
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-05-25T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - ALCAL\u00c1 C\u00d3MICS",
-            "date": "2026-05-25T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "ALCAL\u00c1 C\u00d3MICS",
-            "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-        },
-        {
-            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
-            "date": "2026-05-25T17:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-        },
-        {
-            "name": "League - EL TURNO EXTRA",
-            "date": "2026-05-26T03:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "EL TURNO EXTRA",
-            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-        },
-        {
-            "name": "League - OZ JUEGOS",
-            "date": "2026-05-26T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "OZ JUEGOS",
-            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-        },
-        {
-            "name": "League - EL TURNO EXTRA",
-            "date": "2026-05-26T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "EL TURNO EXTRA",
-            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-05-26T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
         {
             "name": "League - ISEKAI",
             "date": "2026-05-27T15:00:00Z",
@@ -154,12 +98,12 @@
             "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
         },
         {
-            "name": "League - GENERACI\u00d3N X GETAFE",
+            "name": "League - DARUMA",
             "date": "2026-05-28T16:00:00Z",
-            "game": "tcg",
+            "game": "vg",
             "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+            "store": "DARUMA",
+            "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
         },
         {
             "name": "Challenge Mayo Hobbyshop",
@@ -458,6 +402,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X GETAFE",
+            "date": "2026-06-02T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X GETAFE",
+            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+        },
+        {
             "name": "League - ISEKAI",
             "date": "2026-06-03T15:00:00Z",
             "game": "tcg",
@@ -538,14 +490,6 @@
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-06-04T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-        },
-        {
             "name": "League - HOBBYSHOP WARGAMES",
             "date": "2026-06-04T16:00:00Z",
             "game": "tcg",
@@ -624,6 +568,14 @@
             "type": "League",
             "store": "EGO LUDO",
             "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+        },
+        {
+            "name": "League - DARUMA",
+            "date": "2026-06-06T09:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DARUMA",
+            "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
         },
         {
             "name": "League - OZ JUEGOS",
@@ -762,6 +714,14 @@
             "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
         },
         {
+            "name": "League - GENERACI\u00d3N X GETAFE",
+            "date": "2026-06-09T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X GETAFE",
+            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+        },
+        {
             "name": "League - ISEKAI",
             "date": "2026-06-10T15:00:00Z",
             "game": "tcg",
@@ -848,14 +808,6 @@
             "type": "League",
             "store": "HOBBYSHOP WARGAMES",
             "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-06-11T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -1066,6 +1018,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X GETAFE",
+            "date": "2026-06-16T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X GETAFE",
+            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+        },
+        {
             "name": "League - ISEKAI",
             "date": "2026-06-17T15:00:00Z",
             "game": "tcg",
@@ -1144,14 +1104,6 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-06-18T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
         },
         {
             "name": "League - HOBBYSHOP WARGAMES",
@@ -1362,6 +1314,14 @@
             "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
         },
         {
+            "name": "League - GENERACI\u00d3N X GETAFE",
+            "date": "2026-06-23T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X GETAFE",
+            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+        },
+        {
             "name": "League - ISEKAI",
             "date": "2026-06-24T15:00:00Z",
             "game": "tcg",
@@ -1448,14 +1408,6 @@
             "type": "League",
             "store": "HOBBYSHOP WARGAMES",
             "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-06-25T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -1658,6 +1610,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X GETAFE",
+            "date": "2026-06-30T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X GETAFE",
+            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+        },
+        {
             "name": "League - ISEKAI",
             "date": "2026-07-01T15:00:00Z",
             "game": "tcg",
@@ -1736,14 +1696,6 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-07-02T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -1938,6 +1890,14 @@
             "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
         },
         {
+            "name": "League - GENERACI\u00d3N X GETAFE",
+            "date": "2026-07-07T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X GETAFE",
+            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+        },
+        {
             "name": "League - ISEKAI",
             "date": "2026-07-08T15:00:00Z",
             "game": "tcg",
@@ -2000,14 +1960,6 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-07-09T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -2202,6 +2154,14 @@
             "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
         },
         {
+            "name": "League - GENERACI\u00d3N X GETAFE",
+            "date": "2026-07-14T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X GETAFE",
+            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+        },
+        {
             "name": "League - ISEKAI",
             "date": "2026-07-15T15:00:00Z",
             "game": "tcg",
@@ -2264,14 +2224,6 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-07-16T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -2466,6 +2418,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X GETAFE",
+            "date": "2026-07-21T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X GETAFE",
+            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+        },
+        {
             "name": "League - ISEKAI",
             "date": "2026-07-22T15:00:00Z",
             "game": "tcg",
@@ -2528,14 +2488,6 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-07-23T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -2714,6 +2666,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X GETAFE",
+            "date": "2026-07-28T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X GETAFE",
+            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-07-29T15:30:00Z",
             "game": "tcg",
@@ -2768,14 +2728,6 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-07-30T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -2938,6 +2890,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X GETAFE",
+            "date": "2026-08-04T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X GETAFE",
+            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-08-05T15:30:00Z",
             "game": "tcg",
@@ -2992,14 +2952,6 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-08-06T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -3162,6 +3114,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X GETAFE",
+            "date": "2026-08-11T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X GETAFE",
+            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-08-12T15:30:00Z",
             "game": "tcg",
@@ -3208,14 +3168,6 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-08-13T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -3370,6 +3322,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X GETAFE",
+            "date": "2026-08-18T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X GETAFE",
+            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+        },
+        {
             "name": "League - PADIS",
             "date": "2026-08-19T15:30:00Z",
             "game": "tcg",
@@ -3416,14 +3376,6 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-08-20T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -3500,6 +3452,62 @@
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-08-22T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-08-23T08:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - KINGDOM WARGAMES",
+            "date": "2026-08-23T08:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "KINGDOM WARGAMES",
+            "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        },
+        {
+            "name": "League - MADAKIBA",
+            "date": "2026-08-23T08:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "MADAKIBA",
+            "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+        },
+        {
+            "name": "League - METROPOLIS CENTER",
+            "date": "2026-08-23T09:15:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-08-23T14:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - PADIS",
+            "date": "2026-08-23T14:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PADIS",
+            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-08-24T15:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",

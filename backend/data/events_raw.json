@@ -1,96 +1,5 @@
 [
     {
-        "name": "League - PANDA GAMES",
-        "date": "2026-05-28T15:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "League - GENERACI\u00d3N X TOLEDO",
-        "date": "2026-05-28T15:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "GENERACI\u00d3N X TOLEDO",
-        "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
-    },
-    {
-        "name": "League - SOMOSJUEGOS",
-        "date": "2026-05-28T15:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-05-28T15:30:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo",
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - METROPOLIS CENTER",
-        "date": "2026-05-28T15:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - HOBBYSHOP WARGAMES",
-        "date": "2026-05-28T16:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "HOBBYSHOP WARGAMES",
-        "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-    },
-    {
-        "name": "League - DARUMA",
-        "date": "2026-05-28T16:00:00Z",
-        "game": "vg",
-        "games": [
-            "vg"
-        ],
-        "type": "League",
-        "store": "DARUMA",
-        "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
-    },
-    {
-        "name": "Challenge Mayo Hobbyshop",
-        "date": "2026-05-28T18:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Challenge",
-        "store": "HOBBYSHOP WARGAMES",
-        "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-    },
-    {
         "name": "League - PADIS",
         "date": "2026-05-29T15:00:00Z",
         "game": "tcg",
@@ -1758,7 +1667,7 @@
         "games": [
             "tcg"
         ],
-        "type": "Cup",
+        "type": "Mid\u2011Year Celebrations",
         "store": "JUPITER JUEGOS MADRID NORTE",
         "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
     },
@@ -1864,7 +1773,7 @@
         "games": [
             "tcg"
         ],
-        "type": "Cup",
+        "type": "Mid\u2011Year Celebrations",
         "store": "GENERACI\u00d3N X LAS MUSAS",
         "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
     },
@@ -2317,7 +2226,7 @@
         "games": [
             "vg"
         ],
-        "type": "Cup",
+        "type": "Mid\u2011Year Celebrations",
         "store": "GENERACI\u00d3N X LAS MUSAS",
         "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
     },
@@ -2759,7 +2668,7 @@
         "games": [
             "pgo"
         ],
-        "type": "Cup",
+        "type": "Mid\u2011Year Celebrations",
         "store": "GENERACI\u00d3N X LAS MUSAS",
         "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
     },
@@ -5426,5 +5335,40 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-08-26T15:30:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo",
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - PADIS",
+        "date": "2026-08-26T15:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - JUPITER MADRID NORTE",
+        "date": "2026-08-26T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "JUPITER MADRID NORTE",
+        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     }
 ]

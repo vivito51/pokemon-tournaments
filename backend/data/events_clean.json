@@ -1,53 +1,5 @@
 [
     {
-        "name": "League - PADIS",
-        "date": "2026-05-29T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-05-29T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - GLADIUS GAMES",
-        "date": "2026-05-29T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GLADIUS GAMES",
-        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "League - LUDOTECA MALDITA",
-        "date": "2026-05-29T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "League - ISEKAI",
-        "date": "2026-05-29T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "[2026] League Challenge VG Mayo - Alcal\u00e1 Weekend [Alcal\u00e1 C\u00f3mics]",
-        "date": "2026-05-29T16:30:00Z",
-        "game": "vg",
-        "type": "Challenge",
-        "store": "CENTRO COMERCIAL QUADERNILLOS",
-        "address": "S/N AV. DE DON JUAN TENORIO, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-    },
-    {
         "name": "League - EL TURNO EXTRA",
         "date": "2026-05-30T08:00:00Z",
         "game": "tcg",
@@ -102,6 +54,30 @@
         "type": "Challenge",
         "store": "GENERACION X TOLEDO",
         "address": "TR.\u00aa URUGUAY, 6, 45004 TOLEDO, SPAIN"
+    },
+    {
+        "name": "TORNEO DE S\u00c1BADO",
+        "date": "2026-05-30T10:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
+        "name": "METROSABADO",
+        "date": "2026-05-30T10:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "Liga Semanal 30/05/2026",
+        "date": "2026-05-30T11:20:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "GENERACI\u00d3N X LAS MUSAS",
+        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
     },
     {
         "name": "GenX Getafe League Cup T2 2026",
@@ -3446,5 +3422,29 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "League - SOMOSJUEGOS",
+        "date": "2026-08-27T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "SOMOSJUEGOS",
+        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-08-27T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - METROPOLIS CENTER",
+        "date": "2026-08-27T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     }
 ]

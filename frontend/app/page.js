@@ -11,12 +11,12 @@ import WeeklyLeagueScheduleModal from "@/app/components/WeeklyLeagueScheduleModa
 import {
   API_BASE_URL,
   GAME_OPTIONS,
-  INITIAL_FILTERS,
   buildStoreColorMap,
   deriveStores,
   filterRawEvents,
   formatCalendarEvent,
   getHistoryModalState,
+  getInitialFilters,
   getDataMode,
   parseEventsPayload,
   STATIC_EVENTS_PATH,
@@ -31,7 +31,7 @@ export default function Home() {
   const [selectedDate, setSelectedDate] = useState(null);
   const [game, setGame] = useState("tcg");
   const [store, setStore] = useState("");
-  const [filters, setFilters] = useState(INITIAL_FILTERS);
+  const [filters, setFilters] = useState(() => getInitialFilters());
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [updatedAt, setUpdatedAt] = useState(null);

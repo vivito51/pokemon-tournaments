@@ -45,8 +45,26 @@ export const INITIAL_FILTERS = {
   Prerelease: false,
 };
 
+const SUMMER_MONTHS = new Set([6, 7, 8]);
+
 export function getDataMode() {
   return API_BASE_URL ? "api" : "static";
+}
+
+function getMadridMonth(date = new Date()) {
+  const month = new Intl.DateTimeFormat("en-US", {
+    timeZone: MADRID_TIME_ZONE,
+    month: "numeric",
+  }).format(date);
+
+  return Number(month);
+}
+
+export function getInitialFilters(date = new Date()) {
+  return {
+    ...INITIAL_FILTERS,
+    League: SUMMER_MONTHS.has(getMadridMonth(date)),
+  };
 }
 
 export function parseEventsPayload(payload) {

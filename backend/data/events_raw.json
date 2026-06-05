@@ -1,74 +1,5 @@
 [
     {
-        "name": "League - SOMOSJUEGOS",
-        "date": "2026-06-04T15:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "SOMOSJUEGOS",
-        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-06-04T15:30:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo",
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - METROPOLIS CENTER",
-        "date": "2026-06-04T15:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - HOBBYSHOP WARGAMES",
-        "date": "2026-06-04T16:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "HOBBYSHOP WARGAMES",
-        "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-    },
-    {
-        "name": "Pokemon Standar",
-        "date": "2026-06-04T17:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Friendly Tournament",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "Liga Semanal Jueves",
-        "date": "2026-06-04T18:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Friendly Tournament",
-        "store": "TCG ACADEMY",
-        "address": "AV. DE LA CONSTITUCI\u00d3N, 90, LOCAL 22 CC, 28850 TORREJ\u00d3N DE ARDOZ, MADRID, SPAIN"
-    },
-    {
         "name": "League - PADIS",
         "date": "2026-06-05T15:00:00Z",
         "game": "tcg",
@@ -730,6 +661,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "Arte 9 Liga Pok\u00e9mon",
+        "date": "2026-06-13T17:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Friendly Tournament",
+        "store": "ARTE 9",
+        "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-06-14T08:00:00Z",
         "game": "pgo",
@@ -1209,6 +1151,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "Arte 9 Liga Pok\u00e9mon",
+        "date": "2026-06-20T17:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Friendly Tournament",
+        "store": "ARTE 9",
+        "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
+    },
+    {
         "name": "League - KINGDOM WARGAMES",
         "date": "2026-06-21T08:00:00Z",
         "game": "tcg",
@@ -1581,6 +1534,17 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "GenX Getafe Mid-Year Celebration Junio",
+        "date": "2026-06-26T17:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Mid\u2011Year Celebrations",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-06-27T08:00:00Z",
         "game": "pgo",
@@ -1660,6 +1624,17 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "Arte 9 Liga Pok\u00e9mon",
+        "date": "2026-06-27T17:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Friendly Tournament",
+        "store": "ARTE 9",
+        "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
     },
     {
         "name": "League - KINGDOM WARGAMES",
@@ -2104,6 +2079,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "Arte 9 Liga Pok\u00e9mon",
+        "date": "2026-07-04T17:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Friendly Tournament",
+        "store": "ARTE 9",
+        "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-07-05T08:00:00Z",
         "game": "pgo",
@@ -2328,19 +2314,6 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-07-08T15:30:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo",
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
         "name": "League - JUPITER MADRID NORTE",
         "date": "2026-07-08T16:00:00Z",
         "game": "tcg",
@@ -2546,6 +2519,17 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "Liga Pok\u00e9mon Arte 9",
+        "date": "2026-07-11T17:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Friendly Tournament",
+        "store": "ARTE 9",
+        "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -3331,6 +3315,17 @@
         "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
     },
     {
+        "name": "GenX Getafe Mid-Year Celebration Julio TCG",
+        "date": "2026-07-25T11:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Friendly Tournament",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2026-07-25T14:30:00Z",
         "game": "tcg",
@@ -3364,6 +3359,17 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "GenX Getafe Mid-Year Celebration Julio VGC",
+        "date": "2026-07-25T17:30:00Z",
+        "game": "vg",
+        "games": [
+            "vg"
+        ],
+        "type": "Mid\u2011Year Celebrations",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
     },
     {
         "name": "League - KINGDOM WARGAMES",
@@ -5180,5 +5186,40 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - PADIS",
+        "date": "2026-09-02T15:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-09-02T15:30:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo",
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - JUPITER MADRID NORTE",
+        "date": "2026-09-02T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "JUPITER MADRID NORTE",
+        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     }
 ]

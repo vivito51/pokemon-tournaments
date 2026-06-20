@@ -1,45 +1,5 @@
 [
     {
-        "name": "League - PADIS",
-        "date": "2026-06-19T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-06-19T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - GLADIUS GAMES",
-        "date": "2026-06-19T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GLADIUS GAMES",
-        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "League - LUDOTECA MALDITA",
-        "date": "2026-06-19T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "League - ISEKAI",
-        "date": "2026-06-19T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
         "name": "League - EL TURNO EXTRA",
         "date": "2026-06-20T08:00:00Z",
         "game": "tcg",
@@ -70,14 +30,6 @@
         "type": "League",
         "store": "EGO LUDO",
         "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-    },
-    {
-        "name": "GLC GenXToledo",
-        "date": "2026-06-20T10:00:00Z",
-        "game": "tcg",
-        "type": "Friendly Tournament",
-        "store": "GENERACION X TOLEDO",
-        "address": "TR.\u00aa URUGUAY, 6, 45004 TOLEDO, SPAIN"
     },
     {
         "name": "LIGA POK\u00c9MON JORNADA 2",
@@ -448,6 +400,14 @@
         "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
+        "name": "LUDOTECA MALDITA: VGC CHAMPIONS",
+        "date": "2026-06-27T10:30:00Z",
+        "game": "vg",
+        "type": "Mid\u2011Year Celebrations",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2026-06-27T14:30:00Z",
         "game": "tcg",
@@ -776,6 +736,14 @@
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
+        "name": "Prelanzamiento Megaevoluci\u00f3n - Oscuridad Absoluta | Horario de Ma\u00f1ana",
+        "date": "2026-07-04T10:30:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "ALCALA COMICS",
+        "address": "C. RDA. ANCHA, 19, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
         "name": "LUDOTECA MALDITA: Presentaci\u00f3n Megaevoluci\u00f3n Oscuridad Absoluta",
         "date": "2026-07-04T10:30:00Z",
         "game": "tcg",
@@ -846,6 +814,14 @@
         "type": "Prerelease",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "Prelanzamiento Megaevoluci\u00f3n - Oscuridad Absoluta | Horario de Tarde",
+        "date": "2026-07-04T18:30:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "ALCALA COMICS",
+        "address": "C. RDA. ANCHA, 19, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -934,6 +910,14 @@
         "type": "League",
         "store": "TOPDECK",
         "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
+    },
+    {
+        "name": "[2026] Prerrelease Megaevoluci\u00f3n-Oscuridad Absoluta Padis",
+        "date": "2026-07-05T17:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "PADIS STORE",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1150,6 +1134,14 @@
         "type": "Prerelease",
         "store": "GENERACION X TOLEDO",
         "address": "TR.\u00aa URUGUAY, 6, 45004 TOLEDO, SPAIN"
+    },
+    {
+        "name": "Torneo Mid-Year Celebration Alcal\u00e1 C\u00f3mics",
+        "date": "2026-07-11T10:00:00Z",
+        "game": "tcg",
+        "type": "Mid\u2011Year Celebrations",
+        "store": "ALCALA COMICS",
+        "address": "C. RDA. ANCHA, 19, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
     },
     {
         "name": "PRESENTACION POKEMON TCG OSCURIDAD ABSOLUTA",
@@ -3430,5 +3422,29 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "League - SOMOSJUEGOS",
+        "date": "2026-09-17T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "SOMOSJUEGOS",
+        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
+    },
+    {
+        "name": "League - METROPOLIS CENTER",
+        "date": "2026-09-17T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-09-17T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     }
 ]

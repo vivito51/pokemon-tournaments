@@ -1,46 +1,6 @@
 {
-    "updatedAt": "2026-06-23T10:36:58.213654+00:00",
+    "updatedAt": "2026-06-24T10:23:07.254051+00:00",
     "events": [
-        {
-            "name": "League - OZ JUEGOS",
-            "date": "2026-06-23T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "OZ JUEGOS",
-            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-06-23T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - EL TURNO EXTRA",
-            "date": "2026-06-23T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "EL TURNO EXTRA",
-            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-06-23T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-        },
-        {
-            "name": "Casual Pokemon Torneo 23 Junio - 17h",
-            "date": "2026-06-23T17:30:00Z",
-            "game": "tcg",
-            "type": "Friendly Tournament",
-            "store": "COLLECTORAGE",
-            "address": "C. LUIS VIVES, 15, CHAMART\u00cdN, 28002 MADRID, SPAIN"
-        },
         {
             "name": "League - ISEKAI",
             "date": "2026-06-24T15:00:00Z",
@@ -3536,6 +3496,14 @@
             "type": "League",
             "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
             "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-09-21T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         }
     ]
 }

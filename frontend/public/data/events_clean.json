@@ -1,45 +1,21 @@
 {
-    "updatedAt": "2026-06-30T10:32:08.824930+00:00",
+    "updatedAt": "2026-07-01T10:42:14.583606+00:00",
     "events": [
         {
-            "name": "League - TEMPEST STORE SL",
-            "date": "2026-06-30T14:30:00Z",
+            "name": "League - METROPOLIS CENTER",
+            "date": "2026-07-01T09:30:00Z",
             "game": "tcg",
             "type": "League",
-            "store": "TEMPEST STORE SL",
-            "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
-            "name": "League - OZ JUEGOS",
-            "date": "2026-06-30T15:00:00Z",
+            "name": "METROLIGA CASUAL",
+            "date": "2026-07-01T11:30:00Z",
             "game": "tcg",
-            "type": "League",
-            "store": "OZ JUEGOS",
-            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-        },
-        {
-            "name": "League - EL TURNO EXTRA",
-            "date": "2026-06-30T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "EL TURNO EXTRA",
-            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-06-30T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-06-30T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+            "type": "Friendly Tournament",
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
         },
         {
             "name": "League - ISEKAI",
@@ -282,6 +258,14 @@
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
         },
         {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-07-04T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-07-04T15:30:00Z",
             "game": "tcg",
@@ -520,6 +504,14 @@
             "type": "League",
             "store": "ALCAL\u00c1 C\u00d3MICS",
             "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+        },
+        {
+            "name": "Prelanzamiento Megaevoluci\u00f3n-Oscuridad Absoluta",
+            "date": "2026-07-06T17:30:00Z",
+            "game": "tcg",
+            "type": "Prerelease",
+            "store": "J\u00daPITER ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
         },
         {
             "name": "League - EL TURNO EXTRA",
@@ -3512,6 +3504,14 @@
             "type": "League",
             "store": "PADIS",
             "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-09-28T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         }
     ]
 }

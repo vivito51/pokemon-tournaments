@@ -1,46 +1,6 @@
 {
-    "updatedAt": "2026-07-02T10:10:49.679375+00:00",
+    "updatedAt": "2026-07-03T09:58:13.945824+00:00",
     "events": [
-        {
-            "name": "League - GENERACI\u00d3N X TOLEDO",
-            "date": "2026-07-02T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X TOLEDO",
-            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
-        },
-        {
-            "name": "League - SOMOSJUEGOS",
-            "date": "2026-07-02T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "SOMOSJUEGOS",
-            "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-07-02T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - METROPOLIS CENTER",
-            "date": "2026-07-02T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "4\u00ba Jornada de Liga Caos Creciente",
-            "date": "2026-07-02T18:00:00Z",
-            "game": "tcg",
-            "type": "Friendly Tournament",
-            "store": "TCG ACADEMY",
-            "address": "AV. DE LA CONSTITUCI\u00d3N, 90, LOCAL 22 CC, 28850 TORREJ\u00d3N DE ARDOZ, MADRID, SPAIN"
-        },
         {
             "name": "League - PADIS",
             "date": "2026-07-03T15:00:00Z",
@@ -418,6 +378,14 @@
             "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
+            "name": "Presentaci\u00f3n Oscuridad Absoluta",
+            "date": "2026-07-05T17:30:00Z",
+            "game": "tcg",
+            "type": "Prerelease",
+            "store": "PANDA GAMES",
+            "address": "CC X-MADRID, C. OSLO, 53, LOCAL 81, PLANTA ALTA, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
             "date": "2026-07-06T15:00:00Z",
             "game": "tcg",
@@ -552,6 +520,14 @@
             "type": "League",
             "store": "SOMOSJUEGOS",
             "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
+        },
+        {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-07-09T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -698,6 +674,14 @@
             "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
         },
         {
+            "name": "Prerelease Oscuridad Absoluta",
+            "date": "2026-07-11T11:00:00Z",
+            "game": "tcg",
+            "type": "Prerelease",
+            "store": "DRACARYS JUEGOS",
+            "address": "13 P.\u00ba DE FUENTE LUCHA, ALCOBENDAS, MD 28100, ES"
+        },
+        {
             "name": "League - OZ JUEGOS",
             "date": "2026-07-11T14:30:00Z",
             "game": "tcg",
@@ -720,6 +704,14 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "Presentacion Oscuridad Absoluta",
+            "date": "2026-07-11T17:30:00Z",
+            "game": "tcg",
+            "type": "Prerelease",
+            "store": "JUPITER JUEGOS",
+            "address": "8 CALLE DE MANUEL SILVELA, MADRID, MD 28010, ES"
         },
         {
             "name": "Liga Pok\u00e9mon Arte 9",
@@ -944,6 +936,14 @@
             "type": "League",
             "store": "JUPITER MADRID NORTE",
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-07-16T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
         },
         {
             "name": "League - SOMOSJUEGOS",
@@ -1266,6 +1266,14 @@
             "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-07-23T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
+        },
+        {
             "name": "League - METROPOLIS CENTER",
             "date": "2026-07-23T15:30:00Z",
             "game": "tcg",
@@ -1554,6 +1562,14 @@
             "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-07-30T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-07-30T15:30:00Z",
             "game": "tcg",
@@ -1802,6 +1818,14 @@
             "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-08-06T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-08-06T15:30:00Z",
             "game": "tcg",
@@ -2032,6 +2056,14 @@
             "type": "League",
             "store": "JUPITER MADRID NORTE",
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-08-13T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
         },
         {
             "name": "League - SOMOSJUEGOS",
@@ -2282,6 +2314,14 @@
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
         },
         {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-08-20T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
+        },
+        {
             "name": "League - SOMOSJUEGOS",
             "date": "2026-08-20T15:00:00Z",
             "game": "tcg",
@@ -2504,6 +2544,14 @@
             "type": "League",
             "store": "JUPITER MADRID NORTE",
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-08-27T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
         },
         {
             "name": "League - SOMOSJUEGOS",
@@ -2730,6 +2778,14 @@
             "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-09-03T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-09-03T15:30:00Z",
             "game": "tcg",
@@ -2938,6 +2994,14 @@
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
         },
         {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-09-10T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
+        },
+        {
             "name": "League - SOMOSJUEGOS",
             "date": "2026-09-10T15:00:00Z",
             "game": "tcg",
@@ -3144,6 +3208,14 @@
             "type": "League",
             "store": "JUPITER MADRID NORTE",
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-09-17T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
         },
         {
             "name": "League - SOMOSJUEGOS",
@@ -3362,6 +3434,14 @@
             "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-09-24T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-09-24T15:30:00Z",
             "game": "tcg",
@@ -3528,6 +3608,38 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - PADIS",
+            "date": "2026-09-30T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PADIS",
+            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-09-30T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - JUPITER MADRID NORTE",
+            "date": "2026-09-30T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "JUPITER MADRID NORTE",
+            "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-10-01T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
         }
     ]
 }

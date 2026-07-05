@@ -1,198 +1,6 @@
 [
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-07-04T08:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - EL TURNO EXTRA",
-        "date": "2026-07-04T08:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "EL TURNO EXTRA",
-        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-    },
-    {
-        "name": "League - OZ JUEGOS",
-        "date": "2026-07-04T08:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "League - EGO LUDO",
-        "date": "2026-07-04T09:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "EGO LUDO",
-        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-    },
-    {
-        "name": "Presentaci\u00f3n - Megaevoluci\u00f3n-Oscuridad Absoluta",
-        "date": "2026-07-04T10:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "EL TURNO EXTRA",
-        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
-    },
-    {
-        "name": "Presentacion Oscuridad Absoluta",
-        "date": "2026-07-04T10:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "PRESENTACION POKEMON TCG OSCURIDAD ABSOLUTA",
-        "date": "2026-07-04T10:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "MADAKIBA",
-        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-    },
-    {
-        "name": "Presentaci\u00f3n Oscuridad Absoluta - Gladius Games",
-        "date": "2026-07-04T10:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "GLADIUS GAMES",
-        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "Prelanzamiento Megaevoluci\u00f3n - Oscuridad Absoluta | Horario de Ma\u00f1ana",
-        "date": "2026-07-04T10:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "ALCALA COMICS",
-        "address": "C. RDA. ANCHA, 19, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "Present Oscuridad Absoluta 1",
-        "date": "2026-07-04T11:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "GENERACI\u00d3N X LAS MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
-    },
-    {
-        "name": "Presentaci\u00f3n oscuridad absoluta",
-        "date": "2026-07-04T11:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "Presentaciones Oscuridad Absoluta",
-        "date": "2026-07-04T11:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "JUPITER ALCORC\u00d3N",
-        "address": "C. PARQUE BUJARUELO, 10, 28924 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "League - OZ JUEGOS",
-        "date": "2026-07-04T14:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "League - JUPITER MADRID NORTE",
-        "date": "2026-07-04T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "date": "2026-07-04T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-07-04T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "Presentaci\u00f3n - Megaevoluci\u00f3n-Oscuridad Absoluta",
-        "date": "2026-07-04T17:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "EL TURNO EXTRA",
-        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
-    },
-    {
-        "name": "Presentaci\u00f3n Oscuridad Absoluta Top Deck",
-        "date": "2026-07-04T17:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "TOP DECK",
-        "address": "CALLE DEL CARDENAL SIL\u00cdCEO, 17, CHAMART\u00cdN, 28002 MADRID, SPAIN"
-    },
-    {
-        "name": "Presentaci\u00f3n oscuridad absoluta",
-        "date": "2026-07-04T17:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "Arte 9 Liga Pok\u00e9mon",
-        "date": "2026-07-04T17:30:00Z",
-        "game": "tcg",
-        "type": "Friendly Tournament",
-        "store": "ARTE 9",
-        "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
-    },
-    {
-        "name": "LUDOTECA MALDITA: Presentaci\u00f3n Megaevoluci\u00f3n Oscuridad Absoluta",
-        "date": "2026-07-04T17:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "TOPDECK Oscuridad Absoluta Prerelease",
-        "date": "2026-07-04T17:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "Presentacion Oscuridad Absoluta",
-        "date": "2026-07-04T17:59:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "Prelanzamiento Megaevoluci\u00f3n - Oscuridad Absoluta | Horario de Tarde",
-        "date": "2026-07-04T18:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "ALCALA COMICS",
-        "address": "C. RDA. ANCHA, 19, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-07-05T08:00:00Z",
         "game": "tcg",
         "type": "League",
@@ -216,12 +24,44 @@
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
+        "name": "League - TOPDECK",
+        "date": "2026-07-05T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TOPDECK",
+        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
+    },
+    {
         "name": "League - METROPOLIS CENTER",
         "date": "2026-07-05T09:15:00Z",
         "game": "tcg",
         "type": "League",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - ISEKAI",
+        "date": "2026-07-05T09:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ISEKAI",
+        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "Pre release Domingo 5",
+        "date": "2026-07-05T10:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "MICELION GAMES",
+        "address": "AV. DEL MEDITERR\u00c1NEO, 8, RETIRO, 28007 MADRID, SPAIN"
+    },
+    {
+        "name": "Presentaci\u00f3n Oscuridad",
+        "date": "2026-07-05T10:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "Presentacion Oscuridad Absoluta",
@@ -424,20 +264,20 @@
         "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
     },
     {
+        "name": "League - ISEKAI",
+        "date": "2026-07-08T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ISEKAI",
+        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
         "name": "League - TEMPEST STORE SL",
         "date": "2026-07-08T11:45:00Z",
         "game": "tcg",
         "type": "League",
         "store": "TEMPEST STORE SL",
         "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
-    },
-    {
-        "name": "League - ISEKAI",
-        "date": "2026-07-08T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -856,20 +696,20 @@
         "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
     },
     {
+        "name": "League - ISEKAI",
+        "date": "2026-07-15T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ISEKAI",
+        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
         "name": "League - TEMPEST STORE SL",
         "date": "2026-07-15T11:45:00Z",
         "game": "tcg",
         "type": "League",
         "store": "TEMPEST STORE SL",
         "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
-    },
-    {
-        "name": "League - ISEKAI",
-        "date": "2026-07-15T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1184,20 +1024,20 @@
         "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
     },
     {
+        "name": "League - ISEKAI",
+        "date": "2026-07-22T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ISEKAI",
+        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
         "name": "League - TEMPEST STORE SL",
         "date": "2026-07-22T11:45:00Z",
         "game": "tcg",
         "type": "League",
         "store": "TEMPEST STORE SL",
         "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
-    },
-    {
-        "name": "League - ISEKAI",
-        "date": "2026-07-22T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -3638,5 +3478,37 @@
         "type": "League",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - PADIS",
+        "date": "2026-10-02T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - GLADIUS GAMES",
+        "date": "2026-10-02T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GLADIUS GAMES",
+        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-10-02T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - ISEKAI",
+        "date": "2026-10-02T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ISEKAI",
+        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     }
 ]

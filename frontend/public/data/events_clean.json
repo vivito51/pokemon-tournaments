@@ -1,198 +1,6 @@
 {
-    "updatedAt": "2026-07-05T09:42:49.954745+00:00",
+    "updatedAt": "2026-07-06T11:27:35.936336+00:00",
     "events": [
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-07-05T08:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - KINGDOM WARGAMES",
-            "date": "2026-07-05T08:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "KINGDOM WARGAMES",
-            "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
-        },
-        {
-            "name": "League - MADAKIBA",
-            "date": "2026-07-05T08:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "MADAKIBA",
-            "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-        },
-        {
-            "name": "League - TOPDECK",
-            "date": "2026-07-05T09:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "TOPDECK",
-            "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-        },
-        {
-            "name": "League - METROPOLIS CENTER",
-            "date": "2026-07-05T09:15:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - ISEKAI",
-            "date": "2026-07-05T09:45:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "ISEKAI",
-            "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
-            "name": "Pre release Domingo 5",
-            "date": "2026-07-05T10:00:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "MICELION GAMES",
-            "address": "AV. DEL MEDITERR\u00c1NEO, 8, RETIRO, 28007 MADRID, SPAIN"
-        },
-        {
-            "name": "Presentaci\u00f3n Oscuridad",
-            "date": "2026-07-05T10:00:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "EL TURNO EXTRA",
-            "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
-        },
-        {
-            "name": "Presentacion Oscuridad Absoluta",
-            "date": "2026-07-05T10:00:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "PRESENTACION POKEMON TCG OSCURIDAD ABSOLUTA",
-            "date": "2026-07-05T10:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "MADAKIBA",
-            "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-        },
-        {
-            "name": "Quedada torneo Pokemon Champions",
-            "date": "2026-07-05T10:30:00Z",
-            "game": "vg",
-            "type": "Friendly Tournament",
-            "store": "TCG ACADEMY",
-            "address": "AV. DE LA CONSTITUCI\u00d3N, 90, LOCAL 22 CC, 28850 TORREJ\u00d3N DE ARDOZ, MADRID, SPAIN"
-        },
-        {
-            "name": "Presentaci\u00f3n Oscuridad Absoluta Top Deck",
-            "date": "2026-07-05T11:00:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "TOP DECK",
-            "address": "CALLE DEL CARDENAL SIL\u00cdCEO, 17, CHAMART\u00cdN, 28002 MADRID, SPAIN"
-        },
-        {
-            "name": "Present Oscuridad Absoluta 2",
-            "date": "2026-07-05T11:00:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "GENERACI\u00d3N X LAS MUSAS",
-            "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
-        },
-        {
-            "name": "TOPDECK Oscuridad Absoluta Prerelease",
-            "date": "2026-07-05T11:00:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "TOPDECK",
-            "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-        },
-        {
-            "name": "Presentacion PBL Hobby Shop Wargames",
-            "date": "2026-07-05T11:00:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "HOBBYSHOP WARGAMES",
-            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-        },
-        {
-            "name": "Prelanzamiento Megaevoluci\u00f3n: Oscuridad Absoluta",
-            "date": "2026-07-05T11:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "J\u00daPITER GUADALAJARA",
-            "address": "C. SAN ROQUE, 15, BAJO IZQUIERDA, 19002 GUADALAJARA, SPAIN"
-        },
-        {
-            "name": "Presentaci\u00f3n oscuridad absoluta",
-            "date": "2026-07-05T11:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "ISEKAI",
-            "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
-            "name": "League - PADIS",
-            "date": "2026-07-05T14:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "PADIS",
-            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-07-05T14:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - TOPDECK",
-            "date": "2026-07-05T14:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "TOPDECK",
-            "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-        },
-        {
-            "name": "[2026] Prerrelease Megaevoluci\u00f3n-Oscuridad Absoluta Padis",
-            "date": "2026-07-05T17:00:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "PADIS STORE",
-            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "Prelanzamiento Megaevoluci\u00f3n: Oscuridad Absoluta TARDE",
-            "date": "2026-07-05T17:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "J\u00daPITER GUADALAJARA",
-            "address": "C. SAN ROQUE, 15, BAJO IZQUIERDA, 19002 GUADALAJARA, SPAIN"
-        },
-        {
-            "name": "Presentaci\u00f3n oscuridad absoluta",
-            "date": "2026-07-05T17:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "ISEKAI",
-            "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
-            "name": "Presentaci\u00f3n Oscuridad Absoluta",
-            "date": "2026-07-05T17:30:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "PANDA GAMES",
-            "address": "CC X-MADRID, C. OSLO, 53, LOCAL 81, PLANTA ALTA, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-        },
         {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
             "date": "2026-07-06T15:00:00Z",
@@ -280,6 +88,14 @@
             "type": "League",
             "store": "TEMPEST STORE SL",
             "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        },
+        {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-07-08T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
         },
         {
             "name": "League - PADIS",
@@ -410,6 +226,14 @@
             "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
         },
         {
+            "name": "Prelanzamiento Megaevoluci\u00f3n - Oscuridad Absoluta | Horario de Tarde Viernes",
+            "date": "2026-07-10T18:30:00Z",
+            "game": "tcg",
+            "type": "Prerelease",
+            "store": "ALCALA COMICS",
+            "address": "C. RDA. ANCHA, 19, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-07-11T08:00:00Z",
             "game": "tcg",
@@ -512,6 +336,14 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2026-07-11T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
         },
         {
             "name": "Presentacion Oscuridad Absoluta",
@@ -714,6 +546,14 @@
             "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
         },
         {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-07-15T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-07-15T15:30:00Z",
             "game": "tcg",
@@ -890,6 +730,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2026-07-18T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
             "name": "POK\u00c9MON MID YEAR",
             "date": "2026-07-18T16:30:00Z",
             "game": "tcg",
@@ -1042,6 +890,14 @@
             "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
         },
         {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-07-22T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
+        },
+        {
             "name": "League - PADIS",
             "date": "2026-07-22T15:30:00Z",
             "game": "tcg",
@@ -1186,6 +1042,14 @@
             "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
         },
         {
+            "name": "Mediados de A\u00f1o en GenXToledo",
+            "date": "2026-07-25T10:00:00Z",
+            "game": "tcg",
+            "type": "Mid\u2011Year Celebrations",
+            "store": "GENERACION X TOLEDO",
+            "address": "TR.\u00aa URUGUAY, 6, 45004 TOLEDO, SPAIN"
+        },
+        {
             "name": "GenX Getafe Mid-Year Celebration Julio TCG",
             "date": "2026-07-25T11:30:00Z",
             "game": "tcg",
@@ -1208,6 +1072,14 @@
             "type": "League",
             "store": "JUPITER MADRID NORTE",
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2026-07-25T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1336,6 +1208,14 @@
             "type": "League",
             "store": "TEMPEST STORE SL",
             "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        },
+        {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-07-29T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1490,6 +1370,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2026-08-01T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
             "name": "League - KINGDOM WARGAMES",
             "date": "2026-08-02T08:00:00Z",
             "game": "tcg",
@@ -1592,6 +1480,14 @@
             "type": "League",
             "store": "TEMPEST STORE SL",
             "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        },
+        {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-08-05T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1746,6 +1642,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2026-08-08T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-08-09T08:00:00Z",
             "game": "tcg",
@@ -1848,6 +1752,14 @@
             "type": "League",
             "store": "TEMPEST STORE SL",
             "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        },
+        {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-08-12T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1986,6 +1898,14 @@
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
         },
         {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2026-08-15T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-08-15T15:30:00Z",
             "game": "tcg",
@@ -2104,6 +2024,14 @@
             "type": "League",
             "store": "TEMPEST STORE SL",
             "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        },
+        {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-08-19T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
         },
         {
             "name": "League - PADIS",
@@ -2234,6 +2162,14 @@
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
         },
         {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2026-08-22T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-08-22T15:30:00Z",
             "game": "tcg",
@@ -2336,6 +2272,14 @@
             "type": "League",
             "store": "TEMPEST STORE SL",
             "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        },
+        {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-08-26T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -2466,6 +2410,14 @@
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
         },
         {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2026-08-29T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-08-29T15:30:00Z",
             "game": "tcg",
@@ -2560,6 +2512,14 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-09-02T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
         },
         {
             "name": "League - PADIS",
@@ -2690,6 +2650,14 @@
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
         },
         {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2026-09-05T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-09-05T15:30:00Z",
             "game": "tcg",
@@ -2784,6 +2752,14 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-09-09T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -2914,6 +2890,14 @@
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
         },
         {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2026-09-12T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-09-12T15:30:00Z",
             "game": "tcg",
@@ -3000,6 +2984,14 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-09-16T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -3138,6 +3130,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2026-09-19T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-09-20T08:00:00Z",
             "game": "tcg",
@@ -3216,6 +3216,14 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-09-23T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -3346,6 +3354,14 @@
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
         },
         {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2026-09-26T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-09-26T15:30:00Z",
             "game": "tcg",
@@ -3424,6 +3440,14 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-09-30T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
         },
         {
             "name": "League - PADIS",
@@ -3512,6 +3536,62 @@
             "type": "League",
             "store": "ISEKAI",
             "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-10-03T08:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - OZ JUEGOS",
+            "date": "2026-10-03T08:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "OZ JUEGOS",
+            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+        },
+        {
+            "name": "League - EGO LUDO",
+            "date": "2026-10-03T09:15:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EGO LUDO",
+            "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+        },
+        {
+            "name": "League - OZ JUEGOS",
+            "date": "2026-10-03T14:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "OZ JUEGOS",
+            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+        },
+        {
+            "name": "League - JUPITER MADRID NORTE",
+            "date": "2026-10-03T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "JUPITER MADRID NORTE",
+            "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2026-10-03T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-10-03T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         }
     ]
 }

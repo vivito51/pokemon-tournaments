@@ -1,65 +1,5 @@
 [
     {
-        "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "date": "2026-07-06T15:00:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo",
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-07-06T15:30:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo",
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - ALCAL\u00c1 C\u00d3MICS",
-        "date": "2026-07-06T16:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-    },
-    {
-        "name": "Prelanzamiento Megaevoluci\u00f3n-Oscuridad Absoluta",
-        "date": "2026-07-06T17:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Prerelease",
-        "store": "J\u00daPITER ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "League - EL TURNO EXTRA",
-        "date": "2026-07-07T03:30:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo",
-            "tcg"
-        ],
-        "type": "League",
-        "store": "EL TURNO EXTRA",
-        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-    },
-    {
         "name": "League - OZ JUEGOS",
         "date": "2026-07-07T15:00:00Z",
         "game": "tcg",
@@ -1754,6 +1694,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-07-27T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - EL TURNO EXTRA",
         "date": "2026-07-28T03:30:00Z",
         "game": "pgo",
@@ -2186,6 +2137,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-08-03T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2026-08-04T15:00:00Z",
         "game": "tcg",
@@ -2604,6 +2566,17 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-08-10T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -3026,6 +2999,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-08-17T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2026-08-18T15:00:00Z",
         "game": "tcg",
@@ -3424,6 +3408,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-08-24T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2026-08-25T15:00:00Z",
         "game": "tcg",
@@ -3811,6 +3806,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-08-31T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2026-09-01T15:00:00Z",
         "game": "tcg",
@@ -4187,6 +4193,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-09-07T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2026-09-08T15:00:00Z",
         "game": "tcg",
@@ -4550,6 +4567,17 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-09-14T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -4917,6 +4945,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-09-21T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2026-09-22T15:00:00Z",
         "game": "tcg",
@@ -5269,6 +5308,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-09-28T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2026-09-29T15:00:00Z",
         "game": "tcg",
@@ -5522,5 +5572,122 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - KINGDOM WARGAMES",
+        "date": "2026-10-04T08:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "KINGDOM WARGAMES",
+        "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-10-04T08:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo",
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - MADAKIBA",
+        "date": "2026-10-04T08:30:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo",
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "League - METROPOLIS CENTER",
+        "date": "2026-10-04T09:15:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - METROPOLIS CENTER",
+        "date": "2026-10-04T09:15:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-10-04T14:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo",
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - PADIS",
+        "date": "2026-10-04T14:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-10-05T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-10-12T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
+        "name": "League - ALCAL\u00c1 C\u00d3MICS",
+        "date": "2026-10-19T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "ALCAL\u00c1 C\u00d3MICS",
+        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
     }
 ]

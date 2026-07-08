@@ -1,37 +1,13 @@
 {
-    "updatedAt": "2026-07-07T10:25:56.678088+00:00",
+    "updatedAt": "2026-07-08T09:25:51.337423+00:00",
     "events": [
         {
-            "name": "League - OZ JUEGOS",
-            "date": "2026-07-07T15:00:00Z",
+            "name": "League - METROPOLIS CENTER",
+            "date": "2026-07-08T09:00:00Z",
             "game": "tcg",
             "type": "League",
-            "store": "OZ JUEGOS",
-            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-07-07T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - EL TURNO EXTRA",
-            "date": "2026-07-07T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "EL TURNO EXTRA",
-            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-07-07T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
             "name": "League - ISEKAI",
@@ -40,6 +16,14 @@
             "type": "League",
             "store": "ISEKAI",
             "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
+            "name": "METROLIGA CASUAL",
+            "date": "2026-07-08T11:30:00Z",
+            "game": "tcg",
+            "type": "Friendly Tournament",
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
         },
         {
             "name": "League - TEMPEST STORE SL",
@@ -1528,6 +1512,14 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "TORNEO MID SEASON POKEMON TCG",
+            "date": "2026-08-06T17:00:00Z",
+            "game": "tcg",
+            "type": "Mid\u2011Year Celebrations",
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
         },
         {
             "name": "League - PADIS",
@@ -3680,6 +3672,14 @@
             "type": "League",
             "store": "PADIS",
             "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-10-05T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
             "name": "League - ALCAL\u00c1 C\u00d3MICS",

@@ -1,21 +1,5 @@
 [
     {
-        "name": "Moxie Weekly Pokemon TCG Tournament",
-        "date": "2026-07-20T18:00:00Z",
-        "game": "tcg",
-        "type": "Friendly Tournament",
-        "store": "MOXIE CARD SHOP",
-        "address": "1301 E EUCLID AVE SUITE C, DES MOINES, IA 50316, USA"
-    },
-    {
-        "name": "League - MOXIE CARD SHOP",
-        "date": "2026-07-20T22:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "MOXIE CARD SHOP",
-        "address": "1301 E EUCLID AVE, DES MOINES, IA 50316, US"
-    },
-    {
         "name": "League - MAYHEM COLLECTIBLES",
         "date": "2026-07-21T22:30:00Z",
         "game": "tcg",
@@ -1278,5 +1262,21 @@
         "type": "League",
         "store": "ARTEMIS TAVERN",
         "address": "2501 S CENTER ST, MARSHALLTOWN, IA 50158, US"
+    },
+    {
+        "name": "League - DUNGEONS & DODGERS",
+        "date": "2026-10-18T18:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DUNGEONS & DODGERS",
+        "address": "1018 CENTRAL AVE, FORT DODGE, IA 50501, USA"
+    },
+    {
+        "name": "League - TCG PLANET LLC",
+        "date": "2026-10-18T23:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TCG PLANET LLC",
+        "address": "1120 2ND ST, PERRY, IA 50220, US"
     }
 ]

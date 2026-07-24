@@ -27,6 +27,7 @@ export const WEEKLY_LEAGUE_SCHEDULE = [
         time: "18:00",
         mapUrl: "https://maps.app.goo.gl/3jRoQVdspuX9rRX67",
       },
+      { store: "Arte9", time: "18:00", mapUrl: "https://maps.app.goo.gl/HEehB8sSYjw3HnAQ8" },
     ],
   },
   {

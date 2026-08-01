@@ -1,62 +1,6 @@
 {
-    "updatedAt": "2026-07-31T09:44:14.404396+00:00",
+    "updatedAt": "2026-08-01T09:06:21.354336+00:00",
     "events": [
-        {
-            "name": "League - PADIS",
-            "date": "2026-07-31T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "PADIS",
-            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - LUDOTECA MALDITA",
-            "date": "2026-07-31T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "LUDOTECA MALDITA",
-            "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-        },
-        {
-            "name": "League - GLADIUS GAMES",
-            "date": "2026-07-31T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GLADIUS GAMES",
-            "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-07-31T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - ISEKAI",
-            "date": "2026-07-31T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "ISEKAI",
-            "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
-            "name": "8\u00ba Jornada de Liga Maldita",
-            "date": "2026-07-31T17:30:00Z",
-            "game": "tcg",
-            "type": "Friendly Tournament",
-            "store": "LUDOTECA MALDITA",
-            "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-        },
-        {
-            "name": "Torneo Mid-Year J\u00fapiter Alcorc\u00f3n 3",
-            "date": "2026-07-31T17:30:00Z",
-            "game": "tcg",
-            "type": "Friendly Tournament",
-            "store": "JUPITER JUEGOS ALCORC\u00d3N",
-            "address": "C. PARQUE BUJARUELO, 10, LOCAL 7, 28924 ALCORC\u00d3N, MADRID, SPAIN"
-        },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-08-01T08:00:00Z",
@@ -74,6 +18,14 @@
             "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
         },
         {
+            "name": "League - EL TURNO EXTRA",
+            "date": "2026-08-01T08:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EL TURNO EXTRA",
+            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+        },
+        {
             "name": "League - DARUMA",
             "date": "2026-08-01T09:00:00Z",
             "game": "vg",
@@ -88,6 +40,14 @@
             "type": "League",
             "store": "EGO LUDO",
             "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+        },
+        {
+            "name": "League - SOMOSJUEGOS",
+            "date": "2026-08-01T09:15:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "SOMOSJUEGOS",
+            "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
         },
         {
             "name": "LIGA POK\u00c9MON EL TURNO EXTRA",
@@ -112,6 +72,14 @@
             "type": "Mid\u2011Year Celebrations",
             "store": "DRACARYS JUEGOS",
             "address": "13 P.\u00ba DE FUENTE LUCHA, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "Tercera quedada Pokemon Champions",
+            "date": "2026-08-01T11:00:00Z",
+            "game": "vg",
+            "type": "Friendly Tournament",
+            "store": "TCG ACADEMY",
+            "address": "AV. DE LA CONSTITUCI\u00d3N, 90, LOCAL 22 CC, 28850 TORREJ\u00d3N DE ARDOZ, MADRID, SPAIN"
         },
         {
             "name": "League - OZ JUEGOS",
@@ -1160,6 +1128,14 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "LUDOTECA MALDITA: Celebraci\u00f3n del Mundial 2026",
+            "date": "2026-08-23T11:00:00Z",
+            "game": "tcg",
+            "type": "2026 Worlds Celebration",
+            "store": "LUDOTECA MALDITA",
+            "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -3672,6 +3648,30 @@
             "type": "League",
             "store": "LUDOTECA MALDITA",
             "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+        },
+        {
+            "name": "League - SOMOSJUEGOS",
+            "date": "2026-10-29T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "SOMOSJUEGOS",
+            "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-10-29T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - METROPOLIS CENTER",
+            "date": "2026-10-29T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
             "name": "League - LUDOTECA MALDITA",

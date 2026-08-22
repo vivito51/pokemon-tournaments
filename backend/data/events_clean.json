@@ -1,43 +1,11 @@
 [
     {
-        "name": "League - PADIS",
-        "date": "2026-08-21T15:00:00Z",
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-08-22T07:30:00Z",
         "game": "tcg",
         "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - LUDOTECA MALDITA",
-        "date": "2026-08-21T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-08-21T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - GLADIUS GAMES",
-        "date": "2026-08-21T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GLADIUS GAMES",
-        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "League - ISEKAI",
-        "date": "2026-08-21T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -288,6 +256,14 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2026-08-25T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+    },
+    {
         "name": "League - METROPOLIS CENTER",
         "date": "2026-08-26T09:30:00Z",
         "game": "tcg",
@@ -454,6 +430,14 @@
         "type": "2026 Worlds Celebration",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-08-29T07:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -648,6 +632,14 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2026-09-01T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-09-01T15:30:00Z",
         "game": "tcg",
@@ -790,6 +782,14 @@
         "type": "League",
         "store": "ISEKAI",
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-09-05T07:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1000,6 +1000,14 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2026-09-08T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+    },
+    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2026-09-09T15:00:00Z",
         "game": "tcg",
@@ -1126,6 +1134,22 @@
         "type": "League",
         "store": "ISEKAI",
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "[2027] VG League Challenge Septiembre",
+        "date": "2026-09-11T16:30:00Z",
+        "game": "vg",
+        "type": "Challenge",
+        "store": "PADIS STORE",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-09-12T07:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1280,6 +1304,14 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2026-09-15T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-09-15T15:30:00Z",
         "game": "tcg",
@@ -1416,14 +1448,6 @@
         "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
-        "name": "League - EL TURNO EXTRA",
-        "date": "2026-09-18T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "EL TURNO EXTRA",
-        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-    },
-    {
         "name": "League - ISEKAI",
         "date": "2026-09-18T16:00:00Z",
         "game": "tcg",
@@ -1432,12 +1456,12 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
-        "name": "Friends and Family Day",
-        "date": "2026-09-18T17:30:00Z",
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-09-19T07:30:00Z",
         "game": "tcg",
-        "type": "Friendly Tournament",
+        "type": "League",
         "store": "EL TURNO EXTRA",
-        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1462,6 +1486,14 @@
         "type": "League",
         "store": "EGO LUDO",
         "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
+        "name": "League Challenge Septiembre - El Turno Extra",
+        "date": "2026-09-19T10:00:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -1600,6 +1632,14 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2026-09-22T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+    },
+    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2026-09-23T15:00:00Z",
         "game": "tcg",
@@ -1736,6 +1776,14 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-09-26T07:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-09-26T08:00:00Z",
         "game": "tcg",
@@ -1798,6 +1846,22 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-09-26T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
+        "name": "Friends and Family Day",
+        "date": "2026-09-26T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1878,6 +1942,14 @@
         "type": "League",
         "store": "OZ JUEGOS",
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+    },
+    {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2026-09-29T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -2016,6 +2088,14 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-10-03T07:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-10-03T08:00:00Z",
         "game": "tcg",
@@ -2152,6 +2232,14 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2026-10-06T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-10-06T15:30:00Z",
         "game": "tcg",
@@ -2262,6 +2350,14 @@
         "type": "League",
         "store": "ISEKAI",
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-10-10T07:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -2408,6 +2504,14 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2026-10-13T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+    },
+    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2026-10-14T15:00:00Z",
         "game": "tcg",
@@ -2510,6 +2614,14 @@
         "type": "League",
         "store": "ISEKAI",
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-10-17T07:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -2640,6 +2752,14 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2026-10-20T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-10-20T15:30:00Z",
         "game": "tcg",
@@ -2750,6 +2870,14 @@
         "type": "League",
         "store": "ISEKAI",
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-10-24T07:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -2872,6 +3000,14 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2026-10-27T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-10-27T16:30:00Z",
         "game": "tcg",
@@ -2982,6 +3118,14 @@
         "type": "League",
         "store": "ISEKAI",
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-10-31T08:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -3104,6 +3248,14 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2026-11-03T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-11-03T16:30:00Z",
         "game": "tcg",
@@ -3198,6 +3350,14 @@
         "type": "League",
         "store": "ISEKAI",
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-11-07T08:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -3320,6 +3480,14 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2026-11-10T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-11-10T16:30:00Z",
         "game": "tcg",
@@ -3414,6 +3582,14 @@
         "type": "League",
         "store": "ISEKAI",
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-11-14T08:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -3536,6 +3712,14 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2026-11-17T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-11-17T16:30:00Z",
         "game": "tcg",
@@ -3574,5 +3758,37 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "League - SOMOSJUEGOS",
+        "date": "2026-11-19T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "SOMOSJUEGOS",
+        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-11-19T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - METROPOLIS CENTER",
+        "date": "2026-11-19T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League Cup - El Turno Extra",
+        "date": "2026-11-28T10:00:00Z",
+        "game": "tcg",
+        "type": "Cup",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     }
 ]

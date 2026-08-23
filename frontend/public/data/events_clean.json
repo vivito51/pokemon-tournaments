@@ -1,134 +1,6 @@
 {
-    "updatedAt": "2026-08-22T07:30:43.323411+00:00",
+    "updatedAt": "2026-08-23T07:33:19.532713+00:00",
     "events": [
-        {
-            "name": "League - EL TURNO EXTRA",
-            "date": "2026-08-22T07:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "EL TURNO EXTRA",
-            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-08-22T08:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - OZ JUEGOS",
-            "date": "2026-08-22T08:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "OZ JUEGOS",
-            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-        },
-        {
-            "name": "League - EGO LUDO",
-            "date": "2026-08-22T09:15:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "EGO LUDO",
-            "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-        },
-        {
-            "name": "Torneo de celebraci\u00f3n del Campeonato Mundial Pok\u00e9mon 2026",
-            "date": "2026-08-22T10:00:00Z",
-            "game": "tcg",
-            "type": "2026 Worlds Celebration",
-            "store": "GENERACION X TOLEDO",
-            "address": "TR.\u00aa URUGUAY, 6, 45004 TOLEDO, SPAIN"
-        },
-        {
-            "name": "LIGA POK\u00c9MON EL TURNO EXTRA",
-            "date": "2026-08-22T10:00:00Z",
-            "game": "tcg",
-            "type": "Friendly Tournament",
-            "store": "EL TURNO EXTRA",
-            "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
-        },
-        {
-            "name": "Torneo Celebracion Mundial",
-            "date": "2026-08-22T10:00:00Z",
-            "game": "tcg",
-            "type": "2026 Worlds Celebration",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "Torneo Celebracion Mundial 2026",
-            "date": "2026-08-22T10:00:00Z",
-            "game": "tcg",
-            "type": "2026 Worlds Celebration",
-            "store": "ALCALA COMICS",
-            "address": "C. RDA. ANCHA, 19, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-        },
-        {
-            "name": "Celebraci\u00f3n Torneo Mundial",
-            "date": "2026-08-22T11:00:00Z",
-            "game": "tcg",
-            "type": "2026 Worlds Celebration",
-            "store": "JUPITER JUEGOS MADRID NORTE",
-            "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
-        },
-        {
-            "name": "LUDOTECA MALDITA: Celebraci\u00f3n del Mundial 2026 TCG",
-            "date": "2026-08-22T11:00:00Z",
-            "game": "tcg",
-            "type": "2026 Worlds Celebration",
-            "store": "LUDOTECA MALDITA",
-            "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-        },
-        {
-            "name": "GenX Getafe Worlds Celebration 2026",
-            "date": "2026-08-22T11:30:00Z",
-            "game": "tcg",
-            "type": "2026 Worlds Celebration",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-        },
-        {
-            "name": "League - OZ JUEGOS",
-            "date": "2026-08-22T14:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "OZ JUEGOS",
-            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-        },
-        {
-            "name": "League - JUPITER MADRID NORTE",
-            "date": "2026-08-22T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "JUPITER MADRID NORTE",
-            "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-        },
-        {
-            "name": "League - HOBBYSHOP WARGAMES",
-            "date": "2026-08-22T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "HOBBYSHOP WARGAMES",
-            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-        },
-        {
-            "name": "League - MADAKIBA",
-            "date": "2026-08-22T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "MADAKIBA",
-            "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-08-22T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-08-23T08:00:00Z",
@@ -2386,6 +2258,14 @@
             "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
         },
         {
+            "name": "TCG League Challenge Octubre - El Turno Extra",
+            "date": "2026-10-10T10:30:00Z",
+            "game": "tcg",
+            "type": "Challenge",
+            "store": "EL TURNO EXTRA",
+            "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+        },
+        {
             "name": "League - OZ JUEGOS",
             "date": "2026-10-10T14:30:00Z",
             "game": "tcg",
@@ -3378,6 +3258,14 @@
             "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
         },
         {
+            "name": "Pok\u00e9mon TCG League Challenge Noviembre \u2014 El Turno Extra",
+            "date": "2026-11-07T10:00:00Z",
+            "game": "tcg",
+            "type": "Challenge",
+            "store": "EL TURNO EXTRA",
+            "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+        },
+        {
             "name": "League - EGO LUDO",
             "date": "2026-11-07T10:15:00Z",
             "game": "tcg",
@@ -3784,6 +3672,38 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - PADIS",
+            "date": "2026-11-20T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PADIS",
+            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - GLADIUS GAMES",
+            "date": "2026-11-20T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GLADIUS GAMES",
+            "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-11-20T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - ISEKAI",
+            "date": "2026-11-20T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "ISEKAI",
+            "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
             "name": "League Cup - El Turno Extra",

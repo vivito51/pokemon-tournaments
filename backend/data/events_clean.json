@@ -1,35 +1,11 @@
 [
     {
-        "name": "League - METROPOLIS CENTER",
-        "date": "2026-09-07T10:30:00Z",
+        "name": "League - COLLECTORAGE",
+        "date": "2026-09-08T09:45:00Z",
         "game": "tcg",
         "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "date": "2026-09-07T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-09-07T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - ALCAL\u00c1 C\u00d3MICS",
-        "date": "2026-09-07T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+        "store": "COLLECTORAGE",
+        "address": "C. DE HERNANI, 19, TETU\u00c1N, 28020 MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -1046,6 +1022,14 @@
         "type": "League",
         "store": "EL TURNO EXTRA",
         "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
+        "name": "League - TSUKI CENTER",
+        "date": "2026-09-24T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TSUKI CENTER",
+        "address": "C. CARABA\u00d1A, 11, 28806 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
     },
     {
         "name": "League - PANDA GAMES",
@@ -4150,6 +4134,54 @@
         "type": "League",
         "store": "HOBBYSHOP WARGAMES",
         "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-12-06T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - KINGDOM WARGAMES",
+        "date": "2026-12-06T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "KINGDOM WARGAMES",
+        "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
+        "name": "League - MADAKIBA",
+        "date": "2026-12-06T09:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "League - METROPOLIS CENTER",
+        "date": "2026-12-06T10:15:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - PADIS",
+        "date": "2026-12-06T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-12-06T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
         "name": "League - GENERACI\u00d3N X TOLEDO",

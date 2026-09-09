@@ -1,53 +1,5 @@
 [
     {
-        "name": "League - COLLECTORAGE",
-        "date": "2026-09-08T09:45:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "COLLECTORAGE",
-        "address": "C. DE HERNANI, 19, TETU\u00c1N, 28020 MADRID, SPAIN"
-    },
-    {
-        "name": "League - OZ JUEGOS",
-        "date": "2026-09-08T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-09-08T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - DARK RITUAL TCG",
-        "date": "2026-09-08T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
-    },
-    {
-        "name": "League - GENERACI\u00d3N X GETAFE",
-        "date": "2026-09-08T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "LIGA Jornada 2 Factory Cards",
-        "date": "2026-09-08T18:00:00Z",
-        "game": "tcg",
-        "type": "Friendly Tournament",
-        "store": "FACTORY CARDS",
-        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 61, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-    },
-    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2026-09-09T15:00:00Z",
         "game": "tcg",
@@ -174,6 +126,14 @@
         "type": "Friendly Tournament",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "3\u00aa Jornada Liga Oscuridad Absoluta",
+        "date": "2026-09-10T18:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "TCG ACADEMY",
+        "address": "AV. DE LA CONSTITUCI\u00d3N, 90, LOCAL 22 CC, 28850 TORREJ\u00d3N DE ARDOZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -704,6 +664,14 @@
         "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
     },
     {
+        "name": "[2027] League Cup TCG Alcal\u00e1 Weekend Septiembre (Alcal\u00e1 C\u00f3mics)",
+        "date": "2026-09-19T09:30:00Z",
+        "game": "tcg",
+        "type": "Cup",
+        "store": "CENTRO COMERCIAL QUADERNILLOS",
+        "address": "S/N AV. DE DON JUAN TENORIO, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "League Challenge Septiembre - El Turno Extra",
         "date": "2026-09-19T10:00:00Z",
         "game": "tcg",
@@ -816,6 +784,14 @@
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     },
     {
+        "name": "[2027] League Cup VGC Alcal\u00e1 Weekend Septiembre (Alcal\u00e1 C\u00f3mics)",
+        "date": "2026-09-20T09:30:00Z",
+        "game": "vg",
+        "type": "Cup",
+        "store": "CENTRO COMERCIAL QUADERNILLOS",
+        "address": "S/N AV. DE DON JUAN TENORIO, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
         "name": "OZJUEGOS TCG CUP Septiembre",
         "date": "2026-09-20T11:00:00Z",
         "game": "tcg",
@@ -838,6 +814,14 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "[2027] League Challenge VGC Alcal\u00e1 Weekend Septiembre (Alcal\u00e1 C\u00f3mics)",
+        "date": "2026-09-20T16:30:00Z",
+        "game": "vg",
+        "type": "Challenge",
+        "store": "CENTRO COMERCIAL QUADERNILLOS",
+        "address": "S/N AV. DE DON JUAN TENORIO, ALCAL\u00c1 DE HENARES, MD 28805, ES"
     },
     {
         "name": "OZJUEGOS TCG Challenge Septiembre",
@@ -1128,12 +1112,12 @@
         "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
     },
     {
-        "name": "LUDOTECA MALDITA: Challenge VGC Septiembre",
-        "date": "2026-09-26T10:30:00Z",
-        "game": "vg",
+        "name": "Challenge Septiembre",
+        "date": "2026-09-26T10:00:00Z",
+        "game": "tcg",
         "type": "Challenge",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+        "store": "MICELION GAMES",
+        "address": "AV. DEL MEDITERR\u00c1NEO, 8, RETIRO, 28007 MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -1230,6 +1214,14 @@
         "type": "League",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "LUDOTECA MALDITA: Challenge VGC Septiembre",
+        "date": "2026-09-27T10:30:00Z",
+        "game": "vg",
+        "type": "Challenge",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "EVENTO PRINCIPIANTES",
@@ -4178,6 +4170,14 @@
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-12-06T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-12-07T16:30:00Z",
         "game": "tcg",
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",

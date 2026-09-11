@@ -1,78 +1,6 @@
 {
-    "updatedAt": "2026-09-10T12:04:29.513960+00:00",
+    "updatedAt": "2026-09-11T12:03:12.546193+00:00",
     "events": [
-        {
-            "name": "League - GENERACI\u00d3N X TOLEDO",
-            "date": "2026-09-10T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X TOLEDO",
-            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
-        },
-        {
-            "name": "League - SOMOSJUEGOS",
-            "date": "2026-09-10T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "SOMOSJUEGOS",
-            "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-        },
-        {
-            "name": "League - METROPOLIS CENTER",
-            "date": "2026-09-10T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - EL TURNO EXTRA",
-            "date": "2026-09-10T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "EL TURNO EXTRA",
-            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-09-10T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - DARK RITUAL TCG",
-            "date": "2026-09-10T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "DARK RITUAL TCG",
-            "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
-        },
-        {
-            "name": "League - PANDA GAMES",
-            "date": "2026-09-10T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "PANDA GAMES",
-            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
-            "name": "Torneo Pokemon TCG Standard",
-            "date": "2026-09-10T17:30:00Z",
-            "game": "tcg",
-            "type": "Friendly Tournament",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "3\u00aa Jornada Liga Oscuridad Absoluta",
-            "date": "2026-09-10T18:00:00Z",
-            "game": "tcg",
-            "type": "Friendly Tournament",
-            "store": "TCG ACADEMY",
-            "address": "AV. DE LA CONSTITUCI\u00d3N, 90, LOCAL 22 CC, 28850 TORREJ\u00d3N DE ARDOZ, MADRID, SPAIN"
-        },
         {
             "name": "League - PADIS",
             "date": "2026-09-11T15:00:00Z",
@@ -168,6 +96,14 @@
             "type": "Challenge",
             "store": "GENERACION X TOLEDO",
             "address": "TR.\u00aa URUGUAY, 6, 45004 TOLEDO, SPAIN"
+        },
+        {
+            "name": "League Challenge Septiembre",
+            "date": "2026-09-12T10:30:00Z",
+            "game": "tcg",
+            "type": "Challenge",
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
         },
         {
             "name": "LIGA POK\u00c9MON JORNADA 2",
@@ -4176,6 +4112,38 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2026-12-09T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-12-09T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - PADIS",
+            "date": "2026-12-09T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PADIS",
+            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - JUPITER MADRID NORTE",
+            "date": "2026-12-09T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "JUPITER MADRID NORTE",
+            "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
         },
         {
             "name": "League - GENERACI\u00d3N X TOLEDO",

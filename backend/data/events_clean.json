@@ -1,77 +1,5 @@
 [
     {
-        "name": "League - KINGDOM WARGAMES",
-        "date": "2026-09-13T08:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "KINGDOM WARGAMES",
-        "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-09-13T08:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - MADAKIBA",
-        "date": "2026-09-13T08:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "MADAKIBA",
-        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-    },
-    {
-        "name": "League - TCG BOX",
-        "date": "2026-09-13T09:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TCG BOX",
-        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
-    },
-    {
-        "name": "CUP TOP DECK",
-        "date": "2026-09-13T10:30:00Z",
-        "game": "tcg",
-        "type": "Cup",
-        "store": "TOP DECK",
-        "address": "CALLE DEL CARDENAL SIL\u00cdCEO, 17, CHAMART\u00cdN, 28002 MADRID, SPAIN"
-    },
-    {
-        "name": "EVENTO PRINCIPIANTES",
-        "date": "2026-09-13T11:00:00Z",
-        "game": "tcg",
-        "type": "Friendly Tournament",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "Cup septiembre J\u00fapiter Guadalajara",
-        "date": "2026-09-13T11:00:00Z",
-        "game": "tcg",
-        "type": "Cup",
-        "store": "J\u00daPITER GUADALAJARA",
-        "address": "C. SAN ROQUE, 15, BAJO IZQUIERDA, 19002 GUADALAJARA, SPAIN"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-09-13T14:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - PADIS",
-        "date": "2026-09-13T14:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2026-09-14T15:00:00Z",
         "game": "tcg",
@@ -982,6 +910,14 @@
         "type": "Challenge",
         "store": "LUDOTECA MALDITA",
         "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
+        "name": "Challenge Septiembre",
+        "date": "2026-09-27T11:00:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "TOP DECK",
+        "address": "CALLE DEL CARDENAL SIL\u00cdCEO, 17, CHAMART\u00cdN, 28002 MADRID, SPAIN"
     },
     {
         "name": "EVENTO PRINCIPIANTES",
@@ -2256,14 +2192,6 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
-        "name": "LEAGUE CHALLENGE OCTUBRE",
-        "date": "2026-10-24T16:30:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "JUPITER JUEGOS MADRID NORTE",
-        "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
-    },
-    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-10-25T09:00:00Z",
         "game": "tcg",
@@ -2310,6 +2238,14 @@
         "type": "League",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "LEAGUE CHALLENGE OCTUBRE",
+        "date": "2026-10-25T16:30:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "JUPITER JUEGOS MADRID NORTE",
+        "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -4070,6 +4006,62 @@
         "type": "League",
         "store": "ISEKAI",
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-12-12T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - OZ JUEGOS",
+        "date": "2026-12-12T09:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "OZ JUEGOS",
+        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+    },
+    {
+        "name": "League - EGO LUDO",
+        "date": "2026-12-12T10:15:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
+        "name": "League - OZ JUEGOS",
+        "date": "2026-12-12T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "OZ JUEGOS",
+        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+    },
+    {
+        "name": "League - JUPITER MADRID NORTE",
+        "date": "2026-12-12T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "JUPITER MADRID NORTE",
+        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-12-12T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - HOBBYSHOP WARGAMES",
+        "date": "2026-12-12T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "HOBBYSHOP WARGAMES",
+        "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
     },
     {
         "name": "League - GENERACI\u00d3N X TOLEDO",

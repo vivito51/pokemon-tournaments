@@ -1,38 +1,6 @@
 {
-    "updatedAt": "2026-09-15T12:28:58.047848+00:00",
+    "updatedAt": "2026-09-16T12:26:35.110032+00:00",
     "events": [
-        {
-            "name": "League - OZ JUEGOS",
-            "date": "2026-09-15T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "OZ JUEGOS",
-            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-09-15T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - DARK RITUAL TCG",
-            "date": "2026-09-15T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "DARK RITUAL TCG",
-            "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-09-15T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-        },
         {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
             "date": "2026-09-16T15:00:00Z",
@@ -4112,6 +4080,14 @@
             "type": "League",
             "store": "PADIS",
             "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-12-14T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
             "name": "League - GENERACI\u00d3N X TOLEDO",

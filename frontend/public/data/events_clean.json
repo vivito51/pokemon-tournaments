@@ -1,78 +1,6 @@
 {
-    "updatedAt": "2026-09-18T12:05:33.996673+00:00",
+    "updatedAt": "2026-09-19T11:48:42.902986+00:00",
     "events": [
-        {
-            "name": "League - PADIS",
-            "date": "2026-09-18T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "PADIS",
-            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - DARUMA",
-            "date": "2026-09-18T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "DARUMA",
-            "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
-        },
-        {
-            "name": "League - GLADIUS GAMES",
-            "date": "2026-09-18T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GLADIUS GAMES",
-            "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-09-18T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - LUDOTECA MALDITA",
-            "date": "2026-09-18T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "LUDOTECA MALDITA",
-            "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-        },
-        {
-            "name": "League - ISEKAI",
-            "date": "2026-09-18T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "ISEKAI",
-            "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
-            "name": "LEAGUE CHALLENGE SEPTIEMBRE",
-            "date": "2026-09-18T16:30:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "JUPITER JUEGOS MADRID NORTE",
-            "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
-        },
-        {
-            "name": "J\u00fapiter Alcorc\u00f3n Challenge Septiembre",
-            "date": "2026-09-18T17:30:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "JUPITER JUEGOS ALCORC\u00d3N",
-            "address": "C. PARQUE BUJARUELO, 10, LOCAL 7, 28924 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
-            "name": "LUDOTECA MALDITA: Challenge TCG Septiembre",
-            "date": "2026-09-18T17:30:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "LUDOTECA MALDITA",
-            "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-        },
         {
             "name": "League - EL TURNO EXTRA",
             "date": "2026-09-19T07:30:00Z",
@@ -98,6 +26,14 @@
             "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
         },
         {
+            "name": "League - OZ JUEGOS",
+            "date": "2026-09-19T09:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "OZ JUEGOS",
+            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+        },
+        {
             "name": "League - EGO LUDO",
             "date": "2026-09-19T09:15:00Z",
             "game": "tcg",
@@ -112,14 +48,6 @@
             "type": "Cup",
             "store": "CENTRO COMERCIAL QUADERNILLOS",
             "address": "S/N AV. DE DON JUAN TENORIO, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-        },
-        {
-            "name": "League Challenge Septiembre - El Turno Extra",
-            "date": "2026-09-19T10:00:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "EL TURNO EXTRA",
-            "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
         },
         {
             "name": "OZJUEGOS VGC CUP Septiembre",
@@ -2186,20 +2114,20 @@
             "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
         },
         {
-            "name": "League - GENERACI\u00d3N X TOLEDO",
-            "date": "2026-10-29T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X TOLEDO",
-            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
-        },
-        {
             "name": "League - SOMOSJUEGOS",
             "date": "2026-10-29T16:00:00Z",
             "game": "tcg",
             "type": "League",
             "store": "SOMOSJUEGOS",
             "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
+        },
+        {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-10-29T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -4032,6 +3960,30 @@
             "type": "League",
             "store": "GENERACI\u00d3N X TOLEDO",
             "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
+        },
+        {
+            "name": "League - SOMOSJUEGOS",
+            "date": "2026-12-17T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "SOMOSJUEGOS",
+            "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-12-17T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - METROPOLIS CENTER",
+            "date": "2026-12-17T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
             "name": "League - GENERACI\u00d3N X TOLEDO",

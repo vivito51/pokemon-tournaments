@@ -1,53 +1,5 @@
 [
     {
-        "name": "League - OZ JUEGOS",
-        "date": "2026-09-22T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "League - DARK RITUAL TCG",
-        "date": "2026-09-22T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
-    },
-    {
-        "name": "League - TORREJUGONES",
-        "date": "2026-09-22T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TORREJUGONES",
-        "address": "C. CIRCUNVALACI\u00d3N, 9, 28850 TORREJ\u00d3N DE ARDOZ, MADRID, SPAIN"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-09-22T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - GENERACI\u00d3N X GETAFE",
-        "date": "2026-09-22T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "liga J4 Factory Cards",
-        "date": "2026-09-22T17:30:00Z",
-        "game": "tcg",
-        "type": "Friendly Tournament",
-        "store": "FACTORY CARDS",
-        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 61, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-    },
-    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2026-09-23T15:00:00Z",
         "game": "tcg",
@@ -280,14 +232,6 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
-        "name": "League - SIMONV TCG",
-        "date": "2026-09-26T08:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "SIMONV TCG",
-        "address": "C. DE MADRID, 18, 28912 LEGAN\u00c9S, MADRID, SPAIN"
-    },
-    {
         "name": "League - OZ JUEGOS",
         "date": "2026-09-26T08:30:00Z",
         "game": "tcg",
@@ -366,6 +310,14 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - SIMONV TCG",
+        "date": "2026-09-26T15:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "SIMONV TCG",
+        "address": "C. DE MADRID, 18, 28912 LEGAN\u00c9S, MADRID, SPAIN"
     },
     {
         "name": "League - EL TURNO EXTRA",
@@ -3898,6 +3850,14 @@
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-12-20T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-12-21T16:30:00Z",
         "game": "tcg",
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",

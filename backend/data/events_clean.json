@@ -1,29 +1,5 @@
 [
     {
-        "name": "League - JUPITER JUEGOS",
-        "date": "2026-09-28T14:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER JUEGOS",
-        "address": "8 CALLE DE MANUEL SILVELA, MADRID, MD 28010, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-09-28T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - ALCAL\u00c1 C\u00d3MICS",
-        "date": "2026-09-28T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-    },
-    {
         "name": "League - OZ JUEGOS",
         "date": "2026-09-29T15:00:00Z",
         "game": "tcg",
@@ -582,6 +558,14 @@
         "type": "League",
         "store": "ISEKAI",
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "[2027] VG League Challenge Padis Octubre",
+        "date": "2026-10-09T17:00:00Z",
+        "game": "vg",
+        "type": "Challenge",
+        "store": "PADIS STORE",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
         "name": "Torneo de Liga Ludoteca Maldita",
@@ -1304,6 +1288,30 @@
         "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
     },
     {
+        "name": "Presentacion Dominio Delta",
+        "date": "2026-10-24T10:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "CHALLENGE ALCALA COMICS OCTUBRE",
+        "date": "2026-10-24T10:30:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "ALCALA COMICS",
+        "address": "C. RDA. ANCHA, 19, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
+        "name": "Delta Reign Prerelease",
+        "date": "2026-10-24T11:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "DARUMA",
+        "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
+    },
+    {
         "name": "LEAGUE CUP OCTUBRE",
         "date": "2026-10-24T11:00:00Z",
         "game": "tcg",
@@ -1344,6 +1352,22 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "Presentacion Dominio Delta",
+        "date": "2026-10-24T16:30:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "Prelanzamiento Megaevoluci\u00f3n - Delta Reign |",
+        "date": "2026-10-24T17:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "ALCALA COMICS",
+        "address": "C. RDA. ANCHA, 19, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
         "name": "PRESENTACI\u00d3N DOMINIO DELTA",
         "date": "2026-10-24T17:00:00Z",
         "game": "tcg",
@@ -1374,6 +1398,14 @@
         "type": "League",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "Presentacion Dominio Delta",
+        "date": "2026-10-25T10:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
     },
     {
         "name": "League - METROPOLIS CENTER",
@@ -1438,6 +1470,14 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "Prelanzamiento Megaevoluci\u00f3n - Delta Reign",
+        "date": "2026-10-26T18:30:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "ALCALA COMICS",
+        "address": "C. RDA. ANCHA, 19, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -1574,6 +1614,14 @@
         "type": "League",
         "store": "EL TURNO EXTRA",
         "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
+        "name": "League Challenge Octubre",
+        "date": "2026-10-29T17:30:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
     },
     {
         "name": "League - PADIS",
@@ -1726,6 +1774,14 @@
         "type": "League",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "Presentacion Dominio Delta",
+        "date": "2026-11-01T10:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
     },
     {
         "name": "League - METROPOLIS CENTER",
@@ -3710,6 +3766,54 @@
         "type": "League",
         "store": "HOBBYSHOP WARGAMES",
         "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+    },
+    {
+        "name": "League - KINGDOM WARGAMES",
+        "date": "2026-12-27T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "KINGDOM WARGAMES",
+        "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-12-27T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - MADAKIBA",
+        "date": "2026-12-27T09:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "MADAKIBA",
+        "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "League - METROPOLIS CENTER",
+        "date": "2026-12-27T10:15:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - PADIS",
+        "date": "2026-12-27T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2026-12-27T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
         "name": "League - GENERACI\u00d3N X TOLEDO",

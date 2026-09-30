@@ -1,46 +1,6 @@
 {
-    "updatedAt": "2026-09-29T13:46:03.344700+00:00",
+    "updatedAt": "2026-09-30T13:22:38.655133+00:00",
     "events": [
-        {
-            "name": "League - OZ JUEGOS",
-            "date": "2026-09-29T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "OZ JUEGOS",
-            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-        },
-        {
-            "name": "League - DARK RITUAL TCG",
-            "date": "2026-09-29T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "DARK RITUAL TCG",
-            "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-09-29T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X GETAFE",
-            "date": "2026-09-29T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X GETAFE",
-            "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-        },
-        {
-            "name": "ARTE 9 - CHALLENGE SEPTIEMBRE 2026",
-            "date": "2026-09-29T18:30:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "ARTE 9",
-            "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
-        },
         {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
             "date": "2026-09-30T15:00:00Z",
@@ -562,11 +522,11 @@
             "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
-            "name": "[2027] VG League Challenge Padis Octubre",
+            "name": "[2027] TCG League Challenge Padis Octubre",
             "date": "2026-10-09T17:00:00Z",
-            "game": "vg",
+            "game": "tcg",
             "type": "Challenge",
-            "store": "PADIS STORE",
+            "store": "PADIS",
             "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
         },
         {
@@ -1250,6 +1210,14 @@
             "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
+            "name": "[2027] VG League Challenge Padis Octubre",
+            "date": "2026-10-23T17:00:00Z",
+            "game": "vg",
+            "type": "Challenge",
+            "store": "PADIS STORE",
+            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
             "name": "Torneo de Liga Ludoteca Maldita",
             "date": "2026-10-23T17:30:00Z",
             "game": "tcg",
@@ -1624,6 +1592,14 @@
             "type": "Challenge",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - DARUMA",
+            "date": "2026-10-30T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DARUMA",
+            "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -3812,6 +3788,14 @@
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-12-27T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2026-12-28T16:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",

@@ -1,29 +1,5 @@
 [
     {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-10-05T15:30:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo",
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - ALCAL\u00c1 C\u00d3MICS",
-        "date": "2026-10-05T16:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-    },
-    {
         "name": "League - OZ JUEGOS",
         "date": "2026-10-06T15:00:00Z",
         "game": "tcg",
@@ -56,7 +32,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - GENERACI\u00d3N X GETAFE",
@@ -160,6 +136,17 @@
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EGO LUDO",
+        "date": "2026-10-08T15:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
         "name": "League - GENERACI\u00d3N X TOLEDO",
         "date": "2026-10-08T15:00:00Z",
         "game": "tcg",
@@ -202,7 +189,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -317,6 +304,17 @@
         "type": "Friendly Tournament",
         "store": "LUDOTECA MALDITA",
         "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
+        "name": "TCG League Challenge Octubre [J\u00fapiter Alcorc\u00f3n]",
+        "date": "2026-10-09T17:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Challenge",
+        "store": "J\u00daPITER ALCORC\u00d3N",
+        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
     },
     {
         "name": "League - EL TURNO EXTRA",
@@ -637,8 +635,8 @@
             "tcg"
         ],
         "type": "Challenge",
-        "store": "SOMOSJUEGOS",
-        "address": "C. DEL MAR DE BERING, 2, HORTALEZA, 28033 MADRID, SPAIN"
+        "store": "DRACARYS JUEGOS",
+        "address": "13 P.\u00ba DE FUENTE LUCHA, ALCOBENDAS, MD 28100, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -684,7 +682,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -801,6 +799,17 @@
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EGO LUDO",
+        "date": "2026-10-15T15:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
         "name": "League - GENERACI\u00d3N X TOLEDO",
         "date": "2026-10-15T15:00:00Z",
         "game": "tcg",
@@ -832,7 +841,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - EL TURNO EXTRA",
@@ -1213,7 +1222,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1353,6 +1362,17 @@
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EGO LUDO",
+        "date": "2026-10-22T15:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
         "name": "League - EL TURNO EXTRA",
         "date": "2026-10-22T15:30:00Z",
         "game": "tcg",
@@ -1385,7 +1405,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - METROPOLIS CENTER",
@@ -1635,6 +1655,17 @@
         "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "Presentacion Dominio Delta 1",
+        "date": "2026-10-24T11:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Prerelease",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, LOCAL 2, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2026-10-24T14:30:00Z",
         "game": "tcg",
@@ -1723,6 +1754,28 @@
         "type": "Prerelease",
         "store": "JUPITER JUEGOS MADRID NORTE",
         "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "Presentacion Dominio Delta 2",
+        "date": "2026-10-24T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Prerelease",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, LOCAL 2, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
+        "name": "Tsuki Center Presentaci\u00f3n Delta Reign",
+        "date": "2026-10-24T18:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Prerelease",
+        "store": "TSUKI CENTER",
+        "address": "C. CARABA\u00d1A, 11, 28806 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1851,6 +1904,50 @@
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
+        "name": "Presentaci\u00f3n Dominio Delta",
+        "date": "2026-10-25T11:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Prerelease",
+        "store": "THREE STONES GAMES",
+        "address": "PL. DEL TORO, 1, 28760 TRES CANTOS, MADRID, SPAIN"
+    },
+    {
+        "name": "Prerelease Dominio Delta",
+        "date": "2026-10-25T11:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Prerelease",
+        "store": "DRACARYS JUEGOS",
+        "address": "13 P.\u00ba DE FUENTE LUCHA, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "Presentacion Dominio Delta 3",
+        "date": "2026-10-25T11:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Prerelease",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, LOCAL 2, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
+        "name": "Presentacion Dominio Delta",
+        "date": "2026-10-25T11:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Prerelease",
+        "store": "JUPITER JUEGOS",
+        "address": "8 CALLE DE MANUEL SILVELA, MADRID, MD 28010, ES"
+    },
+    {
         "name": "Pre Dominio Delta",
         "date": "2026-10-25T11:30:00Z",
         "game": "tcg",
@@ -1919,6 +2016,17 @@
         "address": "C. DE MADRID, 18, 28912 LEGAN\u00c9S, MADRID, SPAIN"
     },
     {
+        "name": "Tsuki Center Presentaci\u00f3n Delta Reign",
+        "date": "2026-10-25T18:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Prerelease",
+        "store": "TSUKI CENTER",
+        "address": "C. CARABA\u00d1A, 11, 28806 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-10-26T16:30:00Z",
         "game": "pgo",
@@ -1962,7 +2070,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -2090,6 +2198,28 @@
         "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
+        "name": "League - EGO LUDO",
+        "date": "2026-10-29T16:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
+        "name": "League - EGO LUDO",
+        "date": "2026-10-29T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
         "name": "League - PANDA GAMES",
         "date": "2026-10-29T16:00:00Z",
         "game": "tcg",
@@ -2156,7 +2286,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - EL TURNO EXTRA",
@@ -2168,6 +2298,17 @@
         "type": "League",
         "store": "EL TURNO EXTRA",
         "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
+        "name": "Presentacion Dominio Delta 4",
+        "date": "2026-10-29T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Prerelease",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, LOCAL 2, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
     },
     {
         "name": "League Challenge Octubre",
@@ -2340,17 +2481,6 @@
         "type": "League",
         "store": "EGO LUDO",
         "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-    },
-    {
-        "name": "CUP T3",
-        "date": "2026-10-31T11:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Cup",
-        "store": "GENERACI\u00d3N X LAS MUSAS",
-        "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -2537,7 +2667,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -2655,6 +2785,17 @@
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EGO LUDO",
+        "date": "2026-11-05T16:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-11-05T16:30:00Z",
         "game": "pgo",
@@ -2698,7 +2839,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -2847,6 +2988,17 @@
         "type": "Challenge",
         "store": "GENERACI\u00d3N X LAS MUSAS",
         "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
+    },
+    {
+        "name": "CUP T3",
+        "date": "2026-11-07T11:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Cup",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, LOCAL 2, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -3011,7 +3163,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -3129,6 +3281,17 @@
         "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
     },
     {
+        "name": "League - EGO LUDO",
+        "date": "2026-11-12T16:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-11-12T16:30:00Z",
         "game": "pgo",
@@ -3150,7 +3313,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - METROPOLIS CENTER",
@@ -3452,7 +3615,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -3536,6 +3699,17 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "League - EGO LUDO",
+        "date": "2026-11-19T16:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
         "name": "League - PANDA GAMES",
         "date": "2026-11-19T16:00:00Z",
         "game": "tcg",
@@ -3578,7 +3752,7 @@
         ],
         "type": "League",
         "store": "DARK RITUAL TCG",
-        "address": "C. ASTURIAS, 11, 3D, 28320 PINTO, MADRID, SPAIN"
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -3963,6 +4137,17 @@
         "type": "League",
         "store": "GENERACI\u00d3N X TOLEDO",
         "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
+    },
+    {
+        "name": "League - EGO LUDO",
+        "date": "2026-11-26T16:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
     },
     {
         "name": "League - SOMOSJUEGOS",
@@ -4373,6 +4558,17 @@
         "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
     },
     {
+        "name": "League - EGO LUDO",
+        "date": "2026-12-03T16:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-12-03T16:30:00Z",
         "game": "pgo",
@@ -4736,6 +4932,17 @@
         "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
     },
     {
+        "name": "League - EGO LUDO",
+        "date": "2026-12-10T16:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-12-10T16:30:00Z",
         "game": "pgo",
@@ -5085,6 +5292,17 @@
         "type": "League",
         "store": "GENERACI\u00d3N X TOLEDO",
         "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
+    },
+    {
+        "name": "League - EGO LUDO",
+        "date": "2026-12-17T16:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
     },
     {
         "name": "League - SOMOSJUEGOS",
@@ -5462,6 +5680,17 @@
         "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
     },
     {
+        "name": "League - EGO LUDO",
+        "date": "2026-12-24T16:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-12-24T16:30:00Z",
         "game": "pgo",
@@ -5802,6 +6031,17 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "League - EGO LUDO",
+        "date": "2026-12-31T16:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
         "name": "League - GENERACI\u00d3N X TOLEDO",
         "date": "2026-12-31T16:00:00Z",
         "game": "tcg",
@@ -6069,5 +6309,16 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - EGO LUDO",
+        "date": "2027-01-07T16:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
     }
 ]

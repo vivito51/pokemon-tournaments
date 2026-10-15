@@ -1,59 +1,11 @@
 [
     {
-        "name": "League - ISEKAI",
-        "date": "2026-10-14T15:00:00Z",
+        "name": "League - TEMPEST STORE SL",
+        "date": "2026-10-15T10:45:00Z",
         "game": "tcg",
         "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "date": "2026-10-14T15:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "League - PADIS",
-        "date": "2026-10-14T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-10-14T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - JUPITER MADRID NORTE",
-        "date": "2026-10-14T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "League - LUDOTECA MALDITA",
-        "date": "2026-10-14T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "Miercoles de Cartones en Ludoteca Maldita",
-        "date": "2026-10-14T18:30:00Z",
-        "game": "tcg",
-        "type": "Friendly Tournament",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
     },
     {
         "name": "League - PANDA GAMES",
@@ -110,6 +62,14 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "Liga semanal! 15/10/2026",
+        "date": "2026-10-15T17:20:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EGO LUDO",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, LOCAL 2, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -456,6 +416,14 @@
         "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
+        "name": "League - TEMPEST STORE SL",
+        "date": "2026-10-22T10:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
         "name": "League - GENERACI\u00d3N X TOLEDO",
         "date": "2026-10-22T15:00:00Z",
         "game": "tcg",
@@ -688,12 +656,28 @@
         "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, LOCAL 2, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
     },
     {
+        "name": "GenX Getafe League Challenge Octubre 2026",
+        "date": "2026-10-24T11:30:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "GENERACI\u00d3N X GETAFE",
+        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2026-10-24T14:30:00Z",
         "game": "tcg",
         "type": "League",
         "store": "OZ JUEGOS",
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+    },
+    {
+        "name": "League - GLADIUS GAMES",
+        "date": "2026-10-24T15:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GLADIUS GAMES",
+        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
     },
     {
         "name": "League - JUPITER MADRID NORTE",
@@ -878,6 +862,14 @@
         "type": "Challenge",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "Presentaci\u00f3n Dominio Delta",
+        "date": "2026-10-25T11:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
     },
     {
         "name": "Presentaci\u00f3n Dominio Delta",
@@ -1088,6 +1080,14 @@
         "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
+        "name": "League - TEMPEST STORE SL",
+        "date": "2026-10-29T11:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
         "name": "Pok\u00e9ween 2026",
         "date": "2026-10-29T16:00:00Z",
         "game": "tcg",
@@ -1222,6 +1222,14 @@
         "type": "League",
         "store": "ISEKAI",
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "Presentaci\u00f3n Delta Reign - Gladius Games",
+        "date": "2026-10-30T17:30:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "GLADIUS GAMES",
+        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
     },
     {
         "name": "Torneo de Liga Ludoteca Maldita",
@@ -1502,6 +1510,14 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "League - TEMPEST STORE SL",
+        "date": "2026-11-05T11:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
     },
     {
         "name": "League - SOMOSJUEGOS",
@@ -1840,6 +1856,14 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "League - TEMPEST STORE SL",
+        "date": "2026-11-12T11:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
         "name": "League - GENERACI\u00d3N X TOLEDO",
         "date": "2026-11-12T16:00:00Z",
         "game": "tcg",
@@ -1966,6 +1990,14 @@
         "type": "Friendly Tournament",
         "store": "EL TURNO EXTRA",
         "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
+        "name": "League Challenge Gladius Games - Noviembre 2026",
+        "date": "2026-11-14T10:30:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "GLADIUS GAMES",
+        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -2134,6 +2166,14 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "League - TEMPEST STORE SL",
+        "date": "2026-11-19T11:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
     },
     {
         "name": "League - PANDA GAMES",
@@ -2416,6 +2456,14 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "League - TEMPEST STORE SL",
+        "date": "2026-11-26T11:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
         "name": "League - GENERACI\u00d3N X TOLEDO",
         "date": "2026-11-26T16:00:00Z",
         "game": "tcg",
@@ -2680,6 +2728,14 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "League - TEMPEST STORE SL",
+        "date": "2026-12-03T11:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
         "name": "League - SOMOSJUEGOS",
         "date": "2026-12-03T16:00:00Z",
         "game": "tcg",
@@ -2918,6 +2974,14 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "League - TEMPEST STORE SL",
+        "date": "2026-12-10T11:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
     },
     {
         "name": "League - GENERACI\u00d3N X TOLEDO",
@@ -3160,6 +3224,14 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "League - TEMPEST STORE SL",
+        "date": "2026-12-17T11:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
         "name": "League - GENERACI\u00d3N X TOLEDO",
         "date": "2026-12-17T16:00:00Z",
         "game": "tcg",
@@ -3398,6 +3470,14 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "League - TEMPEST STORE SL",
+        "date": "2026-12-24T11:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
     },
     {
         "name": "League - SOMOSJUEGOS",
@@ -3640,6 +3720,14 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "League - TEMPEST STORE SL",
+        "date": "2026-12-31T11:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
         "name": "League - GENERACI\u00d3N X TOLEDO",
         "date": "2026-12-31T16:00:00Z",
         "game": "tcg",
@@ -3872,6 +3960,14 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "League - TEMPEST STORE SL",
+        "date": "2027-01-07T11:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
         "name": "League - SOMOSJUEGOS",
         "date": "2027-01-07T16:00:00Z",
         "game": "tcg",
@@ -4034,6 +4130,22 @@
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2027-01-11T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - OZ JUEGOS",
+        "date": "2027-01-12T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "OZ JUEGOS",
+        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2027-01-12T16:30:00Z",
         "game": "tcg",
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",

@@ -1,102 +1,6 @@
 {
-    "updatedAt": "2026-10-18T11:57:48.079207+00:00",
+    "updatedAt": "2026-10-20T12:33:37.792095+00:00",
     "events": [
-        {
-            "name": "League - KINGDOM WARGAMES",
-            "date": "2026-10-18T08:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "KINGDOM WARGAMES",
-            "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-10-18T08:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - MADAKIBA",
-            "date": "2026-10-18T08:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "MADAKIBA",
-            "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-        },
-        {
-            "name": "Jupi Guada Pokeween 2026",
-            "date": "2026-10-18T11:30:00Z",
-            "game": "tcg",
-            "type": "Friendly Tournament",
-            "store": "J\u00daPITER GUADALAJARA",
-            "address": "C. SAN ROQUE, 15, BAJO IZQUIERDA, 19002 GUADALAJARA, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-10-18T14:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - PADIS",
-            "date": "2026-10-18T14:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "PADIS",
-            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "POKEMON CASUAL TCG",
-            "date": "2026-10-18T17:30:00Z",
-            "game": "tcg",
-            "type": "Friendly Tournament",
-            "store": "SIMONV TCG",
-            "address": "C. DE MADRID, 18, 28912 LEGAN\u00c9S, MADRID, SPAIN"
-        },
-        {
-            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
-            "date": "2026-10-19T15:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-10-19T15:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - COLLECTORAGE",
-            "date": "2026-10-19T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "COLLECTORAGE",
-            "address": "C. DE HERNANI, 19, TETU\u00c1N, 28020 MADRID, SPAIN"
-        },
-        {
-            "name": "League - ALCAL\u00c1 C\u00d3MICS",
-            "date": "2026-10-19T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "ALCAL\u00c1 C\u00d3MICS",
-            "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-        },
-        {
-            "name": "TopDeck Challenge VGC Octubre",
-            "date": "2026-10-19T17:00:00Z",
-            "game": "vg",
-            "type": "Challenge",
-            "store": "TOPDECK",
-            "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-        },
         {
             "name": "League - OZ JUEGOS",
             "date": "2026-10-20T15:00:00Z",
@@ -722,6 +626,14 @@
             "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
         },
         {
+            "name": "League - DIOSES DEL CART\u00d3N",
+            "date": "2026-10-25T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DIOSES DEL CART\u00d3N",
+            "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
+        },
+        {
             "name": "LEAGUE CHALLENGE OCTUBRE",
             "date": "2026-10-25T16:30:00Z",
             "game": "tcg",
@@ -874,6 +786,14 @@
             "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
         },
         {
+            "name": "League - GENERACI\u00d3N X TOLEDO",
+            "date": "2026-10-29T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "GENERACI\u00d3N X TOLEDO",
+            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
+        },
+        {
             "name": "Pok\u00e9ween 2026",
             "date": "2026-10-29T16:00:00Z",
             "game": "tcg",
@@ -896,14 +816,6 @@
             "type": "League",
             "store": "SOMOSJUEGOS",
             "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-        },
-        {
-            "name": "Pok\u00e9ween 2026",
-            "date": "2026-10-29T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X TOLEDO",
-            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -994,14 +906,6 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
-            "name": "Prerelease Delta Reign",
-            "date": "2026-10-30T17:00:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "TEMPEST STORE",
-            "address": "C. DE ESTANISLAO FIGUERAS, 4, MONCLOA - ARAVACA, 28008 MADRID, SPAIN"
-        },
-        {
             "name": "League - ISEKAI",
             "date": "2026-10-30T17:00:00Z",
             "game": "tcg",
@@ -1072,14 +976,6 @@
             "type": "Prerelease",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "Presentacion Dominio Delta",
-            "date": "2026-10-31T10:00:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "GENERACION X TOLEDO",
-            "address": "TR.\u00aa URUGUAY, 6, 45004 TOLEDO, SPAIN"
         },
         {
             "name": "League - EGO LUDO",
@@ -1202,6 +1098,14 @@
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
+            "name": "[2027] TCG League Cup Padis Noviembre",
+            "date": "2026-11-01T11:30:00Z",
+            "game": "tcg",
+            "type": "Cup",
+            "store": "PADIS STORE",
+            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
             "name": "League - PADIS",
             "date": "2026-11-01T15:00:00Z",
             "game": "tcg",
@@ -1216,6 +1120,14 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - DIOSES DEL CART\u00d3N",
+            "date": "2026-11-01T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DIOSES DEL CART\u00d3N",
+            "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
         },
         {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -1562,6 +1474,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - DIOSES DEL CART\u00d3N",
+            "date": "2026-11-08T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DIOSES DEL CART\u00d3N",
+            "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
+        },
+        {
             "name": "PRESENTACI\u00d3N \"MEGAEVOLUCI\u00d3N: DOMINIO DELTA\"",
             "date": "2026-11-08T17:30:00Z",
             "game": "tcg",
@@ -1778,6 +1698,14 @@
             "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
         },
         {
+            "name": "Presentacion Dominio Delta",
+            "date": "2026-11-14T10:00:00Z",
+            "game": "tcg",
+            "type": "Prerelease",
+            "store": "GENERACION X TOLEDO",
+            "address": "TR.\u00aa URUGUAY, 6, 45004 TOLEDO, SPAIN"
+        },
+        {
             "name": "League - EGO LUDO",
             "date": "2026-11-14T10:15:00Z",
             "game": "tcg",
@@ -1834,6 +1762,14 @@
             "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
         },
         {
+            "name": "Prerelease Delta Reign",
+            "date": "2026-11-14T17:00:00Z",
+            "game": "tcg",
+            "type": "Prerelease",
+            "store": "TEMPEST STORE",
+            "address": "C. DE ESTANISLAO FIGUERAS, 4, MONCLOA - ARAVACA, 28008 MADRID, SPAIN"
+        },
+        {
             "name": "League - KINGDOM WARGAMES",
             "date": "2026-11-15T09:00:00Z",
             "game": "tcg",
@@ -1880,6 +1816,14 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - DIOSES DEL CART\u00d3N",
+            "date": "2026-11-15T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DIOSES DEL CART\u00d3N",
+            "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
         },
         {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -2178,6 +2122,14 @@
             "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
         },
         {
+            "name": "League - DIOSES DEL CART\u00d3N",
+            "date": "2026-11-22T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DIOSES DEL CART\u00d3N",
+            "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
+        },
+        {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
             "date": "2026-11-23T16:00:00Z",
             "game": "tcg",
@@ -2458,6 +2410,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - DIOSES DEL CART\u00d3N",
+            "date": "2026-11-29T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DIOSES DEL CART\u00d3N",
+            "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
+        },
+        {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
             "date": "2026-11-30T16:00:00Z",
             "game": "tcg",
@@ -2704,6 +2664,14 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - DIOSES DEL CART\u00d3N",
+            "date": "2026-12-06T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DIOSES DEL CART\u00d3N",
+            "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
         },
         {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -2954,6 +2922,14 @@
             "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
         },
         {
+            "name": "League - DIOSES DEL CART\u00d3N",
+            "date": "2026-12-13T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DIOSES DEL CART\u00d3N",
+            "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
+        },
+        {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
             "date": "2026-12-14T16:00:00Z",
             "game": "tcg",
@@ -3200,6 +3176,14 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - DIOSES DEL CART\u00d3N",
+            "date": "2026-12-20T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DIOSES DEL CART\u00d3N",
+            "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
         },
         {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -3450,6 +3434,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - DIOSES DEL CART\u00d3N",
+            "date": "2026-12-27T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DIOSES DEL CART\u00d3N",
+            "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
+        },
+        {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
             "date": "2026-12-28T16:00:00Z",
             "game": "tcg",
@@ -3698,6 +3690,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - DIOSES DEL CART\u00d3N",
+            "date": "2027-01-03T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DIOSES DEL CART\u00d3N",
+            "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
+        },
+        {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
             "date": "2027-01-04T16:00:00Z",
             "game": "tcg",
@@ -3930,6 +3930,14 @@
             "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
         },
         {
+            "name": "League - DIOSES DEL CART\u00d3N",
+            "date": "2027-01-10T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DIOSES DEL CART\u00d3N",
+            "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
+        },
+        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2027-01-11T16:30:00Z",
             "game": "tcg",
@@ -4048,6 +4056,118 @@
             "type": "League",
             "store": "ISEKAI",
             "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2027-01-16T09:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - OZ JUEGOS",
+            "date": "2027-01-16T09:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "OZ JUEGOS",
+            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+        },
+        {
+            "name": "League - EGO LUDO",
+            "date": "2027-01-16T10:15:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "EGO LUDO",
+            "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+        },
+        {
+            "name": "League - OZ JUEGOS",
+            "date": "2027-01-16T15:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "OZ JUEGOS",
+            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+        },
+        {
+            "name": "League - JUPITER MADRID NORTE",
+            "date": "2027-01-16T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "JUPITER MADRID NORTE",
+            "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2027-01-16T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2027-01-16T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - KINGDOM WARGAMES",
+            "date": "2027-01-17T09:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "KINGDOM WARGAMES",
+            "address": "12 BIS, C. ARROYO DE LA ELIPA, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2027-01-17T09:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - MADAKIBA",
+            "date": "2027-01-17T09:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "MADAKIBA",
+            "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+        },
+        {
+            "name": "League - METROPOLIS CENTER",
+            "date": "2027-01-17T10:15:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - PADIS",
+            "date": "2027-01-17T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PADIS",
+            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2027-01-17T15:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - DIOSES DEL CART\u00d3N",
+            "date": "2027-01-17T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "DIOSES DEL CART\u00d3N",
+            "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
         }
     ]
 }

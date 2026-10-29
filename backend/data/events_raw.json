@@ -1,40 +1,7 @@
 [
     {
-        "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "date": "2026-10-28T16:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "League - ISEKAI",
-        "date": "2026-10-28T16:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "League - PADIS",
-        "date": "2026-10-28T16:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-10-28T16:30:00Z",
+        "name": "Pok\u00e9ween 2026",
+        "date": "2026-10-29T11:30:00Z",
         "game": "pgo",
         "games": [
             "pgo",
@@ -42,54 +9,8 @@
             "vg"
         ],
         "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - TOPDECK",
-        "date": "2026-10-28T16:45:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo",
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "League - JUPITER MADRID NORTE",
-        "date": "2026-10-28T17:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "League - LUDOTECA MALDITA",
-        "date": "2026-10-28T17:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "LUDOTECA MALDITA: Presentaci\u00f3n Megaevoluci\u00f3n Dominio Delta",
-        "date": "2026-10-28T18:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Prerelease",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+        "store": "DARUMA",
+        "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
     },
     {
         "name": "League - TEMPEST STORE SL",
@@ -250,7 +171,7 @@
     },
     {
         "name": "Pok\u00e9ween 2026",
-        "date": "2026-10-30T16:00:00Z",
+        "date": "2026-10-30T11:30:00Z",
         "game": "pgo",
         "games": [
             "pgo",
@@ -282,6 +203,17 @@
         "type": "League",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "Pok\u00e9ween 2026",
+        "date": "2026-10-30T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - LUDOTECA MALDITA",
@@ -421,6 +353,18 @@
         "type": "Prerelease",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "Pok\u00e9ween 2026",
+        "date": "2026-10-31T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
         "name": "League - EGO LUDO",
@@ -860,6 +804,18 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-11-04T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - TEMPEST STORE SL",
         "date": "2026-11-05T11:45:00Z",
         "game": "tcg",
@@ -894,7 +850,7 @@
         "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
     },
     {
-        "name": "League - GENERACI\u00d3N X TOLEDO",
+        "name": "Pok\u00e9ween 2026",
         "date": "2026-11-05T16:00:00Z",
         "game": "tcg",
         "games": [
@@ -1004,6 +960,18 @@
         "type": "League",
         "store": "GLADIUS GAMES",
         "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-11-06T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1503,6 +1471,18 @@
         "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
     },
     {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-11-11T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - JUPITER MADRID NORTE",
         "date": "2026-11-11T17:00:00Z",
         "game": "tcg",
@@ -1647,6 +1627,18 @@
         "type": "League",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-11-13T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - GLADIUS GAMES",
@@ -2091,6 +2083,18 @@
         "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
     },
     {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-11-18T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - JUPITER MADRID NORTE",
         "date": "2026-11-18T17:00:00Z",
         "game": "tcg",
@@ -2237,6 +2241,18 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-11-20T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - GLADIUS GAMES",
         "date": "2026-11-20T16:30:00Z",
         "game": "tcg",
@@ -2296,6 +2312,17 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "TOPDECK VGC CUP 11/2026",
+        "date": "2026-11-21T10:00:00Z",
+        "game": "vg",
+        "games": [
+            "vg"
+        ],
+        "type": "Cup",
+        "store": "TOPDECK",
+        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
+    },
+    {
         "name": "League - EGO LUDO",
         "date": "2026-11-21T10:15:00Z",
         "game": "tcg",
@@ -2351,6 +2378,17 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "TOPDECK VGC CHALLENGE",
+        "date": "2026-11-21T17:00:00Z",
+        "game": "vg",
+        "games": [
+            "vg"
+        ],
+        "type": "Challenge",
+        "store": "TOPDECK",
+        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
     },
     {
         "name": "League - KINGDOM WARGAMES",
@@ -2601,6 +2639,18 @@
         "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
     },
     {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-11-25T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - JUPITER MADRID NORTE",
         "date": "2026-11-25T17:00:00Z",
         "game": "tcg",
@@ -2723,6 +2773,18 @@
         "type": "League",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-11-27T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -3078,6 +3140,18 @@
         "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
     },
     {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-12-02T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - JUPITER MADRID NORTE",
         "date": "2026-12-02T17:00:00Z",
         "game": "tcg",
@@ -3213,6 +3287,18 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-12-04T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - ISEKAI",
@@ -3522,6 +3608,18 @@
         "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
     },
     {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-12-09T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - JUPITER MADRID NORTE",
         "date": "2026-12-09T17:00:00Z",
         "game": "tcg",
@@ -3646,6 +3744,18 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-12-11T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - GLADIUS GAMES",
@@ -3977,6 +4087,18 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-12-16T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - TEMPEST STORE SL",
         "date": "2026-12-17T11:45:00Z",
         "game": "tcg",
@@ -4101,6 +4223,18 @@
         "type": "League",
         "store": "GLADIUS GAMES",
         "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-12-18T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - ISEKAI",
@@ -4421,6 +4555,18 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-12-23T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - TEMPEST STORE SL",
         "date": "2026-12-24T11:45:00Z",
         "game": "tcg",
@@ -4534,6 +4680,18 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-12-25T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - ISEKAI",
@@ -4854,6 +5012,18 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2026-12-30T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - TEMPEST STORE SL",
         "date": "2026-12-31T11:45:00Z",
         "game": "tcg",
@@ -4956,6 +5126,18 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2027-01-01T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - GLADIUS GAMES",
@@ -5254,6 +5436,18 @@
         "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
     },
     {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2027-01-06T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - JUPITER MADRID NORTE",
         "date": "2027-01-06T17:00:00Z",
         "game": "tcg",
@@ -5365,6 +5559,18 @@
         "type": "League",
         "store": "GLADIUS GAMES",
         "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2027-01-08T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -5664,6 +5870,18 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2027-01-13T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - TEMPEST STORE SL",
         "date": "2027-01-14T11:45:00Z",
         "game": "tcg",
@@ -5742,6 +5960,18 @@
         "type": "League",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2027-01-15T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - GLADIUS GAMES",
@@ -6028,6 +6258,18 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2027-01-20T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
         "name": "League - JUPITER MADRID NORTE",
         "date": "2027-01-20T17:00:00Z",
         "game": "tcg",
@@ -6130,6 +6372,18 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2027-01-22T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - GLADIUS GAMES",
@@ -6342,6 +6596,54 @@
         "type": "League",
         "store": "ALCAL\u00c1 C\u00d3MICS",
         "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
+    },
+    {
+        "name": "League - OZ JUEGOS",
+        "date": "2027-01-26T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "OZ JUEGOS",
+        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2027-01-26T16:30:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo",
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2027-01-27T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
+        "name": "League - LUDOTECA MALDITA",
+        "date": "2027-01-29T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
         "name": "League - ALCAL\u00c1 C\u00d3MICS",

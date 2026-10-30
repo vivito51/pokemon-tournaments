@@ -1,118 +1,6 @@
 {
-    "updatedAt": "2026-10-29T13:57:45.777404+00:00",
+    "updatedAt": "2026-10-30T13:52:23.436792+00:00",
     "events": [
-        {
-            "name": "Pok\u00e9ween 2026",
-            "date": "2026-10-29T11:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "DARUMA",
-            "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
-        },
-        {
-            "name": "League - TEMPEST STORE SL",
-            "date": "2026-10-29T11:45:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "TEMPEST STORE SL",
-            "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
-        },
-        {
-            "name": "League - HOBBYSHOP WARGAMES",
-            "date": "2026-10-29T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "HOBBYSHOP WARGAMES",
-            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X TOLEDO",
-            "date": "2026-10-29T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X TOLEDO",
-            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
-        },
-        {
-            "name": "Pok\u00e9ween 2026",
-            "date": "2026-10-29T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "EGO LUDO",
-            "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-        },
-        {
-            "name": "League - PANDA GAMES",
-            "date": "2026-10-29T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "PANDA GAMES",
-            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
-            "name": "League - SOMOSJUEGOS",
-            "date": "2026-10-29T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "SOMOSJUEGOS",
-            "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-10-29T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - METROPOLIS CENTER",
-            "date": "2026-10-29T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - DARK RITUAL TCG",
-            "date": "2026-10-29T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "DARK RITUAL TCG",
-            "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
-        },
-        {
-            "name": "League - EL TURNO EXTRA",
-            "date": "2026-10-29T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "EL TURNO EXTRA",
-            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-        },
-        {
-            "name": "Micelion Challenge OCT",
-            "date": "2026-10-29T17:00:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "MICELION GAMES",
-            "address": "AV. DEL MEDITERR\u00c1NEO, 8, RETIRO, 28007 MADRID, SPAIN"
-        },
-        {
-            "name": "Presentacion Dominio Delta 4",
-            "date": "2026-10-29T17:00:00Z",
-            "game": "tcg",
-            "type": "Prerelease",
-            "store": "EGO LUDO",
-            "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, LOCAL 2, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-        },
-        {
-            "name": "League Challenge Octubre",
-            "date": "2026-10-29T17:30:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-        },
         {
             "name": "Pok\u00e9ween 2026",
             "date": "2026-10-30T11:30:00Z",
@@ -120,6 +8,14 @@
             "type": "League",
             "store": "DARUMA",
             "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
+        },
+        {
+            "name": "League - TEMPEST STORE SL",
+            "date": "2026-10-30T12:15:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "TEMPEST STORE SL",
+            "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -242,6 +138,14 @@
             "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
         },
         {
+            "name": "Challenge T3",
+            "date": "2026-10-31T11:00:00Z",
+            "game": "tcg",
+            "type": "Challenge",
+            "store": "GENERACI\u00d3N X LAS MUSAS",
+            "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
+        },
+        {
             "name": "Presentacion Dominio Delta 1",
             "date": "2026-10-31T11:00:00Z",
             "game": "tcg",
@@ -256,6 +160,14 @@
             "type": "League",
             "store": "OZ JUEGOS",
             "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+        },
+        {
+            "name": "League - PANDA GAMES",
+            "date": "2026-10-31T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
             "name": "Pok\u00e9ween 2026",
@@ -298,14 +210,6 @@
             "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
         },
         {
-            "name": "Challenge T3",
-            "date": "2026-10-31T17:00:00Z",
-            "game": "tcg",
-            "type": "Challenge",
-            "store": "GENERACI\u00d3N X LAS MUSAS",
-            "address": "113 AV. DE CANILLEJAS A VIC\u00c1LVARO AV. CANILLEJAS A VICALVARO 113. 28022. MADRID, MADRID, MD 28022, ES"
-        },
-        {
             "name": "Presentacion Dominio Delta",
             "date": "2026-10-31T17:00:00Z",
             "game": "tcg",
@@ -328,6 +232,14 @@
             "type": "Prerelease",
             "store": "FACTORY CARDS",
             "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 61, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+        },
+        {
+            "name": "Torneo Pokeween Panda Games",
+            "date": "2026-10-31T17:30:00Z",
+            "game": "tcg",
+            "type": "Friendly Tournament",
+            "store": "PANDA GAMES",
+            "address": "CC X-MADRID, C. OSLO, 53, LOCAL 81, PLANTA ALTA, 28922 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
             "name": "League - KINGDOM WARGAMES",
@@ -426,8 +338,8 @@
             "address": "C. DE BLASCO DE GARAY, 36, CHAMBER\u00cd, 28015 MADRID, SPAIN"
         },
         {
-            "name": "PRESENTACION MADAKIBA DOMINIO DELTA",
-            "date": "2026-11-02T10:30:00Z",
+            "name": "PRESENTACION MADAKIBA DOMINIO DELTA 17:00",
+            "date": "2026-11-01T17:30:00Z",
             "game": "tcg",
             "type": "Prerelease",
             "store": "MADAKIBA",
@@ -538,6 +450,14 @@
             "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
         },
         {
+            "name": "Ludoteca Maldita: Miercoles de cartones",
+            "date": "2026-11-04T18:00:00Z",
+            "game": "tcg",
+            "type": "Friendly Tournament",
+            "store": "LUDOTECA MALDITA",
+            "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+        },
+        {
             "name": "League - TEMPEST STORE SL",
             "date": "2026-11-05T11:45:00Z",
             "game": "tcg",
@@ -570,14 +490,6 @@
             "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
         },
         {
-            "name": "League - PANDA GAMES",
-            "date": "2026-11-05T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "PANDA GAMES",
-            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2026-11-05T16:30:00Z",
             "game": "tcg",
@@ -608,6 +520,14 @@
             "type": "League",
             "store": "DARK RITUAL TCG",
             "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
+        },
+        {
+            "name": "Presentacion Dominio Delta 4",
+            "date": "2026-11-05T17:00:00Z",
+            "game": "tcg",
+            "type": "Prerelease",
+            "store": "EGO LUDO",
+            "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, LOCAL 2, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -768,6 +688,14 @@
             "type": "League",
             "store": "JUPITER MADRID NORTE",
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "League - PANDA GAMES",
+            "date": "2026-11-07T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1010,14 +938,6 @@
             "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
         },
         {
-            "name": "League - PANDA GAMES",
-            "date": "2026-11-12T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "PANDA GAMES",
-            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
             "name": "League - SOMOSJUEGOS",
             "date": "2026-11-12T16:00:00Z",
             "game": "tcg",
@@ -1184,6 +1104,14 @@
             "type": "League",
             "store": "JUPITER MADRID NORTE",
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "League - PANDA GAMES",
+            "date": "2026-11-14T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1394,14 +1322,6 @@
             "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
         },
         {
-            "name": "League - PANDA GAMES",
-            "date": "2026-11-19T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "PANDA GAMES",
-            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-        },
-        {
             "name": "League - SOMOSJUEGOS",
             "date": "2026-11-19T16:00:00Z",
             "game": "tcg",
@@ -1544,6 +1464,14 @@
             "type": "League",
             "store": "OZ JUEGOS",
             "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+        },
+        {
+            "name": "League - PANDA GAMES",
+            "date": "2026-11-21T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
             "name": "League - JUPITER MADRID NORTE",
@@ -4250,12 +4178,44 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "date": "2027-01-27T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2027-01-27T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - PADIS",
+            "date": "2027-01-27T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PADIS",
+            "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+        },
+        {
             "name": "League - LUDOTECA MALDITA",
             "date": "2027-01-27T17:00:00Z",
             "game": "tcg",
             "type": "League",
             "store": "LUDOTECA MALDITA",
             "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+        },
+        {
+            "name": "League - JUPITER MADRID NORTE",
+            "date": "2027-01-27T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "JUPITER MADRID NORTE",
+            "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
         },
         {
             "name": "League - LUDOTECA MALDITA",

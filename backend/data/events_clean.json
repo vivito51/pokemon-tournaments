@@ -1,77 +1,5 @@
 [
     {
-        "name": "Pok\u00e9ween 2026",
-        "date": "2026-10-30T11:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "DARUMA",
-        "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
-    },
-    {
-        "name": "League - TEMPEST STORE SL",
-        "date": "2026-10-30T12:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TEMPEST STORE SL",
-        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
-    },
-    {
-        "name": "League - PADIS",
-        "date": "2026-10-30T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "Pok\u00e9ween 2026",
-        "date": "2026-10-30T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "League - GLADIUS GAMES",
-        "date": "2026-10-30T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GLADIUS GAMES",
-        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-10-30T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - ISEKAI",
-        "date": "2026-10-30T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "Presentaci\u00f3n Delta Reign - Gladius Games",
-        "date": "2026-10-30T17:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "GLADIUS GAMES",
-        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "Torneo de Liga Ludoteca Maldita",
-        "date": "2026-10-30T17:30:00Z",
-        "game": "tcg",
-        "type": "Friendly Tournament",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
         "name": "League - EL TURNO EXTRA",
         "date": "2026-10-31T08:30:00Z",
         "game": "tcg",
@@ -208,6 +136,14 @@
         "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
     },
     {
+        "name": "Pok\u00e9ween 2026",
+        "date": "2026-10-31T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TSUKI CENTER",
+        "address": "C. CARABA\u00d1A, 11, 28806 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
         "name": "Presentacion Dominio Delta",
         "date": "2026-10-31T17:00:00Z",
         "game": "tcg",
@@ -278,14 +214,6 @@
         "type": "Prerelease",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-    },
-    {
-        "name": "Presentaci\u00f3n Dominio Delta",
-        "date": "2026-11-01T11:00:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "THREE STONES GAMES",
-        "address": "PL. DEL TORO, 1, 28760 TRES CANTOS, MADRID, SPAIN"
     },
     {
         "name": "Presentacion Dominio Delta 3",
@@ -758,6 +686,14 @@
         "type": "Prerelease",
         "store": "KINGDOM WARGARMES",
         "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
+        "name": "Presentaci\u00f3n Dominio Delta",
+        "date": "2026-11-08T11:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "THREE STONES GAMES",
+        "address": "PL. DEL TORO, 1, 28760 TRES CANTOS, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -4214,6 +4150,46 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "League - TEMPEST STORE SL",
+        "date": "2027-01-28T11:45:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TEMPEST STORE SL",
+        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+    },
+    {
+        "name": "League - HOBBYSHOP WARGAMES",
+        "date": "2027-01-28T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "HOBBYSHOP WARGAMES",
+        "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+    },
+    {
+        "name": "League - SOMOSJUEGOS",
+        "date": "2027-01-28T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "SOMOSJUEGOS",
+        "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2027-01-28T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - METROPOLIS CENTER",
+        "date": "2027-01-28T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     },
     {
         "name": "League - LUDOTECA MALDITA",

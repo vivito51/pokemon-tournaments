@@ -1,22 +1,6 @@
 {
-    "updatedAt": "2026-11-02T16:50:48.888810+00:00",
+    "updatedAt": "2026-11-03T14:52:42.221292+00:00",
     "events": [
-        {
-            "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
-            "date": "2026-11-02T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-            "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-11-02T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
         {
             "name": "League - OZ JUEGOS",
             "date": "2026-11-03T16:00:00Z",
@@ -784,6 +768,14 @@
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "Challenge Noviembre Top Deck",
+            "date": "2026-11-14T16:30:00Z",
+            "game": "tcg",
+            "type": "Challenge",
+            "store": "TOP DECK",
+            "address": "CALLE DEL CARDENAL SIL\u00cdCEO, 17, CHAMART\u00cdN, 28002 MADRID, SPAIN"
         },
         {
             "name": "Prerelease Delta Reign",

@@ -1,157 +1,5 @@
 [
     {
-        "name": "League - EL TURNO EXTRA",
-        "date": "2026-11-07T08:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "EL TURNO EXTRA",
-        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-11-07T09:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - OZ JUEGOS",
-        "date": "2026-11-07T09:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "League - ALCAL\u00c1 C\u00d3MICS",
-        "date": "2026-11-07T10:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-    },
-    {
-        "name": "Pok\u00e9mon TCG League Challenge Noviembre \u2014 El Turno Extra",
-        "date": "2026-11-07T10:00:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "EL TURNO EXTRA",
-        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
-    },
-    {
-        "name": "Micelion Cup NOV",
-        "date": "2026-11-07T10:00:00Z",
-        "game": "tcg",
-        "type": "Cup",
-        "store": "MICELION GAMES",
-        "address": "AV. DEL MEDITERR\u00c1NEO, 8, RETIRO, 28007 MADRID, SPAIN"
-    },
-    {
-        "name": "League - EGO LUDO",
-        "date": "2026-11-07T10:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "EGO LUDO",
-        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-    },
-    {
-        "name": "Prensentaci\u00f3n Delta Reign",
-        "date": "2026-11-07T10:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "TCG ACADEMY",
-        "address": "AV. DE LA CONSTITUCI\u00d3N, 90, LOCAL 22 CC, 28850 TORREJ\u00d3N DE ARDOZ, MADRID, SPAIN"
-    },
-    {
-        "name": "SOMOSJUEGOS VGC CUP Noviembre",
-        "date": "2026-11-07T10:30:00Z",
-        "game": "vg",
-        "type": "Cup",
-        "store": "SOMOSJUEGOS",
-        "address": "C. DEL MAR DE BERING, 2, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "CUP T3",
-        "date": "2026-11-07T11:00:00Z",
-        "game": "tcg",
-        "type": "Cup",
-        "store": "EGO LUDO",
-        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, LOCAL 2, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-    },
-    {
-        "name": "VGC SOMOS noviembre CHALLENGE",
-        "date": "2026-11-07T13:30:00Z",
-        "game": "vg",
-        "type": "Challenge",
-        "store": "SOMOSJUEGOS",
-        "address": "C. DEL MAR DE BERING, 2, HORTALEZA, 28033 MADRID, SPAIN"
-    },
-    {
-        "name": "League - OZ JUEGOS",
-        "date": "2026-11-07T15:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "League - LA GUARIDA",
-        "date": "2026-11-07T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LA GUARIDA",
-        "address": "C. DE RUFINO BLANCO, 9, A, 19002 GUADALAJARA, SPAIN"
-    },
-    {
-        "name": "League - JUPITER MADRID NORTE",
-        "date": "2026-11-07T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "League - PANDA GAMES",
-        "date": "2026-11-07T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PANDA GAMES",
-        "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-11-07T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - ALCAL\u00c1 C\u00d3MICS",
-        "date": "2026-11-07T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-    },
-    {
-        "name": "Challenge T3",
-        "date": "2026-11-07T17:00:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "EGO LUDO",
-        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, LOCAL 2, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-    },
-    {
-        "name": "POKEMON CASUAL TCG",
-        "date": "2026-11-07T17:30:00Z",
-        "game": "tcg",
-        "type": "Friendly Tournament",
-        "store": "SIMONV TCG",
-        "address": "C. DE MADRID, 18, 28912 LEGAN\u00c9S, MADRID, SPAIN"
-    },
-    {
         "name": "League - KINGDOM WARGAMES",
         "date": "2026-11-08T09:00:00Z",
         "game": "tcg",
@@ -174,22 +22,6 @@
         "type": "League",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
-    },
-    {
-        "name": "League - METROPOLIS CENTER",
-        "date": "2026-11-08T10:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "METROPOLIS CENTER",
-        "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "PRESENTACI\u00d3N \"MEGAEVOLUCI\u00d3N: DOMINIO DELTA\"",
-        "date": "2026-11-08T10:30:00Z",
-        "game": "tcg",
-        "type": "Prerelease",
-        "store": "SIMONV TCG",
-        "address": "C. DE MADRID, 18, 28912 LEGAN\u00c9S, MADRID, SPAIN"
     },
     {
         "name": "League Challenge Noviembre",
@@ -216,12 +48,20 @@
         "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 61, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
     },
     {
-        "name": "Presentacion Delta Reign",
-        "date": "2026-11-08T10:30:00Z",
+        "name": "Presen delta",
+        "date": "2026-11-08T11:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "MICELION GAMES",
+        "address": "AV. DEL MEDITERR\u00c1NEO, 8, RETIRO, 28007 MADRID, SPAIN"
+    },
+    {
+        "name": "2\u00baPre Dominio Delta",
+        "date": "2026-11-08T12:00:00Z",
         "game": "tcg",
         "type": "Prerelease",
-        "store": "KINGDOM WARGARMES",
-        "address": "C. ARROYO DE LA ELIPA, 12, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        "store": "J\u00daPITER GUADALAJARA",
+        "address": "C. SAN ROQUE, 15, BAJO IZQUIERDA, 19002 GUADALAJARA, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -318,6 +158,14 @@
         "type": "League",
         "store": "GENERACI\u00d3N X GETAFE",
         "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon Champions VGC \u2014 Martes en El Turno Extra",
+        "date": "2026-11-10T17:30:00Z",
+        "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -454,6 +302,14 @@
         "type": "League",
         "store": "EL TURNO EXTRA",
         "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
+        "name": "POK\u00c9MON CHAMPIONS VGC | JUEVES \u2013 EL TURNO EXTRA",
+        "date": "2026-11-12T17:30:00Z",
+        "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -800,6 +656,14 @@
         "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
     },
     {
+        "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
+        "date": "2026-11-17T17:30:00Z",
+        "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2026-11-18T16:00:00Z",
         "game": "tcg",
@@ -926,6 +790,14 @@
         "type": "League",
         "store": "EL TURNO EXTRA",
         "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
+        "name": "POK\u00c9MON CHAMPIONS VGC | JUEVES \u2013 EL TURNO EXTRA",
+        "date": "2026-11-19T17:30:00Z",
+        "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -1192,6 +1064,14 @@
         "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
     },
     {
+        "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
+        "date": "2026-11-24T17:30:00Z",
+        "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
         "name": "League - ISEKAI",
         "date": "2026-11-25T16:00:00Z",
         "game": "tcg",
@@ -1310,6 +1190,14 @@
         "type": "League",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "POK\u00c9MON CHAMPIONS VGC | JUEVES \u2013 EL TURNO EXTRA",
+        "date": "2026-11-26T17:30:00Z",
+        "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -1536,6 +1424,14 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
+        "date": "2026-12-01T17:30:00Z",
+        "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
         "name": "League - ISEKAI",
         "date": "2026-12-02T16:00:00Z",
         "game": "tcg",
@@ -1646,6 +1542,14 @@
         "type": "League",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "POK\u00c9MON CHAMPIONS VGC | JUEVES \u2013 EL TURNO EXTRA",
+        "date": "2026-12-03T17:30:00Z",
+        "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -1848,6 +1752,14 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
+        "date": "2026-12-08T17:30:00Z",
+        "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
         "name": "League - ISEKAI",
         "date": "2026-12-09T16:00:00Z",
         "game": "tcg",
@@ -1958,6 +1870,14 @@
         "type": "League",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "POK\u00c9MON CHAMPIONS VGC | JUEVES \u2013 EL TURNO EXTRA",
+        "date": "2026-12-10T17:30:00Z",
+        "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -2150,6 +2070,14 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
+        "date": "2026-12-15T17:30:00Z",
+        "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - ISEKAI",
@@ -2448,6 +2376,14 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
+        "date": "2026-12-22T17:30:00Z",
+        "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
         "name": "League - ISEKAI",
         "date": "2026-12-23T16:00:00Z",
         "game": "tcg",
@@ -2734,6 +2670,14 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
+        "date": "2026-12-29T17:30:00Z",
+        "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -4126,5 +4070,37 @@
         "type": "League",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - PADIS",
+        "date": "2027-02-05T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2027-02-05T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - GLADIUS GAMES",
+        "date": "2027-02-05T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GLADIUS GAMES",
+        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
+        "name": "League - ISEKAI",
+        "date": "2027-02-05T17:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ISEKAI",
+        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     }
 ]

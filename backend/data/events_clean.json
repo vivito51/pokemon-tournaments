@@ -1,37 +1,5 @@
 [
     {
-        "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "date": "2026-11-09T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-11-09T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - COLLECTORAGE",
-        "date": "2026-11-09T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "COLLECTORAGE",
-        "address": "C. DE HERNANI, 19, TETU\u00c1N, 28020 MADRID, SPAIN"
-    },
-    {
-        "name": "League - ALCAL\u00c1 C\u00d3MICS",
-        "date": "2026-11-09T17:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ALCAL\u00c1 C\u00d3MICS",
-        "address": "3 PL. DE ESPA\u00d1A, ALCAL\u00c1 DE HENARES, MD 28805, ES"
-    },
-    {
         "name": "League - OZ JUEGOS",
         "date": "2026-11-10T16:00:00Z",
         "game": "tcg",
@@ -70,6 +38,14 @@
         "type": "Friendly Tournament",
         "store": "EL TURNO EXTRA",
         "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
+        "name": "Liga J2 Factory Cards",
+        "date": "2026-11-10T18:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "FACTORY CARDS",
+        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 61, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
     },
     {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -406,6 +382,14 @@
         "type": "Prerelease",
         "store": "TEMPEST STORE",
         "address": "C. DE ESTANISLAO FIGUERAS, 4, MONCLOA - ARAVACA, 28008 MADRID, SPAIN"
+    },
+    {
+        "name": "Prerelease S\u00e1bado 14",
+        "date": "2026-11-14T17:00:00Z",
+        "game": "tcg",
+        "type": "Prerelease",
+        "store": "MICELION GAMES",
+        "address": "AV. DEL MEDITERR\u00c1NEO, 8, RETIRO, 28007 MADRID, SPAIN"
     },
     {
         "name": "Presentaci\u00f3n - Megaevoluci\u00f3n DOMINIO DELTA TARDE",
@@ -880,6 +864,14 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League cup Noviembre",
+        "date": "2026-11-22T09:30:00Z",
+        "game": "tcg",
+        "type": "Cup",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
+    },
+    {
         "name": "League - MADAKIBA",
         "date": "2026-11-22T09:30:00Z",
         "game": "tcg",
@@ -934,6 +926,14 @@
         "type": "League",
         "store": "DIOSES DEL CART\u00d3N",
         "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
+    },
+    {
+        "name": "League Challenge Noviembre",
+        "date": "2026-11-22T17:00:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
     },
     {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",

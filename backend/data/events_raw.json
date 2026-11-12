@@ -1,199 +1,5 @@
 [
     {
-        "name": "League - OZ JUEGOS",
-        "date": "2026-11-10T16:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "League - DARK RITUAL TCG",
-        "date": "2026-11-10T16:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "DARK RITUAL TCG",
-        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-11-10T16:30:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo",
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - GENERACI\u00d3N X GETAFE",
-        "date": "2026-11-10T17:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "Pok\u00e9mon Champions VGC \u2014 Martes en El Turno Extra",
-        "date": "2026-11-10T17:30:00Z",
-        "game": "vg",
-        "games": [
-            "vg"
-        ],
-        "type": "Friendly Tournament",
-        "store": "EL TURNO EXTRA",
-        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
-    },
-    {
-        "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
-        "date": "2026-11-10T17:30:00Z",
-        "game": "vg",
-        "games": [
-            "vg"
-        ],
-        "type": "Friendly Tournament",
-        "store": "EL TURNO EXTRA",
-        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
-    },
-    {
-        "name": "Liga J2 Factory Cards",
-        "date": "2026-11-10T18:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Friendly Tournament",
-        "store": "FACTORY CARDS",
-        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 61, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-    },
-    {
-        "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "date": "2026-11-11T16:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
-    },
-    {
-        "name": "League - ISEKAI",
-        "date": "2026-11-11T16:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "League - PADIS",
-        "date": "2026-11-11T16:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-11-11T16:30:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo",
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - TOPDECK",
-        "date": "2026-11-11T16:45:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo",
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "TOPDECK",
-        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
-    },
-    {
-        "name": "League - LUDOTECA MALDITA",
-        "date": "2026-11-11T17:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "League - JUPITER MADRID NORTE",
-        "date": "2026-11-11T17:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "JUPITER MADRID NORTE",
-        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
-    },
-    {
-        "name": "Liga Semana 7",
-        "date": "2026-11-11T18:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Friendly Tournament",
-        "store": "TSUKI CENTER",
-        "address": "C. CARABA\u00d1A, 11, 28806 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "Miercoles de Cartones en Ludoteca Maldita",
-        "date": "2026-11-11T18:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Friendly Tournament",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "League - TEMPEST STORE SL",
-        "date": "2026-11-12T11:45:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "TEMPEST STORE SL",
-        "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
-    },
-    {
         "name": "League - HOBBYSHOP WARGAMES",
         "date": "2026-11-12T16:00:00Z",
         "game": "tcg",
@@ -365,6 +171,17 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - TCG BOX",
+        "date": "2026-11-13T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
+    },
+    {
         "name": "LUDOTECA MALDITA: VGC CHALLENGE Noviembre",
         "date": "2026-11-13T17:30:00Z",
         "game": "vg",
@@ -410,6 +227,28 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - DARUMA",
+        "date": "2026-11-14T09:00:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo"
+        ],
+        "type": "League",
+        "store": "DARUMA",
+        "address": "C. DE BUTARQUE, 14, PUERTA B LOCAL 3, 28911 LEGAN\u00c9S, MADRID, SPAIN"
+    },
+    {
+        "name": "League - LA FORJA DE TCG",
+        "date": "2026-11-14T09:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "LA FORJA DE TCG",
+        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -520,6 +359,17 @@
         "type": "League",
         "store": "LA GUARIDA",
         "address": "C. DE RUFINO BLANCO, 9, A, 19002 GUADALAJARA, SPAIN"
+    },
+    {
+        "name": "League - LA FORJA DE TCG",
+        "date": "2026-11-14T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "LA FORJA DE TCG",
+        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
     },
     {
         "name": "League - JUPITER MADRID NORTE",
@@ -650,6 +500,17 @@
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
+        "name": "League - TCG BOX",
+        "date": "2026-11-15T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
+    },
+    {
         "name": "League - METROPOLIS CENTER",
         "date": "2026-11-15T10:15:00Z",
         "game": "tcg",
@@ -670,6 +531,17 @@
         "type": "League",
         "store": "METROPOLIS CENTER",
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "CUP ARTE 9 - NOVIEMBRE 26",
+        "date": "2026-11-15T10:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Cup",
+        "store": "ARTE 9",
+        "address": "C/ DE FRANCISCO SILVELA, 21, SALAMANCA, 28028 MADRID, SPAIN"
     },
     {
         "name": "OZJUEGOS VGC Challenge Noviembre",
@@ -1120,6 +992,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - TCG BOX",
+        "date": "2026-11-20T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
+    },
+    {
         "name": "League - ISEKAI",
         "date": "2026-11-20T17:00:00Z",
         "game": "tcg",
@@ -1153,6 +1036,17 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - LA FORJA DE TCG",
+        "date": "2026-11-21T09:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "LA FORJA DE TCG",
+        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -1230,6 +1124,17 @@
         "type": "League",
         "store": "PANDA GAMES",
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "League - LA FORJA DE TCG",
+        "date": "2026-11-21T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "LA FORJA DE TCG",
+        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
     },
     {
         "name": "League - JUPITER MADRID NORTE",
@@ -1325,6 +1230,17 @@
         "type": "League",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "League - TCG BOX",
+        "date": "2026-11-22T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
     },
     {
         "name": "League - METROPOLIS CENTER",
@@ -1764,6 +1680,17 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - TCG BOX",
+        "date": "2026-11-27T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
+    },
+    {
         "name": "LUDOTECA MALDITA: Viernes de Pok\u00e9mones",
         "date": "2026-11-27T17:30:00Z",
         "game": "tcg",
@@ -1786,6 +1713,17 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - LA FORJA DE TCG",
+        "date": "2026-11-28T09:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "LA FORJA DE TCG",
+        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -1854,6 +1792,17 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - LA FORJA DE TCG",
+        "date": "2026-11-28T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "LA FORJA DE TCG",
+        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
+    },
+    {
         "name": "League - JUPITER MADRID NORTE",
         "date": "2026-11-28T16:00:00Z",
         "game": "tcg",
@@ -1914,6 +1863,17 @@
         "type": "League",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "League - TCG BOX",
+        "date": "2026-11-29T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
     },
     {
         "name": "League - METROPOLIS CENTER",
@@ -2309,6 +2269,17 @@
         "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
+        "name": "League - TCG BOX",
+        "date": "2026-12-04T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
+    },
+    {
         "name": "League - ISEKAI",
         "date": "2026-12-04T17:00:00Z",
         "game": "tcg",
@@ -2355,6 +2326,17 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - LA FORJA DE TCG",
+        "date": "2026-12-05T09:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "LA FORJA DE TCG",
+        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
+    },
+    {
         "name": "League - EGO LUDO",
         "date": "2026-12-05T10:15:00Z",
         "game": "tcg",
@@ -2386,6 +2368,17 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "League - LA FORJA DE TCG",
+        "date": "2026-12-05T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "LA FORJA DE TCG",
+        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -2437,6 +2430,17 @@
         "type": "League",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "League - TCG BOX",
+        "date": "2026-12-06T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
     },
     {
         "name": "League - METROPOLIS CENTER",
@@ -2821,6 +2825,17 @@
         "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
     },
     {
+        "name": "League - TCG BOX",
+        "date": "2026-12-11T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
+    },
+    {
         "name": "League - ISEKAI",
         "date": "2026-12-11T17:00:00Z",
         "game": "tcg",
@@ -2843,6 +2858,17 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - LA FORJA DE TCG",
+        "date": "2026-12-12T09:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "LA FORJA DE TCG",
+        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -2887,6 +2913,17 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "League - LA FORJA DE TCG",
+        "date": "2026-12-12T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "LA FORJA DE TCG",
+        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -2938,6 +2975,17 @@
         "type": "League",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "League - TCG BOX",
+        "date": "2026-12-13T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
     },
     {
         "name": "League - METROPOLIS CENTER",
@@ -3300,6 +3348,17 @@
         "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
     {
+        "name": "League - TCG BOX",
+        "date": "2026-12-18T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
+    },
+    {
         "name": "League - ISEKAI",
         "date": "2026-12-18T17:00:00Z",
         "game": "tcg",
@@ -3322,6 +3381,17 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - LA FORJA DE TCG",
+        "date": "2026-12-19T09:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "LA FORJA DE TCG",
+        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -3366,6 +3436,17 @@
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "League - LA FORJA DE TCG",
+        "date": "2026-12-19T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "LA FORJA DE TCG",
+        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -3417,6 +3498,17 @@
         "type": "League",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "League - TCG BOX",
+        "date": "2026-12-20T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
     },
     {
         "name": "League - METROPOLIS CENTER",
@@ -3779,6 +3871,17 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - TCG BOX",
+        "date": "2026-12-25T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-12-26T09:00:00Z",
         "game": "pgo",
@@ -3885,6 +3988,17 @@
         "type": "League",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "League - TCG BOX",
+        "date": "2026-12-27T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
     },
     {
         "name": "League - METROPOLIS CENTER",
@@ -4355,6 +4469,17 @@
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
+        "name": "League - TCG BOX",
+        "date": "2027-01-03T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
+    },
+    {
         "name": "League - METROPOLIS CENTER",
         "date": "2027-01-03T10:15:00Z",
         "game": "tcg",
@@ -4790,6 +4915,17 @@
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
+        "name": "League - TCG BOX",
+        "date": "2027-01-10T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
+    },
+    {
         "name": "League - METROPOLIS CENTER",
         "date": "2027-01-10T10:15:00Z",
         "game": "tcg",
@@ -5202,6 +5338,17 @@
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
+        "name": "League - TCG BOX",
+        "date": "2027-01-17T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
+    },
+    {
         "name": "League - METROPOLIS CENTER",
         "date": "2027-01-17T10:15:00Z",
         "game": "tcg",
@@ -5599,6 +5746,17 @@
         "type": "League",
         "store": "MADAKIBA",
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
+        "name": "League - TCG BOX",
+        "date": "2027-01-24T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
     },
     {
         "name": "League - METROPOLIS CENTER",
@@ -6000,6 +6158,17 @@
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
+        "name": "League - TCG BOX",
+        "date": "2027-01-31T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
+    },
+    {
         "name": "League - METROPOLIS CENTER",
         "date": "2027-01-31T10:15:00Z",
         "game": "tcg",
@@ -6375,6 +6544,17 @@
         "address": "C. AFRODITA, 5, LOCAL 7, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
+        "name": "League - TCG BOX",
+        "date": "2027-02-07T10:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG BOX",
+        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
+    },
+    {
         "name": "League - METROPOLIS CENTER",
         "date": "2027-02-07T10:15:00Z",
         "game": "tcg",
@@ -6431,5 +6611,88 @@
         "type": "League",
         "store": "DIOSES DEL CART\u00d3N",
         "address": "C. MONTEMAR, 1, 19001 GUADALAJARA, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2027-02-08T16:30:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo",
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - OZ JUEGOS",
+        "date": "2027-02-09T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "OZ JUEGOS",
+        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2027-02-09T16:30:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo",
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
+        "date": "2027-02-10T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
+        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
+    },
+    {
+        "name": "League - PADIS",
+        "date": "2027-02-10T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2027-02-10T16:30:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo",
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - JUPITER MADRID NORTE",
+        "date": "2027-02-10T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "JUPITER MADRID NORTE",
+        "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     }
 ]

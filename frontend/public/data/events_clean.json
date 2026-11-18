@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-11-18T13:20:00.768827+00:00",
+    "updatedAt": "2026-11-18T16:13:14.719246+00:00",
     "events": [
         {
             "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -56,6 +56,22 @@
             "type": "League",
             "store": "JUPITER MADRID NORTE",
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "Liga Semana 8",
+            "date": "2026-11-18T18:00:00Z",
+            "game": "tcg",
+            "type": "Friendly Tournament",
+            "store": "TSUKI CENTER",
+            "address": "C. CARABA\u00d1A, 11, 28806 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+        },
+        {
+            "name": "181126",
+            "date": "2026-11-18T18:30:00Z",
+            "game": "tcg",
+            "type": "Friendly Tournament",
+            "store": "JUPITER JUEGOS MADRID NORTE",
+            "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
         },
         {
             "name": "Miercoles de Cartones en Ludoteca Maldita",
@@ -4052,6 +4068,22 @@
         {
             "name": "League - UNIVERSE TCG - SEGOVIA",
             "date": "2027-02-15T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+        },
+        {
+            "name": "League - OZ JUEGOS",
+            "date": "2027-02-16T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "OZ JUEGOS",
+            "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2027-02-16T16:30:00Z",
             "game": "tcg",
             "type": "League",
             "store": "UNIVERSE TCG - SEGOVIA",

@@ -1,78 +1,6 @@
 {
-    "updatedAt": "2026-11-19T16:21:42.261952+00:00",
+    "updatedAt": "2026-11-20T15:56:47.707291+00:00",
     "events": [
-        {
-            "name": "League - SOMOSJUEGOS",
-            "date": "2026-11-19T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "SOMOSJUEGOS",
-            "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
-        },
-        {
-            "name": "League - HOBBYSHOP WARGAMES",
-            "date": "2026-11-19T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "HOBBYSHOP WARGAMES",
-            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
-        },
-        {
-            "name": "League - GENERACI\u00d3N X TOLEDO",
-            "date": "2026-11-19T16:00:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "GENERACI\u00d3N X TOLEDO",
-            "address": "6 TR.\u00aa URUGUAY, TOLEDO, CM 45004, ES"
-        },
-        {
-            "name": "League - DARK RITUAL TCG",
-            "date": "2026-11-19T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "DARK RITUAL TCG",
-            "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
-        },
-        {
-            "name": "League - UNIVERSE TCG - SEGOVIA",
-            "date": "2026-11-19T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "UNIVERSE TCG - SEGOVIA",
-            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-        },
-        {
-            "name": "League - METROPOLIS CENTER",
-            "date": "2026-11-19T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
-        },
-        {
-            "name": "League - EL TURNO EXTRA",
-            "date": "2026-11-19T16:30:00Z",
-            "game": "tcg",
-            "type": "League",
-            "store": "EL TURNO EXTRA",
-            "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-        },
-        {
-            "name": "POK\u00c9MON CHAMPIONS VGC | JUEVES \u2013 EL TURNO EXTRA",
-            "date": "2026-11-19T17:30:00Z",
-            "game": "vg",
-            "type": "Friendly Tournament",
-            "store": "EL TURNO EXTRA",
-            "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
-        },
-        {
-            "name": "Torneo Pokemon TCG Standard",
-            "date": "2026-11-19T17:30:00Z",
-            "game": "tcg",
-            "type": "Friendly Tournament",
-            "store": "METROPOLIS CENTER",
-            "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
-        },
         {
             "name": "League - PADIS",
             "date": "2026-11-20T16:00:00Z",
@@ -514,6 +442,14 @@
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
+            "name": "League - PANDA GAMES",
+            "date": "2026-11-26T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
             "name": "POK\u00c9MON CHAMPIONS VGC | JUEVES \u2013 EL TURNO EXTRA",
             "date": "2026-11-26T17:30:00Z",
             "game": "vg",
@@ -914,6 +850,14 @@
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
+            "name": "League - PANDA GAMES",
+            "date": "2026-12-03T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
             "name": "POK\u00c9MON CHAMPIONS VGC | JUEVES \u2013 EL TURNO EXTRA",
             "date": "2026-12-03T17:30:00Z",
             "game": "vg",
@@ -1008,6 +952,14 @@
             "type": "League",
             "store": "EGO LUDO",
             "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+        },
+        {
+            "name": "League Challenge Diciembre - El Turno Extra",
+            "date": "2026-12-05T10:30:00Z",
+            "game": "tcg",
+            "type": "Challenge",
+            "store": "EL TURNO EXTRA",
+            "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
         },
         {
             "name": "League - OZ JUEGOS",
@@ -1280,6 +1232,14 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - PANDA GAMES",
+            "date": "2026-12-10T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
             "name": "POK\u00c9MON CHAMPIONS VGC | JUEVES \u2013 EL TURNO EXTRA",
@@ -1642,6 +1602,14 @@
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
+            "name": "League - PANDA GAMES",
+            "date": "2026-12-17T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
             "name": "League - PADIS",
             "date": "2026-12-18T16:00:00Z",
             "game": "tcg",
@@ -1978,6 +1946,14 @@
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
+            "name": "League - PANDA GAMES",
+            "date": "2026-12-24T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
             "name": "League - PADIS",
             "date": "2026-12-25T16:00:00Z",
             "game": "tcg",
@@ -2290,6 +2266,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - PANDA GAMES",
+            "date": "2026-12-31T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
             "name": "League - PADIS",
             "date": "2027-01-01T16:00:00Z",
             "game": "tcg",
@@ -2570,6 +2554,14 @@
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
+            "name": "League - PANDA GAMES",
+            "date": "2027-01-07T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
             "name": "League - PADIS",
             "date": "2027-01-08T16:00:00Z",
             "game": "tcg",
@@ -2840,6 +2832,14 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - PANDA GAMES",
+            "date": "2027-01-14T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -3122,6 +3122,14 @@
             "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         },
         {
+            "name": "League - PANDA GAMES",
+            "date": "2027-01-21T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
             "name": "League - PADIS",
             "date": "2027-01-22T16:00:00Z",
             "game": "tcg",
@@ -3386,6 +3394,14 @@
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
         },
         {
+            "name": "League - PANDA GAMES",
+            "date": "2027-01-28T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+        },
+        {
             "name": "League - PADIS",
             "date": "2027-01-29T16:00:00Z",
             "game": "tcg",
@@ -3640,6 +3656,14 @@
             "type": "League",
             "store": "METROPOLIS CENTER",
             "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - PANDA GAMES",
+            "date": "2027-02-04T17:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "PANDA GAMES",
+            "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
         },
         {
             "name": "League - PADIS",
@@ -4072,6 +4096,46 @@
             "type": "League",
             "store": "JUPITER MADRID NORTE",
             "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+        },
+        {
+            "name": "League - TEMPEST STORE SL",
+            "date": "2027-02-18T11:45:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "TEMPEST STORE SL",
+            "address": "C. DE TIMOTEO DOMINGO, 17, CDAD. LINEAL, 28017 MADRID, SPAIN"
+        },
+        {
+            "name": "League - HOBBYSHOP WARGAMES",
+            "date": "2027-02-18T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "HOBBYSHOP WARGAMES",
+            "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
+        },
+        {
+            "name": "League - SOMOSJUEGOS",
+            "date": "2027-02-18T16:00:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "SOMOSJUEGOS",
+            "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
+        },
+        {
+            "name": "League - METROPOLIS CENTER",
+            "date": "2027-02-18T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "METROPOLIS CENTER",
+            "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
+        },
+        {
+            "name": "League - UNIVERSE TCG - SEGOVIA",
+            "date": "2027-02-18T16:30:00Z",
+            "game": "tcg",
+            "type": "League",
+            "store": "UNIVERSE TCG - SEGOVIA",
+            "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
         }
     ]
 }

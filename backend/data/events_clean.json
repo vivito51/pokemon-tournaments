@@ -1,77 +1,5 @@
 [
     {
-        "name": "League - PADIS",
-        "date": "2026-11-20T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - LUDOTECA MALDITA",
-        "date": "2026-11-20T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "League - GLADIUS GAMES",
-        "date": "2026-11-20T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GLADIUS GAMES",
-        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-11-20T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - TCG BOX",
-        "date": "2026-11-20T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TCG BOX",
-        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
-    },
-    {
-        "name": "League - ISEKAI",
-        "date": "2026-11-20T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "LUDOTECA MALDITA: Viernes de Pok\u00e9mones",
-        "date": "2026-11-20T17:30:00Z",
-        "game": "tcg",
-        "type": "Friendly Tournament",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-11-21T09:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - LA FORJA DE TCG",
-        "date": "2026-11-21T09:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LA FORJA DE TCG",
-        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
-    },
-    {
         "name": "League - OZ JUEGOS",
         "date": "2026-11-21T09:30:00Z",
         "game": "tcg",
@@ -88,15 +16,7 @@
         "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
     },
     {
-        "name": "League - EGO LUDO",
-        "date": "2026-11-21T10:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "EGO LUDO",
-        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-    },
-    {
-        "name": "LIGA POK\u00c9MON GRAN FINAL",
+        "name": "LIGA J4",
         "date": "2026-11-21T10:30:00Z",
         "game": "tcg",
         "type": "Friendly Tournament",
@@ -304,12 +224,28 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-11-24T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - GENERACI\u00d3N X GETAFE",
         "date": "2026-11-24T17:00:00Z",
         "game": "tcg",
         "type": "League",
         "store": "GENERACI\u00d3N X GETAFE",
         "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2026-11-24T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
@@ -448,6 +384,14 @@
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2026-11-26T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
         "name": "POK\u00c9MON CHAMPIONS VGC | JUEVES \u2013 EL TURNO EXTRA",
         "date": "2026-11-26T17:30:00Z",
         "game": "vg",
@@ -518,6 +462,14 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-11-28T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
     },
     {
         "name": "League - LA FORJA DE TCG",
@@ -728,9 +680,25 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-01T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
         "date": "2026-12-01T17:30:00Z",
         "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2026-12-01T17:30:00Z",
+        "game": "tcg",
         "type": "Friendly Tournament",
         "store": "EL TURNO EXTRA",
         "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
@@ -832,6 +800,14 @@
         "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-03T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-12-03T16:30:00Z",
         "game": "tcg",
@@ -859,6 +835,14 @@
         "name": "POK\u00c9MON CHAMPIONS VGC | JUEVES \u2013 EL TURNO EXTRA",
         "date": "2026-12-03T17:30:00Z",
         "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2026-12-03T17:30:00Z",
+        "game": "tcg",
         "type": "Friendly Tournament",
         "store": "EL TURNO EXTRA",
         "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
@@ -928,6 +912,14 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-05T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2026-12-05T09:30:00Z",
         "game": "tcg",
@@ -950,14 +942,6 @@
         "type": "League",
         "store": "EGO LUDO",
         "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-    },
-    {
-        "name": "League Challenge Diciembre - El Turno Extra",
-        "date": "2026-12-05T10:30:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "EL TURNO EXTRA",
-        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -1056,6 +1040,14 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "Challenge Panda Games",
+        "date": "2026-12-06T16:00:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "PANDA GAMES",
+        "address": "CC X-MADRID, C. OSLO, 53, LOCAL 81, PLANTA ALTA, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
         "name": "League - LA GUARIDA",
         "date": "2026-12-06T16:00:00Z",
         "game": "tcg",
@@ -1110,6 +1102,22 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-08T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2026-12-08T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
@@ -1232,12 +1240,28 @@
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-10T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - PANDA GAMES",
         "date": "2026-12-10T17:00:00Z",
         "game": "tcg",
         "type": "League",
         "store": "PANDA GAMES",
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2026-12-10T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "POK\u00c9MON CHAMPIONS VGC | JUEVES \u2013 EL TURNO EXTRA",
@@ -1296,6 +1320,14 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-12T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-12-12T09:00:00Z",
         "game": "tcg",
@@ -1326,6 +1358,14 @@
         "type": "League",
         "store": "EGO LUDO",
         "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
+        "name": "League Challenge Diciembre - El Turno Extra",
+        "date": "2026-12-12T10:30:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "LUDOTECA MALDITA: Challenge VGC Diciembre",
@@ -1488,6 +1528,22 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-15T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2026-12-15T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
         "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
         "date": "2026-12-15T17:30:00Z",
         "game": "vg",
@@ -1584,6 +1640,14 @@
         "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-17T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-12-17T16:30:00Z",
         "game": "tcg",
@@ -1606,6 +1670,14 @@
         "type": "League",
         "store": "PANDA GAMES",
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2026-12-17T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -1656,6 +1728,14 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-19T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-12-19T09:00:00Z",
         "game": "tcg",
@@ -1686,6 +1766,14 @@
         "type": "Challenge",
         "store": "GLADIUS GAMES",
         "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de s\u00e1bado \u2014 El Turno Extra",
+        "date": "2026-12-19T10:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - EGO LUDO",
@@ -1840,9 +1928,25 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-22T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
         "date": "2026-12-22T17:30:00Z",
         "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2026-12-22T17:30:00Z",
+        "game": "tcg",
         "type": "Friendly Tournament",
         "store": "EL TURNO EXTRA",
         "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
@@ -1944,12 +2048,28 @@
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-24T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - PANDA GAMES",
         "date": "2026-12-24T17:00:00Z",
         "game": "tcg",
         "type": "League",
         "store": "PANDA GAMES",
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2026-12-24T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -2008,12 +2128,28 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-26T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2026-12-26T09:30:00Z",
         "game": "tcg",
         "type": "League",
         "store": "OZ JUEGOS",
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de s\u00e1bado \u2014 El Turno Extra",
+        "date": "2026-12-26T10:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - EGO LUDO",
@@ -2152,6 +2288,14 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-29T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2026-12-29T16:30:00Z",
         "game": "tcg",
@@ -2163,6 +2307,14 @@
         "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
         "date": "2026-12-29T17:30:00Z",
         "game": "vg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2026-12-29T17:30:00Z",
+        "game": "tcg",
         "type": "Friendly Tournament",
         "store": "EL TURNO EXTRA",
         "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
@@ -2248,6 +2400,14 @@
         "address": "CALLE MAR DE BERING 2, C. DE LA LIBERACI\u00d3N, 1, HORTALEZA, 28033 MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2026-12-31T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - METROPOLIS CENTER",
         "date": "2026-12-31T16:30:00Z",
         "game": "tcg",
@@ -2270,6 +2430,14 @@
         "type": "League",
         "store": "PANDA GAMES",
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2026-12-31T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -2312,6 +2480,14 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-01-02T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2027-01-02T09:00:00Z",
         "game": "tcg",
@@ -2334,6 +2510,14 @@
         "type": "League",
         "store": "EGO LUDO",
         "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
+        "name": "League Challenge Enero - El Turno Extra",
+        "date": "2027-01-02T10:30:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -2456,12 +2640,28 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-01-05T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2027-01-05T16:30:00Z",
         "game": "tcg",
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2027-01-05T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -2552,12 +2752,28 @@
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-01-07T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - PANDA GAMES",
         "date": "2027-01-07T17:00:00Z",
         "game": "tcg",
         "type": "League",
         "store": "PANDA GAMES",
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2027-01-07T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -2600,6 +2816,14 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-01-09T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2027-01-09T09:00:00Z",
         "game": "tcg",
@@ -2614,6 +2838,14 @@
         "type": "League",
         "store": "OZ JUEGOS",
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de s\u00e1bado \u2014 El Turno Extra",
+        "date": "2027-01-09T10:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - EGO LUDO",
@@ -2744,6 +2976,22 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-01-12T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2027-01-12T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2027-01-13T16:00:00Z",
         "game": "tcg",
@@ -2832,12 +3080,28 @@
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-01-14T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - PANDA GAMES",
         "date": "2027-01-14T17:00:00Z",
         "game": "tcg",
         "type": "League",
         "store": "PANDA GAMES",
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2027-01-14T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -2880,6 +3144,14 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-01-16T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2027-01-16T09:00:00Z",
         "game": "tcg",
@@ -2902,6 +3174,14 @@
         "type": "Cup",
         "store": "GLADIUS GAMES",
         "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de s\u00e1bado \u2014 El Turno Extra",
+        "date": "2027-01-16T10:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - EGO LUDO",
@@ -3032,12 +3312,28 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-01-19T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2027-01-19T16:30:00Z",
         "game": "tcg",
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2027-01-19T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -3120,12 +3416,28 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-01-21T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - PANDA GAMES",
         "date": "2027-01-21T17:00:00Z",
         "game": "tcg",
         "type": "League",
         "store": "PANDA GAMES",
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2027-01-21T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -3168,6 +3480,14 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-01-23T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2027-01-23T09:00:00Z",
         "game": "tcg",
@@ -3182,6 +3502,14 @@
         "type": "League",
         "store": "OZ JUEGOS",
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de s\u00e1bado \u2014 El Turno Extra",
+        "date": "2027-01-23T10:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - EGO LUDO",
@@ -3304,12 +3632,28 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-01-26T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2027-01-26T16:30:00Z",
         "game": "tcg",
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2027-01-26T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -3392,12 +3736,28 @@
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-01-28T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - PANDA GAMES",
         "date": "2027-01-28T17:00:00Z",
         "game": "tcg",
         "type": "League",
         "store": "PANDA GAMES",
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2027-01-28T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -3440,6 +3800,14 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-01-30T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2027-01-30T09:00:00Z",
         "game": "tcg",
@@ -3454,6 +3822,14 @@
         "type": "League",
         "store": "OZ JUEGOS",
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de s\u00e1bado \u2014 El Turno Extra",
+        "date": "2027-01-30T10:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - EGO LUDO",
@@ -3576,12 +3952,28 @@
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-02-02T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2027-02-02T16:30:00Z",
         "game": "tcg",
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2027-02-02T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
@@ -3640,6 +4032,14 @@
         "address": "18 C. DE TALAMANCA, ALCAL\u00c1 DE HENARES, MD 28807, ES"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-02-04T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2027-02-04T16:30:00Z",
         "game": "tcg",
@@ -3662,6 +4062,14 @@
         "type": "League",
         "store": "PANDA GAMES",
         "address": "C. OSLO, 53, LOCAL 81, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2027-02-04T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -3704,12 +4112,28 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-02-06T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - OZ JUEGOS",
         "date": "2027-02-06T09:30:00Z",
         "game": "tcg",
         "type": "League",
         "store": "OZ JUEGOS",
         "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de s\u00e1bado \u2014 El Turno Extra",
+        "date": "2027-02-06T10:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - EGO LUDO",
@@ -3832,6 +4256,22 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-02-09T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2027-02-09T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2027-02-10T16:00:00Z",
         "game": "tcg",
@@ -3896,12 +4336,28 @@
         "address": "22 C. DE ANDR\u00c9S MELLADO, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-02-11T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2027-02-11T16:30:00Z",
         "game": "tcg",
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2027-02-11T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -3936,6 +4392,14 @@
         "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-02-13T09:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
         "name": "League - UNIVERSE TCG - SEGOVIA",
         "date": "2027-02-13T09:00:00Z",
         "game": "tcg",
@@ -3958,6 +4422,14 @@
         "type": "League",
         "store": "EGO LUDO",
         "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
+    },
+    {
+        "name": "League Challenge Febrero - El Turno Extra",
+        "date": "2027-02-13T10:30:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -4064,6 +4536,22 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-02-16T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2027-02-16T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
         "name": "League - J\u00daPITER JUEGOS ALCORC\u00d3N",
         "date": "2027-02-17T16:00:00Z",
         "game": "tcg",
@@ -4134,5 +4622,53 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - EL TURNO EXTRA",
+        "date": "2027-02-18T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "EL TURNO EXTRA",
+        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2027-02-18T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de s\u00e1bado \u2014 El Turno Extra",
+        "date": "2027-02-20T10:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
+        "date": "2027-02-23T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
+        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",
+        "date": "2027-02-25T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
+        "name": "League Cup Febrero - El Turno Extra",
+        "date": "2027-02-27T10:30:00Z",
+        "game": "tcg",
+        "type": "Cup",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     }
 ]

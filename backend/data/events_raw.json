@@ -1,97 +1,5 @@
 [
     {
-        "name": "League - OZ JUEGOS",
-        "date": "2026-11-24T16:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-11-24T16:30:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo",
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - DARK RITUAL TCG",
-        "date": "2026-11-24T16:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "DARK RITUAL TCG",
-        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
-    },
-    {
-        "name": "League - EL TURNO EXTRA",
-        "date": "2026-11-24T16:30:00Z",
-        "game": "pgo",
-        "games": [
-            "pgo",
-            "tcg",
-            "vg"
-        ],
-        "type": "League",
-        "store": "EL TURNO EXTRA",
-        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-    },
-    {
-        "name": "League - GENERACI\u00d3N X GETAFE",
-        "date": "2026-11-24T17:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "League",
-        "store": "GENERACI\u00d3N X GETAFE",
-        "address": "C. GRAL. PINGARR\u00d3N, 1, 28901 GETAFE, MADRID, SPAIN"
-    },
-    {
-        "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
-        "date": "2026-11-24T17:30:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Friendly Tournament",
-        "store": "EL TURNO EXTRA",
-        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
-    },
-    {
-        "name": "POK\u00c9MON CHAMPIONS VGC | EL TURNO EXTRA",
-        "date": "2026-11-24T17:30:00Z",
-        "game": "vg",
-        "games": [
-            "vg"
-        ],
-        "type": "Friendly Tournament",
-        "store": "EL TURNO EXTRA",
-        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
-    },
-    {
-        "name": "liga J4 Factory Cards",
-        "date": "2026-11-24T18:00:00Z",
-        "game": "tcg",
-        "games": [
-            "tcg"
-        ],
-        "type": "Friendly Tournament",
-        "store": "FACTORY CARDS",
-        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 61, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-    },
-    {
         "name": "League - ISEKAI",
         "date": "2026-11-25T16:00:00Z",
         "game": "tcg",
@@ -112,6 +20,17 @@
         "type": "League",
         "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
         "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
+    },
+    {
+        "name": "League - BETTOY COLECCIONISTAS",
+        "date": "2026-11-25T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "BETTOY COLECCIONISTAS",
+        "address": "C. DE LA ESTRELLA, 14, CENTRO, 28004 MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -136,6 +55,17 @@
         "type": "League",
         "store": "UNIVERSE TCG - SEGOVIA",
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2026-11-25T16:45:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
         "name": "League - TOPDECK",
@@ -174,6 +104,29 @@
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
     },
     {
+        "name": "Liga Semana 7",
+        "date": "2026-11-25T17:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Friendly Tournament",
+        "store": "TSUKI CENTER",
+        "address": "C. CARABA\u00d1A, 11, 28806 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
+        "name": "League - JUPITER JUEGOS",
+        "date": "2026-11-25T17:30:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo",
+            "tcg"
+        ],
+        "type": "League",
+        "store": "JUPITER JUEGOS",
+        "address": "8 CALLE DE MANUEL SILVELA, MADRID, MD 28010, ES"
+    },
+    {
         "name": "Miercoles de Cartones en Ludoteca Maldita",
         "date": "2026-11-25T18:30:00Z",
         "game": "tcg",
@@ -183,6 +136,17 @@
         "type": "Friendly Tournament",
         "store": "LUDOTECA MALDITA",
         "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
+        "name": "251126",
+        "date": "2026-11-25T18:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "Friendly Tournament",
+        "store": "JUPITER JUEGOS MADRID NORTE",
+        "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
     },
     {
         "name": "League - TEMPEST STORE SL",
@@ -885,6 +849,17 @@
         "type": "League",
         "store": "PADIS",
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2026-12-02T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -1638,6 +1613,17 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2026-12-09T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
         "name": "League - TOPDECK",
         "date": "2026-12-09T16:45:00Z",
         "game": "pgo",
@@ -2332,6 +2318,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2026-12-16T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
         "name": "League - TOPDECK",
         "date": "2026-12-16T16:45:00Z",
         "game": "pgo",
@@ -2967,6 +2964,17 @@
         "type": "League",
         "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
         "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
+    },
+    {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2026-12-23T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -3610,6 +3618,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2026-12-30T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
         "name": "League - TOPDECK",
         "date": "2026-12-30T16:45:00Z",
         "game": "pgo",
@@ -4150,6 +4169,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2027-01-06T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
         "name": "League - PADIS",
         "date": "2027-01-06T16:30:00Z",
         "game": "tcg",
@@ -4674,6 +4704,17 @@
         "type": "League",
         "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
         "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
+    },
+    {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2027-01-13T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -5250,6 +5291,17 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2027-01-20T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
         "name": "League - LUDOTECA MALDITA",
         "date": "2027-01-20T17:00:00Z",
         "game": "tcg",
@@ -5765,6 +5817,17 @@
         "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
     },
     {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2027-01-27T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
         "name": "League - LUDOTECA MALDITA",
         "date": "2027-01-27T17:00:00Z",
         "game": "tcg",
@@ -6256,6 +6319,17 @@
         "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
     },
     {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2027-02-03T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
         "name": "League - PADIS",
         "date": "2027-02-03T16:30:00Z",
         "game": "tcg",
@@ -6734,6 +6808,17 @@
         "type": "League",
         "store": "J\u00daPITER JUEGOS ALCORC\u00d3N",
         "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
+    },
+    {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2027-02-10T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
         "name": "League - PADIS",
@@ -7218,6 +7303,17 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2027-02-17T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
+    },
+    {
         "name": "League - JUPITER MADRID NORTE",
         "date": "2027-02-17T17:00:00Z",
         "game": "tcg",
@@ -7569,6 +7665,41 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "League - OZ JUEGOS",
+        "date": "2027-02-23T16:00:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "OZ JUEGOS",
+        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2027-02-23T16:30:00Z",
+        "game": "pgo",
+        "games": [
+            "pgo",
+            "tcg",
+            "vg"
+        ],
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - DARK RITUAL TCG",
+        "date": "2027-02-23T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "DARK RITUAL TCG",
+        "address": "C. DE LA CA\u00d1ADA REAL DE TOLEDO, 16, 28320 PINTO, MADRID, SPAIN"
+    },
+    {
         "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de martes \u2014 El Turno Extra",
         "date": "2027-02-23T17:30:00Z",
         "game": "tcg",
@@ -7578,6 +7709,17 @@
         "type": "Friendly Tournament",
         "store": "EL TURNO EXTRA",
         "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
+        "name": "League - TCG & SPORTS CARDS",
+        "date": "2027-02-24T16:30:00Z",
+        "game": "tcg",
+        "games": [
+            "tcg"
+        ],
+        "type": "League",
+        "store": "TCG & SPORTS CARDS",
+        "address": "C. NARV\u00c1EZ, 4, 28342 VALDEMORO, MADRID, SPAIN"
     },
     {
         "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de jueves \u2014 El Turno Extra",

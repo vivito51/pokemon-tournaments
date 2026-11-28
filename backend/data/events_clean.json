@@ -1,123 +1,11 @@
 [
     {
-        "name": "League - PADIS",
-        "date": "2026-11-27T16:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "PADIS",
-        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
-    },
-    {
-        "name": "League - LUDOTECA MALDITA",
-        "date": "2026-11-27T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-11-27T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - GLADIUS GAMES",
-        "date": "2026-11-27T16:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "GLADIUS GAMES",
-        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
-    },
-    {
-        "name": "League - ISEKAI",
-        "date": "2026-11-27T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "ISEKAI",
-        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
-    },
-    {
-        "name": "League - TCG BOX",
-        "date": "2026-11-27T17:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "TCG BOX",
-        "address": "C. ALCAL\u00c1, 454, BAJO DERECHA, SAN BLAS-CANILLEJAS, 28027 MADRID, SPAIN"
-    },
-    {
-        "name": "LUDOTECA MALDITA: Viernes de Pok\u00e9mones",
-        "date": "2026-11-27T17:30:00Z",
-        "game": "tcg",
-        "type": "Friendly Tournament",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
-        "name": "League - UNIVERSE TCG - SEGOVIA",
-        "date": "2026-11-28T09:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "UNIVERSE TCG - SEGOVIA",
-        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
-    },
-    {
-        "name": "League - EL TURNO EXTRA",
-        "date": "2026-11-28T09:00:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "EL TURNO EXTRA",
-        "address": "166 C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, ARANJUEZ, MD 28300, ES"
-    },
-    {
-        "name": "League - LA FORJA DE TCG",
-        "date": "2026-11-28T09:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "LA FORJA DE TCG",
-        "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
-    },
-    {
-        "name": "League - OZ JUEGOS",
-        "date": "2026-11-28T09:30:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "OZ JUEGOS",
-        "address": "P.\u00ba DE FUENTE LUCHA, 13, 28100 ALCOBENDAS, MADRID, SPAIN"
-    },
-    {
         "name": "League Cup - El Turno Extra",
         "date": "2026-11-28T10:00:00Z",
         "game": "tcg",
         "type": "Cup",
         "store": "EL TURNO EXTRA",
         "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
-    },
-    {
-        "name": "Copa de Liga Septiembre - Noviembre GenXToledo",
-        "date": "2026-11-28T10:00:00Z",
-        "game": "tcg",
-        "type": "Cup",
-        "store": "GENERACION X TOLEDO",
-        "address": "TR.\u00aa URUGUAY, 6, 45004 TOLEDO, SPAIN"
-    },
-    {
-        "name": "League - EGO LUDO",
-        "date": "2026-11-28T10:15:00Z",
-        "game": "tcg",
-        "type": "League",
-        "store": "EGO LUDO",
-        "address": "AV. DE CANILLEJAS A VIC\u00c1LVARO, 113, SAN BLAS-CANILLEJAS, 28022 MADRID, SPAIN"
-    },
-    {
-        "name": "TCG League Challenge Noviembre[J\u00fapiter Alcorc\u00f3n]",
-        "date": "2026-11-28T10:30:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "J\u00daPITER ALCORC\u00d3N",
-        "address": "10 C. PARQUE BUJARUELO, ALCORC\u00d3N, MD 28924, ES"
     },
     {
         "name": "League - OZ JUEGOS",
@@ -136,12 +24,28 @@
         "address": "C. DE EULALIA GIL, 19, CARABANCHEL, 28025 MADRID, SPAIN"
     },
     {
+        "name": "League - TOPDECK",
+        "date": "2026-11-28T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "TOPDECK",
+        "address": "17 CALLE DEL CARDENAL SIL\u00cdCEO, MADRID, MD 28002, ES"
+    },
+    {
         "name": "League - JUPITER MADRID NORTE",
         "date": "2026-11-28T16:00:00Z",
         "game": "tcg",
         "type": "League",
         "store": "JUPITER MADRID NORTE",
         "address": "95 C. DEL MARQU\u00c9S DE LA VALDAVIA LOCAL 2, ALCOBENDAS, MD 28100, ES"
+    },
+    {
+        "name": "Picking Casual Side Event",
+        "date": "2026-11-28T16:25:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "EL TURNO EXTRA",
+        "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
         "name": "League - UNIVERSE TCG - SEGOVIA",
@@ -152,12 +56,36 @@
         "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
     },
     {
+        "name": "Torneo Pok\u00e9mon PANDA GAMES",
+        "date": "2026-11-28T17:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "PANDA GAMES",
+        "address": "CC X-MADRID, C. OSLO, 53, LOCAL 81, PLANTA ALTA, 28922 ALCORC\u00d3N, MADRID, SPAIN"
+    },
+    {
+        "name": "281126",
+        "date": "2026-11-28T17:00:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "JUPITER JUEGOS MADRID NORTE",
+        "address": "2 AV. DEL DR. SEVERO OCHOA MARQUES DE LA VALDAVIA 95, ALCOBENDAS, MD 28100, ES"
+    },
+    {
         "name": "TCG League Challenge Noviembre [Isekai Alcorc\u00f3n]",
         "date": "2026-11-28T17:30:00Z",
         "game": "tcg",
         "type": "Challenge",
         "store": "ISEKAI",
         "address": "4 AV. TORRES BELLAS, ALCORC\u00d3N, MD 28923, ES"
+    },
+    {
+        "name": "Torneo Pokemon TCG Standard",
+        "date": "2026-11-28T17:30:00Z",
+        "game": "tcg",
+        "type": "Friendly Tournament",
+        "store": "METROPOLIS CENTER",
+        "address": "22 C. DE ANDR\u00c9S MELLADO CALLE ANDR\u00c9S MELLADO N\u00ba 22 LOCAL, MADRID, MD 28015, ES"
     },
     {
         "name": "League - KINGDOM WARGAMES",
@@ -1280,14 +1208,6 @@
         "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
     },
     {
-        "name": "Challenge Ludoteca Maldita Diciembre",
-        "date": "2026-12-15T18:30:00Z",
-        "game": "tcg",
-        "type": "Challenge",
-        "store": "LUDOTECA MALDITA",
-        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
-    },
-    {
         "name": "League - ISEKAI",
         "date": "2026-12-16T16:00:00Z",
         "game": "tcg",
@@ -1348,6 +1268,14 @@
         "date": "2026-12-16T17:00:00Z",
         "game": "tcg",
         "type": "League",
+        "store": "LUDOTECA MALDITA",
+        "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
+    },
+    {
+        "name": "Challenge Ludoteca Maldita Diciembre",
+        "date": "2026-12-16T18:30:00Z",
+        "game": "tcg",
+        "type": "Challenge",
         "store": "LUDOTECA MALDITA",
         "address": "4 C. DE VICENTE ESPINEL LOCAL DERECHO, MADRID, MD 28017, ES"
     },
@@ -1534,6 +1462,14 @@
         "type": "Challenge",
         "store": "GLADIUS GAMES",
         "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
+        "name": "CHALLENGE ALCALA COMICS DICIEMBRE",
+        "date": "2026-12-19T10:00:00Z",
+        "game": "tcg",
+        "type": "Challenge",
+        "store": "ALCALA COMICS",
+        "address": "C. RDA. ANCHA, 19, 28805 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
     },
     {
         "name": "Pok\u00e9mon TCG \u00b7 Torneo casual de s\u00e1bado \u2014 El Turno Extra",
@@ -4926,6 +4862,38 @@
         "type": "Friendly Tournament",
         "store": "EL TURNO EXTRA",
         "address": "C. DEL CAPIT\u00c1N ANGOSTO G\u00d3MEZ CASTRILL\u00d3N, 166, 28300 ARANJUEZ, MADRID, SPAIN"
+    },
+    {
+        "name": "League - PADIS",
+        "date": "2027-02-26T16:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "PADIS",
+        "address": "36 C. DE BLASCO DE GARAY, MADRID, MD 28015, ES"
+    },
+    {
+        "name": "League - GLADIUS GAMES",
+        "date": "2027-02-26T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "GLADIUS GAMES",
+        "address": "C. C\u00c1NOVAS DEL CASTILLO, 5, LOCAL 6, 28807 ALCAL\u00c1 DE HENARES, MADRID, SPAIN"
+    },
+    {
+        "name": "League - UNIVERSE TCG - SEGOVIA",
+        "date": "2027-02-26T16:30:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "UNIVERSE TCG - SEGOVIA",
+        "address": "C. CERVANTES, 11, 40001 SEGOVIA, SPAIN"
+    },
+    {
+        "name": "League - ISEKAI",
+        "date": "2027-02-26T17:00:00Z",
+        "game": "tcg",
+        "type": "League",
+        "store": "ISEKAI",
+        "address": "AV. TORRES BELLAS, 4, 28923 ALCORC\u00d3N, MADRID, SPAIN"
     },
     {
         "name": "League Cup Febrero - El Turno Extra",
